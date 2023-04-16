@@ -1,1 +1,36 @@
-My GitHub Page
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Mapa</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        alert("Script carregado!");
+        $(document).ready(function() {
+            console.log("Ready!");
+            // Define a variável para o marcador
+            var marker = $("#my-marker");
+
+            // Esconde o marcador no carregamento da página
+            marker.hide();
+
+            // Adiciona um evento de clique ao botão
+            $("#toggle-marker").click(function() {
+                // Seleciona o objeto iframe
+                var iframe = $("iframe")[0];
+                // Seleciona o documento interno do iframe
+                var iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+                // Seleciona o elemento do mapa
+                var mapElement = iframeDoc.getElementById("map");
+                // Alterna a visibilidade do elemento
+                $(mapElement).toggle();
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Meu Mapa</h1>
+    <p>Aqui está o mapa que criei usando o Folium:</p>
+    <button id="toggle-marker">Mostrar/Esconder Marcador</button>
+    <iframe src="map.html" width="100%" height="500px"></iframe>
+</body>
+</html>
