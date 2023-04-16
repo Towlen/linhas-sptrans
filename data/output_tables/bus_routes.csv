@@ -1,0 +1,2213 @@
+route_id,route_long_name,route_areaid,direction_id,shape_id,route_code,shape_dist_traveled
+1012,Term. Jd. Britania - Jd. Monte Belo,1,0,72757,10,6966.6655
+1012,Term. Jd. Britania - Jd. Monte Belo,1,1,80489,10,6612.5259
+1012,Jd. Rosinha - Term. Jd. Britânia,1,0,80490,21,4060.406
+1015,Term. Jd. Britânia - Chác. Maria Trindade,1,0,78289,10,15113.749
+1016,Cem. Do Horto - Shop. Center Norte,2,0,72283,10,11089.373
+1016,Cem. Do Horto - Shop. Center Norte,2,1,70218,10,10615.992
+1017,Perus - Conexão Vl. Iório,1,0,72355,10,16522.594
+1017,Perus - Conexão Vl. Iório,1,1,72356,10,17383.904
+1018,Vl. Rosa - Metrô Santana,2,0,71029,10,10214.691
+1018,Vl. Rosa - Metrô Santana,2,1,71030,10,10280.435
+1019,Sol Nascente - Term. Pirituba,1,0,78348,10,13519.263
+1019,Sol Nascente - Term. Pirituba,1,1,78349,10,13611.516
+1020,Perus - Conexão Vl. Iório ,1,0,69454,10,17916.311
+1020,Perus - Conexão Vl. Iório ,1,1,80199,10,18806.383
+1021,Cohab Brasilândia - Term. Pirituba,1,0,58785,10,9460.877
+1021,Cohab Brasilândia - Term. Pirituba,1,1,58786,10,9796.9434
+1023,Vl. Pirituba - Cptm Pirituba,1,0,72879,10,10557.109
+1024,Jd. Carombé - Conexão Petrônio Portela,1,0,58765,10,7078.7632
+1024,Jd. Carombé - Conexão Petrônio Portela,1,1,79504,10,6952.0396
+1025,Jd. Carombé - Conexão Petrônio Portela,1,0,58767,10,6882.5166
+1025,Jd. Carombé - Conexão Petrônio Portela,1,1,79505,10,6650.7764
+1026,Vl. Iara - Conexão Petrônio Portela,1,0,60399,10,4957.8066
+1026,Vl. Iara - Conexão Petrônio Portela,1,1,60400,10,4526.1216
+1034,Vl. Iara - Conexão Vl. Iório,1,0,60393,10,3652.175
+1034,Vl. Iara - Conexão Vl. Iório,1,1,60394,10,3527.3762
+1036,Cohab Brasilândia - Conexão Vl. Iório,1,0,72689,10,7072.1074
+1036,Cohab Brasilândia - Conexão Vl. Iório,1,1,72690,10,6780.624
+106A,Metrô Santana - Itaim Bibi,2,0,60966,10,15903.604
+106A,Metrô Santana - Itaim Bibi,2,1,60967,10,13222.136
+107T,Metrô Tucuruvi - Term. Pinheiros,2,0,80406,10,20417.621
+107T,Metrô Tucuruvi - Term. Pinheiros,2,1,68366,10,21018.016
+1156,Vl. Sabrina - Pça. Do Correio,2,0,70848,10,15580.177
+1156,Vl. Sabrina - Pça. Do Correio,2,1,70849,10,14222.506
+1177,Term. A. E. Carvalho - Luz,3,0,71841,10,23719.523
+1177,Term. A. E. Carvalho - Luz,3,1,72493,10,21918.439
+1177,Term. A. E. Carvalho - Luz,3,0,70860,31,23526.662
+1177,Term. A. E. Carvalho - Luz,3,1,70861,31,22849.813
+1178,São Miguel - Pça. Do Correio,3,0,73003,10,32241.852
+1178,São Miguel - Pça. Do Correio,3,1,70161,10,31518.344
+1178,São Miguel - Pça. Do Correio,3,0,73004,31,30243.613
+1178,São Miguel - Pça. Do Correio,3,1,70712,31,29645.291
+1178,Abel Tavares - Pça. Do Correio,3,0,58412,32,25181.84
+1178,Pça. Do Correio - São Miguel,3,0,61711,33,30776.234
+1178,Conj. Hab. Vl. Sílvia - Pça. Do Correio,3,0,73005,42,22255.668
+118C,Jd. Pery Alto - Term. Amaral Gurgel,2,0,80177,10,18929.379
+118C,Jd. Pery Alto - Term. Amaral Gurgel,2,1,80178,10,18861.609
+118Y,Lauzane Paulista - Lapa,2,0,72957,10,15369.816
+118Y,Lauzane Paulista - Lapa,2,1,79096,10,15048.397
+119C,Pq. Edu Chaves - Term. Princ. Isabel,2,0,71438,10,16309.678
+119C,Pq. Edu Chaves - Term. Princ. Isabel,2,1,71439,10,17150.262
+119L,Vl. Sulina - Term. Lapa,1,0,79401,10,24190.531
+119L,Vl. Sulina - Term. Lapa,1,1,79402,10,17535.23
+1206,Pq. Vl. Maria - Correio,2,0,64536,10,27304.025
+121G,Pq. Novo Mundo - Metrô Tucuruvi,2,0,52421,10,20194.771
+128Y,Jd. Pery Alto - Lapa,2,0,72731,10,15313.379
+128Y,Jd. Pery Alto - Lapa,2,1,79097,10,15979.493
+129F,Conexão Petrônio Portela - Metrô Barra Funda,1,0,63902,10,9490.8428
+129F,Conexão Petrônio Portela - Metrô Barra Funda,1,1,63903,10,8055.4824
+129F,Conexão Petrônio Portela - Pça. Do Correio,1,0,72391,41,11688.357
+129F,Conexão Petrônio Portela - Pça. Do Correio,1,1,72392,41,11840.263
+139A,Vl. Iório - Lapa,1,0,61292,10,7023.1553
+139A,Vl. Iório - Lapa,1,1,61293,10,7524.9214
+148L,Cohab Antártica - Lapa,2,0,79980,10,16479.18
+148L,Cohab Antártica - Lapa,2,1,52858,10,15788.159
+148P,Pedra Branca - Metrô Barra Funda,2,0,62166,10,16830.871
+148P,Pedra Branca - Metrô Barra Funda,2,1,68275,10,18267.977
+1701,Jova Rural - Metrô Santana,2,0,61085,10,22267.246
+1701,Jova Rural - Metrô Tucuruvi,2,0,71290,21,6156.751
+1701,Jova Rural - Metrô Tucuruvi,2,1,71291,21,6763.6675
+1701,Jova Rural - Metrô Tucuruvi,2,0,71825,22,6322.627
+1701,Jova Rural - Metrô Tucuruvi,2,1,71826,22,6903.1831
+1702,Jova Rural - Tietê,2,0,61553,10,16033.519
+1702,Jova Rural - Tietê,2,1,61554,10,15048.64
+1703,Jd. Fontális - Shop. Center Norte,2,0,78842,10,14867.411
+1703,Jd. Fontális - Shop. Center Norte,2,1,78843,10,14321.564
+1705,Jd. São João - Metrô Tucuruvi,2,0,72914,10,8535.1758
+1705,Jd. São João - Metrô Tucuruvi,2,1,72290,10,8136.5635
+1705,Cem. Pq. Da Cantareira - Metrô Tucuruvi,2,0,71838,51,7300.5786
+1705,Cem. Pq. Da Cantareira - Metrô Tucuruvi,2,1,71839,51,9050.4961
+1709,Jd. Joana D'arc - Metrô Tucuruvi,2,0,72915,10,8707.2393
+1709,Jd. Joana D'arc - Metrô Tucuruvi,2,1,69504,10,8870.2861
+1709,Jd. Joamar - Metrô Tucuruvi,2,0,72916,21,5783.998
+1720,Jd. Guancã - Cantareira,2,0,72291,10,15929.162
+1720,Jd. Guancã - Cantareira,2,1,72292,10,16544.982
+1720,Vila Sabrina - Metrô Tucuruvi,2,0,52936,21,9144.1436
+1721,Vl. Sabrina - Metrô Carandiru,2,0,80423,10,17711.209
+1722,Jd. Marina - Metrô Tucuruvi,2,0,65279,10,16249.47
+1722,Jd. Marina - Metrô Tucuruvi,2,1,69502,10,17364.363
+1726,Cem. Pq. Dos Pinheiros - Metrô Santana,2,0,52429,10,13374.371
+1726,Cem. Pq. Dos Pinheiros - Metrô Santana,2,1,72370,10,13271.974
+172J,Jd. Brasil - Tatuapé,2,0,79581,10,13638.227
+172J,Jd. Brasil - Tatuapé,2,1,70928,10,13531.787
+172K,Jd. Tremembé - Metrô Tatuapé,2,0,63523,10,20579.422
+172K,Jd. Tremembé - Metrô Tatuapé,2,1,59869,10,18923.898
+172N,Shop. Center Norte - Metrô Belém,2,0,60354,10,17045.996
+172N,Shop. Center Norte - Metrô Belém,2,1,71105,10,14601.075
+172P,Vl. Zilda - Metrô Belém,2,0,53714,10,21074.762
+172P,Vl. Zilda - Metrô Belém,2,1,79831,10,21417.25
+172R,Jaçanã - Metrô Belém,2,0,72285,10,14055.649
+172R,Jaçanã - Metrô Belém,2,1,63503,10,13967.647
+172U,Cem. Pq. Dos Pinheiros - Mooca,2,0,72917,10,24839.416
+172U,Cem. Pq. Dos Pinheiros - Mooca,2,1,72918,10,24697.59
+172X,Pq. Novo Mundo - Metrô Tatuapé,2,0,72368,10,7867.0493
+172X,Pq. Novo Mundo - Metrô Tatuapé,2,1,72369,10,9810.7227
+172Y,Vl. Constança - Metrô Belém,2,0,72287,10,12180.891
+172Y,Vl. Constança - Metrô Belém,2,1,72288,10,12111.482
+1730,Center Norte - Metrô Santana,2,0,70938,10,3668.75
+1730,Center Norte - Metrô Santana,2,1,70682,10,8004.9331
+1732,Vl. Sabrina - Term. Amaral Gurgel,2,0,80568,10,18568.395
+1732,Vl. Sabrina - Term. Amaral Gurgel,2,1,72282,10,18246.92
+1738,Vl. Constança - Metrô Santana,2,0,56833,10,10885.276
+1738,Vl. Constança - Metrô Santana,2,1,56835,10,9995.498
+1741,Vl. Dionisia - Metrô Santana,2,0,80103,10,9358.6963
+1741,Vl. Dionisia - Metrô Santana,2,1,71674,10,7750.2012
+1742,Jd. Antártica - Metrô Santana,2,0,80599,10,9971.1074
+1742,Jd. Antártica - Metrô Santana,2,1,69928,10,10081.569
+1743,Jd. Pery Alto - Shop. D,2,0,63641,10,11454.713
+1743,Jd. Pery Alto - Shop. D,2,1,71663,10,12130.848
+1744,Lauzane Paulista - Metrô Santana,2,0,80105,10,8162.8159
+1744,Lauzane Paulista - Metrô Santana,2,1,69947,10,7320.916
+1745,Vl.nova Cachoeirinha - Shop. Center Norte,2,0,71972,10,11952.81
+1745,Vl.nova Cachoeirinha - Shop. Center Norte,2,1,71973,10,11078.418
+174M,Vl. Sabrina - Museu Do Ipiranga,2,0,78725,10,24072.295
+174M,Vl. Sabrina - Museu Do Ipiranga,2,1,78726,10,21604.244
+1756,Pedra Branca - Metrô Santana,2,0,80106,10,9970.1318
+1756,Pedra Branca - Metrô Santana,2,1,64709,10,9844.9805
+1757,Conj. Dos Bancários - Metrô Santana ,2,0,56298,10,14939.263
+1758,Jd. Antártica - Metrô Santana,2,0,80107,10,10535.285
+1758,Jd. Antártica - Metrô Santana,2,1,53039,10,10126.257
+1759,Jd. Pery - Metrô Santana,2,0,80108,10,8969.8984
+1759,Jd. Pery - Metrô Santana,2,1,69952,10,8690.8574
+175P,Metrô Santana - Ana Rosa,2,0,60972,10,19878.084
+175P,Metrô Santana - Ana Rosa,2,1,71352,10,22041.391
+175T,Metrô Santana - Metrô Jabaquara,2,0,70489,10,25274.951
+175T,Metrô Santana - Metrô Jabaquara,2,1,61848,10,22607.104
+1760,Cohab Antártica - Shop. Center Norte,2,0,69587,10,13769.915
+1760,Cohab Antártica - Shop. Center Norte,2,1,79976,10,13627.64
+1764,Jd. Corisco - Metrô Santana,2,0,53087,10,13607.704
+1764,Jd. Corisco - Metrô Santana,2,1,71615,10,14377.332
+1765,Jd. Cabuçu - Metrô Tucuruvi,2,0,72839,10,9049.0449
+1765,Jd. Cabuçu - Metrô Tucuruvi,2,1,72840,10,9441.9648
+1767,Pq. Edu Chaves - Metrô Tucuruvi,2,0,79832,10,8511.6455
+1767,Pq. Edu Chaves - Metrô Tucuruvi,2,1,72237,10,7464.4722
+1771,Jd. Fontális - Metrô Santana,2,0,69953,10,12520.166
+1771,Jd. Fontális - Metrô Santana,2,1,69954,10,12617.465
+1772,Jd. Filhos Da Terra - Metrô Tucuruvi,2,0,71957,10,9313.3828
+1772,Jd. Filhos Da Terra - Metrô Tucuruvi,2,1,71960,10,9114.1357
+1773,Cem. Pq. Dos Pinheiros - Mandaqui,2,0,53419,10,13681.797
+1773,Cem. Pq. Dos Pinheiros - Mandaqui,2,1,53420,10,14289.533
+1775,Vl. Albertina - Shop. Center Norte,2,0,70219,10,13674.439
+1775,Vl. Albertina - Shop. Center Norte,2,1,69501,10,13676.606
+1778,Jd. Cabuçu - Metrô Santana,2,0,80418,10,27355.293
+177H,Metrô Santana - Cid. Universitária,2,0,80436,10,25442.969
+177H,Metrô Santana - Cid. Universitária,2,1,80100,10,26502.014
+177Y,Metrô Barra Funda - Pinheiros,2,0,63736,10,7325.9839
+177Y,Metrô Barra Funda - Pinheiros,2,1,63737,10,8322.3008
+1780,Jd. Hebron - Metrô Parada Inglesa,2,0,79620,10,6928.4976
+1780,Jd. Hebron - Metrô Parada Inglesa,2,1,79621,10,6462.334
+1782,Vl. Nova Galvão - Metrô Santana,2,0,64672,10,22297.174
+1783,Cachoeira - Metrô Santana,2,0,72486,10,15666.97
+1783,Cachoeira - Metrô Santana,2,1,72487,10,15631.119
+1783,Jd. Labitary - Metrô Santana,2,0,79121,22,13705.18
+1785,Vl. Aurora - Metrô Santana,2,0,72323,10,5007.7446
+1785,Vl. Aurora - Metrô Santana,2,1,72324,10,5036.7476
+1786,Vl. Albertina - Metrô Santana,2,0,63717,10,9088.8008
+1786,Vl. Albertina - Metrô Santana,2,1,63718,10,9225.3496
+1787,Vl. Marieta - Metrô Santana,2,0,53546,10,7476.5942
+1787,Vl. Marieta - Metrô Santana,2,1,53547,10,7955.6777
+1788,Jd. Fontális - Metrô Santana,2,0,79427,10,14022.009
+1788,Jd. Fontális - Metrô Santana,2,1,73217,10,13258.606
+1788,Jd. Campo Limpo - Metrô Santana,2,0,54657,51,12702.98
+1788,Jd. Campo Limpo - Metrô Santana,2,1,54658,51,12897.243
+178A,Metrô Santana - Lapa,2,0,80109,10,14795.412
+178A,Metrô Santana - Lapa,2,1,80110,10,14982.431
+178L,Lauzane Paulista - Hosp. Das Clínicas,2,0,80573,10,19610.85
+178L,Lauzane Paulista - Hosp. Das Clínicas,2,1,53424,10,17323.094
+178T,Metrô Santana - Ceasa,2,0,60983,10,24835.904
+178T,Metrô Santana - Ceasa,2,1,71692,10,22165.703
+178Y,Vl. Amélia - Metrô Jd. São Paulo,2,0,63375,10,7024.7715
+178Y,Vl. Amélia - Metrô Jd. São Paulo,2,1,72294,10,6377.7314
+178Y,Conj. Dos Bancários - Metrô Jd. São Paulo,2,0,68778,21,5056.1221
+178Y,Conj. Dos Bancários - Metrô Jd. São Paulo,2,1,68779,21,4421.8345
+179X,Jd. Fontális - Metrô Barra Funda,2,0,71031,10,23133.572
+179X,Jd. Fontális - Metrô Barra Funda,2,1,71032,10,25068.971
+1896,Jaraguá - Pça. Ramos De Azevedo,1,0,70663,10,26749.025
+1896,Jaraguá - Pça. Ramos De Azevedo,1,1,70664,10,27998.346
+189L,Conexão Vl. Iório - Lapa,1,0,63527,10,3891.9453
+189L,Conexão Vl. Iório - Lapa,1,1,72337,10,5257.9673
+199D,Conexão Vl. Iório - Term. Pinheiros,1,0,73035,10,14953.924
+199D,Conexão Vl. Iório - Term. Pinheiros,1,1,73036,10,16161.838
+2002,Term. Pq. D. Pedro Ii - Term. Bandeira,4,0,69240,10,7133.9541
+2004,Jd. Nsa. Sra. Do Caminho - Cptm Guaianazes,3,0,72903,10,5572.542
+2004,Jd. Nsa. Sra. Do Caminho - Cptm Guaianazes,3,1,72904,10,5195.4443
+2005,Jd. Romano - São Miguel,3,0,60783,10,16637.033
+2006,Cid. Kemel I - Cptm Itaim Paulista,3,0,70207,10,7288.5908
+2006,Cid. Kemel I - Cptm Itaim Paulista,3,1,70212,10,6658.5688
+2007,Cid. Kemel Ii - Cptm Itaim Paulista,3,0,61824,10,7885.1138
+2007,Cid. Kemel Ii - Cptm Itaim Paulista,3,1,61825,10,7252.3813
+2008,Jd. Nsa. Sra. Do Caminho - Cptm Itaim Paulista,3,0,52774,10,3673.9033
+2008,Jd. Nsa. Sra. Do Caminho - Cptm Itaim Paulista,3,1,70208,10,3965.3293
+2009,Jd. Robru - Cptm Guaianazes,3,0,64506,10,6383.0083
+2009,Jd. Robru - Cptm Guaianazes,3,1,79110,10,6933.1006
+2010,Pq. Edu Chaves - Shop. D,2,0,71870,10,12587.747
+2010,Pq. Edu Chaves - Shop. D,2,1,71871,10,13037.227
+2011,Vl. Sabrina - Metrô Santana,2,0,80111,10,12879.258
+2011,Vl. Sabrina - Metrô Santana,2,1,80112,10,13552.728
+2012,Vl. Medeiros - Shop.d,2,0,69290,10,19264.473
+2013,Cohab Antártica - Cachoeirinha,2,0,70111,10,13162.111
+2013,Cohab Antártica - Cachoeirinha,2,1,79977,10,11438.111
+2014,Jd. Pery Alto - Metrô Barra Funda,2,0,71033,10,14970.799
+2014,Jd. Pery Alto - Metrô Barra Funda,2,1,71034,10,16272.017
+2016,Jd. Das Oliveiras - São Miguel,3,0,70197,10,9204.0576
+2016,Jd. Das Oliveiras - São Miguel,3,1,59109,10,9322.1182
+2017,Jd. Robru - São Miguel,3,0,69021,10,14056.529
+2018,Jd. Campos - São Miguel,3,0,54224,10,12328.821
+2019,Pq. Paineiras - Shop. Penha,3,0,72024,10,11848.751
+2019,Pq. Paineiras - Shop. Penha,3,1,72026,10,10295.206
+2020,Horto Florestal - Metrô Tucuruvi,2,0,68839,10,14528.406
+2021,Jd. Bandeirantes - Cptm Guaianazes,3,0,56231,10,4750.7373
+2021,Jd. Bandeirantes - Cptm Guaianazes,3,1,56232,10,4423.1714
+2023,Cachoeira - Metrô Tucuruvi,2,0,72488,10,14205.703
+2023,Cachoeira - Metrô Tucuruvi,2,1,72489,10,12674.107
+2023,Jd. Labitary - Metrô Tucuruvi,2,0,72777,41,11632.031
+2023,Jd. Labitary - Metrô Tucuruvi,2,1,72778,41,10038.394
+2024,Dib - Cachoeira,2,0,72505,10,9208.7871
+2025,Vl. Nova Galvão - Santana,2,0,64673,10,10652.076
+2025,Vl. Nova Galvão - Santana,2,1,71683,10,10571.836
+2026,Jaçanã - Pq. Novo Mundo,2,0,79219,10,11240.435
+2026,Jaçanã - Pq. Novo Mundo,2,1,79836,10,12201.39
+2028,Vl. Ayrosa - Metrô Tucuruvi,2,0,65251,10,11925.9
+2028,Vl. Ayrosa - Metrô Tucuruvi,2,1,78757,10,12104.909
+2029,Jd. Fontális - Metrô Tucuruvi,2,0,72913,10,8808.8711
+2029,Jd. Fontális - Metrô Tucuruvi,2,1,71873,10,8097.9131
+2030,Lauzane Paulista - Metrô Santana,2,0,65209,10,14359.799
+2031,Cid. Kemel Ii - Term. A. E. Carvalho,3,0,72382,10,18451.77
+2031,Cid. Kemel Ii - Term. A. E. Carvalho,3,1,72383,10,16482.865
+2032,Jd. Brasil - Metrô Carandiru,2,0,80425,10,17180.816
+2033,Vl. Sabrina - Shop. D,2,0,80424,10,34661.883
+2058,Term. São Miguel - Cptm Guaianazes,3,0,65011,10,11590.626
+2058,Term. São Miguel - Cptm Guaianazes,3,1,65012,10,10868.221
+2059,São Miguel - Cptm Guaianazes,3,0,52554,10,9487.9268
+2059,São Miguel - Cptm Guaianazes,3,1,70127,10,9410.8105
+2060,Term. A. E. Carvalho - Metrô Artur Alvim,3,0,79754,10,20475.604
+2076,Jd. Das Oliveiras - Term. Penha,3,0,69198,10,28607.41
+2076,Jd. Das Oliveiras - Term. Penha,3,1,72695,10,30297.791
+2079,Jd. Nélia - Cptm Itaim Paulista,3,0,64723,10,9898.8037
+2080,Cid. Kemel - Term. Aricanduva,3,0,55813,10,25669.371
+2080,Cid. Kemel - Term. Aricanduva,3,1,65356,10,26133.043
+2088,Conj. Encosta Norte - Term. A. E. Carvalho,3,0,59120,10,19562.838
+2088,Conj. Encosta Norte - Term. A. E. Carvalho,3,1,70134,10,17735.195
+208M,Metrô Santana - Term. Pinheiros,2,0,65000,10,15022.846
+208M,Metrô Santana - Term. Pinheiros,2,1,68276,10,15815.784
+208V,Term. A. E. Carvalho - Term. Pq. D. Pedro Ii,3,0,70114,10,19062.777
+208V,Term. A. E. Carvalho - Term. Pq. D. Pedro Ii,3,1,63046,10,18234.453
+209P,Cachoeirinha - Term. Pinheiros,1,0,59036,1,17304.428
+209P,Cachoeirinha - Term. Pinheiros,1,1,79591,1,22833.451
+209P,Cachoeirinha - Term. Pinheiros,2,0,59026,10,17304.428
+209P,Cachoeirinha - Term. Pinheiros,2,1,79592,10,22828.902
+2100,Term. Vl. Carrão - Pça. Da Sé,4,0,59799,10,15264.928
+2100,Term. Vl. Carrão - Pça. Da Sé,4,1,80597,10,15578.583
+2101,Pça. Silvio Romero - Pça. Da Sé,4,0,59802,10,16774.846
+2101,Pça. Silvio Romero - Term. Vl. Prudente,4,0,80120,41,16737.465
+2104,Metrô Santana - Term. Pq. D. Pedro Ii,2,0,71689,10,5705.7378
+2104,Metrô Santana - Term. Pq. D. Pedro Ii,2,1,71690,10,7700.8408
+2105,Jd. Filhos Da Terra - Lgo. Da Concórdia,2,0,56061,10,18388.434
+2105,Jd. Filhos Da Terra - Lgo. Da Concórdia,2,1,71693,10,18065.307
+211L,Mandaqui - Lapa,2,0,71150,10,15547.536
+211L,Mandaqui - Lapa,2,1,71149,10,14517.0
+211V,Vl. Paranaguá - Penha,3,0,64026,10,31626.043
+2123,Vl. Medeiros - Liberdade,2,0,64710,10,13066.783
+2123,Vl. Medeiros - Liberdade,2,1,68637,10,14782.641
+2127,Pq. Edu Chaves - Liberdade,2,0,61405,10,18199.299
+2127,Pq. Edu Chaves - Liberdade,2,1,68638,10,17207.102
+213E,Pq. Edu Chaves - Metrô Belém,2,0,64597,10,16021.149
+213E,Pq. Edu Chaves - Metrô Belém,2,1,73025,10,14599.605
+2161,Pq. Edu Chaves - Pça. Do Correio,2,0,78846,10,17352.791
+2161,Pq. Edu Chaves - Pça. Do Correio,2,1,78847,10,17718.189
+2175,Pq. Edu Chaves - Term. Pq. D. Pedro Ii,2,0,64021,10,16422.824
+2175,Pq. Edu Chaves - Term. Pq. D. Pedro Ii,2,1,64174,10,15866.066
+2182,Jd. Brasil - Pça. Do Correio,2,0,72244,10,14401.02
+2182,Jd. Brasil - Pça. Do Correio,2,1,70858,10,16197.595
+2201,Div. De Ferraz - Cptm Guaianazes,3,0,52666,10,3238.8665
+2201,Div. De Ferraz - Cptm Guaianazes,3,1,52667,10,3007.0886
+2202,Jd. Das Oliveiras - Cptm Guaianazes,3,0,72738,10,11087.427
+2202,Jd. Das Oliveiras - Cptm Guaianazes,3,1,72739,10,10091.464
+2203,Burgo Paulista - Shop. Penha,3,0,79681,10,13077.205
+2203,Burgo Paulista - Shop. Penha,3,1,78396,10,12915.045
+2290,Term. São Mateus - Term. Pq. D. Pedro Ii,4,0,80750,10,25893.547
+2290,Term. São Mateus - Term. Pq. D. Pedro Ii,4,1,69526,10,21784.869
+2290,São Mateus - Term. Pq. D. Pedro Ii,4,0,69529,21,20826.66
+233A,Jd. Helena - Term. Vl. Carrão,3,0,79868,10,21692.338
+233A,Jd. Helena - Term. Vl. Carrão,3,1,79869,10,21884.32
+233C,Term. A. E. Carvalho - Ceret,3,0,59558,10,19243.41
+233C,Term. A. E. Carvalho - Ceret,3,1,59559,10,18870.447
+2363,Jd. Danfer - Term. Pq. D. Pedro Ii,3,0,70115,10,17188.291
+2363,Jd. Danfer - Term. Pq. D. Pedro Ii,3,1,57360,10,17139.293
+2435,Jd. Coimbra - Term. Aricanduva,3,0,70769,10,10847.583
+2435,Jd. Coimbra - Term. Aricanduva,3,1,70770,10,10008.374
+2451,Vl. São Francisco - Term. Aricanduva,3,0,58696,10,10620.053
+2451,Vl. São Francisco - Term. Aricanduva,3,1,57114,10,9170.5537
+2522,Jd. Sto. Antônio - Metrô Itaquera,3,0,80266,10,9506.1934
+2522,Jd. Sto. Antônio - Metrô Itaquera,3,1,70484,10,9419.418
+2523,Vl. Progresso - Term. A. E. Carvalho,3,0,71844,10,8142.7549
+2523,Vl. Progresso - Term. A. E. Carvalho,3,1,71845,10,9232.3252
+253F,Term. A. E. Carvalho - Term. São Mateus,3,0,68462,10,24892.5
+253F,Term. A. E. Carvalho - Term. São Mateus,3,1,78493,10,26337.086
+2551,Term. A. E. Carvalho - Term. Pq. D. Pedro Ii,3,0,70248,10,23991.107
+2551,Term. A. E. Carvalho - Term. Pq. D. Pedro Ii,3,1,70249,10,25061.541
+2552,Vl. Mara - Term. Pq. D. Pedro Ii,3,0,70117,10,27436.281
+2552,Vl. Mara - Term. Pq. D. Pedro Ii,3,1,70125,10,27493.682
+2552,Jd. São Martinho - Term. Pq. D. Pedro Ii,3,0,71846,41,28035.348
+2552,Jd. São Martinho - Term. Pq. D. Pedro Ii,3,1,71847,41,27750.211
+2582,Vl. Nova Curuçá - Term. Pq. D. Pedro Ii,3,0,70118,10,30855.607
+2582,Vl. Nova Curuçá - Term. Pq. D. Pedro Ii,3,1,70163,10,30905.605
+2582,Cid. Pedro José Nunes - Term. Pq. D. Pedro Ii,3,0,70119,21,25250.303
+2583,Vl. Curuçá - Term. Aricanduva,3,0,70139,10,19906.148
+2583,Vl. Curuçá - Term. Aricanduva,3,1,63787,10,19075.627
+2590,União De Vl. Nova - Pq. D. Pedro Ii,5,0,70093,10,25220.006
+2590,União De Vl. Nova - Pq. D. Pedro Ii,5,1,70094,10,26545.697
+2626,Jd. Nazaré - Term. Pq. D. Pedro Ii,3,0,70120,10,33068.406
+2626,Jd. Nazaré - Term. Pq. D. Pedro Ii,3,1,62616,10,31651.523
+263C,Jd. Helena - Cohab Ii,3,0,70181,10,22018.451
+263C,Jd. Helena - Cohab Ii,3,1,79109,10,21291.424
+263J,Penha - Conj. José Bonifácio,3,0,71599,10,20679.559
+263J,Penha - Conj. José Bonifácio,3,1,71600,10,21086.814
+2666,Jd. Camargo Velho - Term. Pq. D. Pedro Ii,3,0,71848,10,31432.668
+2666,Jd. Camargo Velho - Term. Pq. D. Pedro Ii,3,1,71849,10,31494.693
+2666,Jd. Camargo Velho - Term. Pq. D. Pedro Ii,3,0,70122,21,31787.906
+2678,Oliveirinha - Term. Pq. D. Pedro Ii,3,0,73074,10,32834.426
+2678,Oliveirinha - Term. Pq. D. Pedro Ii,3,1,73075,10,32187.848
+2678,Jd. Camargo Novo - Term. Pq. D. Pedro Ii,3,0,73076,41,31589.367
+2702,Vl. Americana - Metrô Artur Alvim,3,0,73065,10,9751.8105
+2702,Vl. Americana - Metrô Artur Alvim,3,1,73066,10,9058.0566
+2702,Jd. Pedro José Nunes - Metrô Artur Alvim,3,0,52716,21,8490.7461
+2703,Jd. Etelvina - Metrô Itaquera,3,0,78721,10,8098.542
+2703,Jd. Etelvina - Metrô Itaquera,3,1,78722,10,8981.042
+2703,Jd. Etelvina - Metrô Itaquera,3,0,71469,21,6915.5439
+2703,Jd. Gianetti - Metrô Itaquera,3,0,71472,22,5474.5591
+2704,Jd. Robru - Metrô Itaquera,3,0,70505,10,10582.784
+2704,Jd. Robru - Metrô Itaquera,3,1,79104,10,11470.618
+2705,Jd. Fanganielo - Metrô Itaquera,3,0,80276,10,13429.988
+2705,Jd. Fanganielo - Metrô Itaquera,3,1,70499,10,13231.312
+2707,Chabilândia - Metrô Itaquera,3,0,80277,10,13401.261
+2707,Chabilândia - Metrô Itaquera,3,1,70501,10,12487.604
+2707,Chabilândia - Metrô Itaquera,3,0,80281,31,12192.127
+2708,Jd. Lajeado - Metrô Itaquera,3,0,80278,10,10081.873
+2708,Jd. Lajeado - Metrô Itaquera,3,1,70504,10,11409.687
+2709,Metrô Patriarca - Vl. União,4,0,72803,10,9101.8232
+2709,Metrô Patriarca - Vl. União,4,0,59766,31,8103.3208
+2710,Metrô Patriarca - Burgo Paulista,4,0,60535,10,9909.3857
+2710,Metrô Patriarca - Term. A. E. Carvalho,4,0,63062,31,9292.9287
+2711,Ponte Rasa - Metrô Patriarca,4,0,80221,10,4899.9727
+2711,Ponte Rasa - Metrô Patriarca,4,1,80222,10,5305.0015
+2712,Jd. São Nicolau - Shop. Metrô Itaquera,4,0,52736,10,12393.957
+2713,Metrô Penha - Chác. Bela Vista,3,0,79016,10,7897.8315
+2714,Metrô Vl. Matilde - Vl. Rui Barbosa,4,0,70203,10,11660.903
+2715,Vl. Sílvia - Metrô Patriarca,4,0,71278,10,6549.0649
+2715,Vl. Sílvia - Metrô Patriarca,4,1,71894,10,7154.2051
+2716,Chác. Cruz. Do Sul - Metrô Penha,4,0,78998,10,6226.7954
+2716,Chác. Cruz. Do Sul - Metrô Penha,4,1,78999,10,5726.1357
+2717,Metrô Guilhermina/esperança - Cangaíba,4,0,70590,10,14938.029
+2718,Vl. Sílvia - Metrô Penha,4,0,79000,10,10243.317
+2718,Vl. Sílvia - Metrô Penha,4,1,79603,10,9938.3145
+2719,Ermelino Matarazzo - Metrô Vl. Matilde,4,0,71043,10,9616.4863
+2719,Ermelino Matarazzo - Metrô Vl. Matilde,4,1,71044,10,9722.04
+271A,Term. Penha - Metrô Santana,2,0,63937,10,14012.407
+271A,Term. Penha - Metrô Santana,2,1,63938,10,19060.037
+271A,Cangaíba - Metrô Santana,2,0,71142,51,22317.357
+271A,Cangaíba - Metrô Santana,2,1,71145,51,21384.316
+271C,Pq. Vl. Maria - Term. Princ. Isabel,2,0,70954,10,16653.332
+271C,Pq. Vl. Maria - Term. Princ. Isabel,2,1,70955,10,17800.436
+271F,Center Norte - Metrô Belém     ,2,0,60361,10,10075.564
+271F,Center Norte - Metrô Belém     ,2,1,60362,10,8740.4121
+271M,Pq. Novo Mundo - Metrô Santana,2,0,63920,10,13699.285
+271M,Pq. Novo Mundo - Metrô Santana,2,1,53805,10,14137.527
+271P,Cangaíba - Pça Do Correio,2,0,79860,10,18547.879
+271P,Cangaíba - Pça Do Correio,2,1,79861,10,19293.037
+2720,Jd. Belém - Metrô Guilhermina/esperança,4,0,69847,10,11203.714
+2720,Jd. Belém - Metrô Guilhermina/esperança,4,1,61714,10,9655.6963
+2720,Jd. Belém - Metrô Guilhermina/esperança,4,0,70175,31,12182.157
+2720,Jd. Belém - Metrô Guilhermina/esperança,4,1,70176,31,11792.44
+2721,Jd. Nazaré - Metrô Itaquera,4,0,79931,10,18698.73
+2721,Jd. Nazaré - Metrô Itaquera,4,1,79932,10,18719.803
+2722,Jd. Veronia - Metrô Guilhermina/esperança,4,0,70771,10,11135.1
+2722,Jd. Veronia - Metrô Guilhermina/esperança,4,1,52935,10,10355.874
+2722,Metrô Guilhermina/esperança - Jd. Verônia,4,0,70772,31,17790.109
+2723,União De Vl. Nova - Metrô Itaquera,4,0,79933,10,13305.786
+2723,União De Vl. Nova - Metrô Itaquera,4,1,79934,10,13925.999
+2724,Metrô Artur Alvim - Conj. Araucária,4,0,54038,10,7246.3066
+2725,Metrô Artur Alvim - Jd. São Carlos,4,0,80083,10,14070.136
+2726,Limoeiro - Metrô Penha,3,0,78997,10,13577.849
+2726,Limoeiro - Metrô Penha,3,1,63061,10,13590.676
+2727,Metrô Artur Alvim - Conj. A. E. Carvalho,4,0,70789,10,9360.9863
+2728,Jd. Do Castelo - Metrô Penha,4,0,79002,10,8033.354
+2728,Jd. Do Castelo - Metrô Penha,4,1,71046,10,7876.9478
+272N,Pq. Novo Mundo - Pq. D. Pedro Ii,2,0,72936,10,33308.148
+2730,Vl. Jacui - Metrô Artur Alvim,3,0,70843,10,9489.0684
+2730,Vl. Jacui - Metrô Artur Alvim,3,1,70199,10,9806.4893
+2731,Vl. Progresso - Metrô Itaquera,3,0,80282,10,8128.9897
+2731,Vl. Progresso - Metrô Itaquera,3,1,70581,10,8872.7813
+2732,Metrô Artur Alvim - Vl. Regina,4,0,55383,10,9193.2363
+2733,Pq. Guarani - Metrô Itaquera,4,0,80262,10,8434.1338
+2733,Pq. Guarani - Metrô Itaquera,4,1,70468,10,8761.8613
+2734,Jd. Campos - Metrô Itaquera,3,0,70492,10,11061.118
+2734,Jd. Campos - Metrô Itaquera,3,1,70493,10,11308.547
+2735,Jd. Keralux - Metrô Penha,4,0,79004,10,12235.156
+2735,Jd. Keralux - Metrô Penha,4,1,79005,10,13135.783
+2735,Jd. São Francisco - Metrô Penha,4,0,79006,21,7909.8237
+2735,Jd. São Francisco - Metrô Penha,4,1,79007,21,9397.5771
+273D,Pq. D. João Nery - Metrô Artur Alvim,3,0,57224,10,18558.072
+273D,Pq. D. João Nery - Metrô Artur Alvim,3,1,57225,10,17369.686
+273F,Vl. Mara - Metrô Itaquera,3,0,80272,10,14102.085
+273F,Vl. Mara - Metrô Itaquera,3,1,71480,10,14005.174
+273G,Jd. Helena - Metrô Artur Alvim,3,0,65210,10,14472.326
+273G,Jd. Helena - Metrô Artur Alvim,3,1,70130,10,13479.832
+273G,Jd. Noêmia - Metrô Artur Alvim,3,0,72462,21,13291.262
+273J,Jd. Romano - Metrô Penha,3,0,79019,10,25129.291
+273J,Jd. Romano - Metrô Penha,3,1,72346,10,23943.051
+273L,Cptm José Bonifácio - Metrô Artur Alvim,3,0,78491,10,15572.237
+273L,Cptm José Bonifácio - Metrô Artur Alvim,3,1,78492,10,15370.17
+273N,Cid. Kemel Ii - Metrô Vl. Matilde,3,0,78489,10,26811.756
+273N,Cid. Kemel Ii - Metrô Vl. Matilde,3,1,70187,10,25081.195
+273N,Itaim Paulista - Metrô Vl. Matilde,3,0,78490,41,20695.938
+273R,Jd. Robru - Metrô Artur Alvim,3,0,45866,10,14216.626
+273R,Jd. Robru - Metrô Artur Alvim,3,1,45867,10,14145.108
+273R,Jd. Robru - Metrô Itaquera,3,0,80274,42,12234.629
+273V,Parada Xv De Novembro - Metrô Penha,3,0,79020,10,18068.777
+273V,Parada Xv De Novembro - Metrô Penha,3,1,60833,10,18195.828
+273X,Jd. Das Oliveiras - Metrô Artur Alvim,3,0,52642,10,19592.846
+273X,Jd. Das Oliveiras - Metrô Artur Alvim,3,1,58619,10,18905.977
+2740,Pedra Branca - Metrô Santana,2,0,62234,10,28314.59
+274P,Penha - Metrô Vl. Mariana,3,0,72882,10,21574.145
+274P,Penha - Metrô Vl. Mariana,3,1,72883,10,17705.721
+2755,Guaianazes - Metrô Penha,3,0,79022,10,28088.922
+2755,Guaianazes - Metrô Penha,3,1,78650,10,26887.207
+2756,Guaianazes - Metrô Patriarca,3,0,80223,10,22775.211
+2756,Guaianazes - Metrô Patriarca,3,1,80224,10,23670.471
+2762,Ermelino Matarazzo - Metrô Tatuapé,3,0,69196,10,18514.979
+2762,Ermelino Matarazzo - Metrô Tatuapé,3,1,70167,10,19224.178
+2765,Vl. Cisper - Metrô Tatuapé,3,0,52617,10,13682.884
+2765,Vl. Cisper - Metrô Tatuapé,3,1,52618,10,13490.048
+2766,Jd. Camargo Velho - Metrô Itaquera,3,0,80273,10,17508.473
+2766,Jd. Camargo Velho - Metrô Itaquera,3,1,70463,10,17796.578
+2766,Jd. Indaiá - Metrô Itaquera,3,0,80275,41,16395.16
+2767,Cid. Pedro José Nunes - Metrô Tatuapé,3,0,70168,10,18501.449
+2767,Cid. Pedro José Nunes - Metrô Tatuapé,3,1,56895,10,17711.369
+2769,Jd. Romano - Metrô Tatuapé,3,0,71850,10,26476.494
+2769,Jd. Romano - Metrô Tatuapé,3,1,71851,10,26190.688
+2770,Cptm José Bonifácio - Metrô Vl. Matilde,3,0,79111,10,24340.523
+2770,Cptm José Bonifácio - Metrô Vl. Matilde,3,1,78622,10,24763.232
+2772,Jd. Nazaré - Metrô Penha,3,0,79021,10,24708.977
+2772,Jd. Nazaré - Metrô Penha,3,1,78651,10,22913.455
+2780,Jd. Camargo Novo - Metrô Itaquera,3,0,80267,10,18174.01
+2780,Jd. Camargo Novo - Metrô Itaquera,3,1,72350,10,17504.912
+278A,Metrô Santana - Penha  ,2,0,71770,10,18465.088
+278A,Metrô Santana - Penha  ,2,1,71771,10,19920.982
+297A,Vl. Santa Maria - Metrô Barra Funda,2,0,72825,10,6871.5771
+297A,Vl. Santa Maria - Metrô Barra Funda,2,1,72826,10,6233.8477
+3001,Itaim Paulista - Term. São Miguel,3,0,65189,10,8660.0869
+3001,Itaim Paulista - Term. São Miguel,3,1,65190,10,9012.2822
+3002,Jd. Mabel - São Miguel,3,0,59110,10,10281.147
+3002,Jd. Mabel - São Miguel,3,1,70196,10,10875.474
+3003,Jd. São Martinho - Cptm Vl. Mara/itaim,3,0,78670,10,10505.321
+3004,Jd. São Martinho - Cptm Vl. Mara/itaim,3,0,72729,10,10477.087
+3006,Jd. Fanganielo - Cptm Guaianazes,3,0,62546,10,3590.3015
+3006,Jd. Fanganielo - Cptm Guaianazes,3,1,62547,10,2990.1326
+3006,Etec Guaianazes - Cptm Guaianazes,3,0,70825,21,2138.415
+3008,Jd. Miriam - Cptm Itaim Paulista,3,0,70184,10,4118.9922
+3008,Jd. Miriam - Cptm Itaim Paulista,3,1,64570,10,4720.9829
+3009,Itaim Paulista - Cptm Itaim Paulista,3,0,78671,10,3427.9573
+3009,Itaim Paulista - Cptm Itaim Paulista,3,1,71371,10,4063.0671
+3010,Cem. Da Saudade - Term. A. E. Carvalho,3,0,70945,10,7048.2925
+3010,Cem. Da Saudade - Term. A. E. Carvalho,3,1,70946,10,6419.1289
+3013,Term. Cid. Tiradentes - Metalúrgicos,4,0,72996,10,5911.8652
+3015,Jd. Romano - Jd. Mabel,3,0,70194,10,9931.7754
+3019,Term. Cid. Tiradentes - Vl. Paulista I,4,0,68451,10,5064.5161
+3020,Cohab José Bonifácio  - Shop. Aricanduva,4,0,64162,10,17853.498
+3020,Cohab José Bonifácio  - Shop. Aricanduva,4,1,72277,10,18762.439
+3021,Pq. Bancário - Term. Vl Prudente,5,0,69288,10,9159.2998
+3021,Pq. Bancário - Term. Vl Prudente,5,1,69289,10,9531.0527
+3023,Shop. Aricanduva - Pq. São Rafael,4,0,71085,10,11242.235
+3023,Shop. Aricanduva - Pq. São Rafael,4,1,71086,10,12291.708
+3024,Vl. Industrial - Term. Vl Prudente,5,0,69310,10,9040.958
+3024,Vl. Industrial - Term. Vl Prudente,5,1,69311,10,8768.6611
+3025,Jd. Wilma Flor - Cptm Guaianazes,4,0,79146,10,8868.4268
+3025,Jd. Wilma Flor - Cptm Guaianazes,4,1,79147,10,9531.3379
+3026,Vl. Iolanda Ii - Cptm Guaianazes,3,0,69231,10,10601.542
+3026,Vl. Iolanda Ii - Cptm Guaianazes,3,1,68809,10,10955.145
+3027,Cptm Guaianazes - Shop. Aricanduva,4,0,78768,10,18479.076
+3027,Cptm Guaianazes - Shop. Aricanduva,4,1,78769,10,17474.955
+3029,Jd. Das Rosas - Metrô Tatuapé,4,0,71047,10,13847.777
+3029,Jd. Das Rosas - Metrô Tatuapé,4,1,63348,10,13783.713
+3031,Jd. Alto Paulistano - Metrô Itaquera,4,0,70424,10,14789.476
+3031,Jd. Alto Paulistano - Metrô Itaquera,4,1,70425,10,15234.483
+3032,Term. Vl. Carrão - Circular,4,0,63531,10,15030.607
+3033,Guaianazes - São Mateus,3,0,79604,10,17144.076
+3033,Guaianazes - São Mateus,3,1,79605,10,17263.947
+3046,Vl. Guarani - Metrô Tatuapé,4,0,69543,10,12186.751
+3046,Vl. Guarani - Metrô Tatuapé,4,1,71048,10,11687.485
+3051,Ermelino Matarazzo - Term. A. E. Carvalho,3,0,69578,10,7038.1094
+3051,Ermelino Matarazzo - Term. A. E. Carvalho,3,1,70174,10,6165.0361
+3053,Jd. Itápolis - Metrô Belém,4,0,73091,10,12601.859
+3053,Jd. Itápolis - Metrô Belém,4,1,71051,10,13776.363
+3054,Jd. Palanque - Hosp. Sapopemba,4,0,78553,10,18191.637
+3054,Jd. Palanque - Hosp. Sapopemba,4,1,78554,10,18350.668
+3063,Guaianazes - Term. São Mateus,3,0,58475,10,17155.971
+3063,Guaianazes - Term. São Mateus,3,1,58476,10,17579.328
+3063,Guaianazes - Term. São Mateus,3,0,71864,41,19161.303
+3063,Guaianazes - Term. São Mateus,3,1,71865,41,17209.936
+3064,Cid. Tiradentes - Cptm Guaianazes,3,0,56747,10,9719.5615
+3064,Cid. Tiradentes - Cptm Guaianazes,3,1,58093,10,10812.429
+3064,Term. Cid. Tiradentes - Sta. Etelvina Ii B6,3,0,79036,41,5937.6113
+3069,Jd. Recanto Verde Sol - Term. São Mateus,4,0,79687,10,12733.274
+3069,Jd. Recanto Verde Sol - Term. São Mateus,4,1,78543,10,12985.255
+307C,Conj. Encosta Norte - Metrô Artur Alvim,3,0,70183,10,19365.645
+307C,Conj. Encosta Norte - Metrô Artur Alvim,3,1,54271,10,18941.9
+3098,Jd. São Francisco - Shop. Aricanduva,5,0,59711,10,14787.064
+3098,Jd. São Francisco - Shop. Aricanduva,5,1,59712,10,13204.681
+3099,Hosp. São Mateus - Jd. Da Conquista,5,0,63233,10,9707.0459
+3099,Hosp. São Mateus - Jd. Da Conquista,5,1,63234,10,10838.095
+3112,Vl. Industrial - Metrô Belém,5,0,80097,10,18568.975
+3112,Vl. Industrial - Metrô Belém,5,1,80098,10,17421.98
+311C,Pq. São Lucas - Bom Retiro,5,0,80166,10,19272.146
+311C,Pq. São Lucas - Bom Retiro,5,1,80167,10,19073.234
+312N,Term. Cid. Tiradentes - São Miguel Paulista,4,0,79142,10,25639.639
+312N,Term. Cid. Tiradentes - São Miguel Paulista,4,1,79143,10,25317.396
+3134,Shop. Aricanduva - Metrô Tamanduateí,4,0,78772,10,14372.241
+3134,Shop. Aricanduva - Metrô Tamanduateí,4,1,80417,10,15029.699
+3139,Jd. Vl. Formosa - Pça. João Mendes,4,0,71660,10,16185.156
+3139,Jd. Vl. Formosa - Pça. João Mendes,4,1,80670,10,14931.68
+3141,São Mateus - Term. Pq. D. Pedro Ii,5,0,60507,10,21927.328
+3141,São Mateus - Term. Pq. D. Pedro Ii,5,1,80413,10,22636.49
+314J,Pq. Sta. Madalena - Pça. Almeida Jr.,5,0,69494,10,21263.066
+314J,Pq. Sta. Madalena - Pça. Almeida Jr.,5,1,69495,10,21459.314
+314V,Vl. Ema - Pça. Almeida Jr.,5,0,69496,10,17027.066
+314V,Vl. Ema - Pça. Almeida Jr.,5,1,69841,10,16098.939
+3160,Term. Vl. Prudente - Term. Pq. D. Pedro Ii,4,0,80318,10,8678.9492
+3160,Term. Vl. Prudente - Term. Pq. D. Pedro Ii,4,1,80119,10,7972.4336
+3161,Jd. Colorado - Term. Pq. D. Pedro Ii,5,0,80015,10,15057.412
+3161,Jd. Colorado - Term. Pq. D. Pedro Ii,5,1,80409,10,14719.716
+3206,Metrô Penha - Conj. Chaparral,3,0,79018,10,8510.9355
+3301,Term. São Miguel - Term. Pq. D. Pedro Ii,3,0,71866,10,24374.52
+3301,Term. São Miguel - Term. Pq. D. Pedro Ii,3,1,71867,10,25090.354
+3390,São Mateus - Term. Pq. D. Pedro Ii,5,0,68782,10,22476.846
+3390,São Mateus - Term. Pq. D. Pedro Ii,5,1,68783,10,24532.262
+3414,Vl. Dalila - Term. Pq. D. Pedro Ii,4,0,69883,10,13837.674
+3414,Vl. Dalila - Term. Pq. D. Pedro Ii,4,1,69884,10,13786.865
+342C,Jd. Marília - Penha,4,0,80398,10,17539.182
+342C,Jd. Marília - Penha,4,1,79120,10,16388.285
+342M,Term. São Mateus - Term. Penha,4,0,69909,10,16111.175
+342M,Term. São Mateus - Term. Penha,4,1,64986,10,16550.629
+342N,Cohab Pres. Juscelino Kubitscheck - E.t. Itaquera,4,0,78573,10,27465.027
+3459,Itaim Paulista - Term. Pq. D. Pedro Ii,3,0,56954,10,34943.742
+3459,Itaim Paulista - Term. Pq. D. Pedro Ii,3,1,70142,10,33464.809
+3459,Cem. Da Saudade - Term. Pq. D. Pedro Ii,3,0,56994,21,24066.441
+3459,Metrô Bresser - Itaim Paulista,3,0,70145,23,30313.262
+3459,Itaim Paulista - Term. Pq. D. Pedro Ii,3,0,56995,24,34210.781
+3462,Vl. Santana - Metrô Tatuapé,3,0,72351,10,21321.541
+3462,Vl. Santana - Metrô Tatuapé,3,1,72352,10,22078.58
+3462,Jd. Vl. Nova - Metrô Tatuapé,3,0,72466,41,18070.18
+351F,Jaçanã - Term. Vl. Carrão,2,0,53601,10,28794.951
+351F,Jaçanã - Term. Vl. Carrão,2,1,80404,10,28762.111
+352A,Jd. Helena - Term. São Mateus,3,0,72832,10,21966.1
+352A,Jd. Helena - Term. São Mateus,3,1,70150,10,22374.391
+3539,Cid. Tiradentes - Metrô Bresser,4,0,62009,10,32741.855
+3539,Cid. Tiradentes - Metrô Bresser,4,1,69389,10,34348.496
+354M,Term. São Miguel - Term. São Mateus,3,0,63126,10,20095.127
+354M,Term. São Miguel - Term. São Mateus,3,1,70151,10,20939.467
+364A,Hosp. Ipiranga - Shop. Aricanduva,5,0,80395,10,25033.865
+364A,Hosp. Ipiranga - Shop. Aricanduva,5,1,80460,10,22076.01
+3686,Jd. São Paulo - Term. Pq. D. Pedro Ii,3,0,71874,10,30765.121
+3686,Jd. São Paulo - Term. Pq. D. Pedro Ii,3,1,71875,10,31987.158
+3712,Jd. São João - Metrô Itaquera,4,0,80249,10,9002.1924
+3712,Jd. São João - Metrô Itaquera,4,1,71775,10,8807.0605
+3712,Vl. Cosmopolita - Metrô Itaquera,4,0,80601,51,9725.3477
+3712,Vl. Cosmopolita - Metrô Itaquera,4,1,71779,51,8684.2168
+3718,Metrô Artur Alvim - Nova America,4,0,70076,10,8559.8125
+3721,Shop. Aricanduva - Metrô Artur Alvim,4,0,71993,10,7263.6226
+3721,Shop. Aricanduva - Metrô Artur Alvim,4,1,71994,10,7188.6865
+3721,Shop. Aricanduva - Metrô Itaquera,4,0,71998,41,7453.4126
+3721,Shop. Aricanduva - Metrô Itaquera,4,1,71999,41,7578.3594
+3722,Cohab José Bonifácio - Metrô Penha,4,0,68822,10,18194.496
+3722,Cohab José Bonifácio - Metrô Penha,4,1,78979,10,17675.963
+3725,Metrô Vl. Matilde - Vl. Dalila,4,0,70077,10,7565.7676
+3725,Metrô Vl. Matilde - Vl. Aricanduva,4,0,63834,41,6679.5503
+3728,Metrô Artur Alvim - Pq. Savoy City,4,0,70078,10,11124.489
+3728,Metrô Artur Alvim - Pq. Nova Savoy,4,0,61668,41,9355.4277
+3729,Shop. Aricanduva - Metrô Carrão,4,0,79775,10,13913.281
+3729,Shop. Aricanduva - Metrô Carrão,4,1,80674,10,14088.633
+372F,Univ. São Judas Tadeu - Metrô Bresser,4,0,68412,10,1779.2197
+372F,Univ. São Judas Tadeu - Metrô Bresser,4,1,71285,10,1446.9215
+372U,Vl. Sta. Isabel - Metrô Tatuapé,4,0,47323,10,10556.276
+372U,Vl. Sta. Isabel - Metrô Tatuapé,4,1,80683,10,10569.93
+3731,Shop. Aricanduva - Metrô Vl. Matilde,4,0,71636,10,9170.7617
+3731,Shop. Aricanduva - Metrô Vl. Matilde,4,1,71637,10,8972.7559
+3732,Cptm José Bonifácio - Metrô Itaquera,4,0,80250,10,9313.3867
+3732,Cptm José Bonifácio - Metrô Itaquera,4,1,72119,10,9263.2471
+3734,Cid. Lider - Metrô Artur Alvim,4,0,68825,10,6400.8408
+3734,Cid. Lider - Metrô Artur Alvim,4,1,71058,10,5402.9819
+3735,Metrô Artur Alvim - Jd. São João ,4,0,59835,10,8126.9282
+3735,Metrô Artur Alvim - Jd. São João ,4,0,59474,21,6394.5327
+3735,Metrô Artur Alvim - Jd. São José,4,0,68975,41,4579.6211
+3736,Jd. Nsa. Sra. Do Carmo - Metrô Artur Alvim,4,0,68824,10,6458.46
+3736,Jd. Nsa. Sra. Do Carmo - Metrô Artur Alvim,4,1,80397,10,6534.085
+3737,Shop. Aricanduva - Metrô Guilhermina/esperança,4,0,68851,10,9093.5352
+3737,Shop. Aricanduva - Metrô Guilhermina/esperança,4,1,68684,10,9632.8838
+3737,Metrô Guilhermina/esperança  - Circular,4,0,63684,31,5206.7627
+3738,Cohab Juscelino - Metrô Itaquera,4,0,80252,10,13555.271
+3738,Cohab Juscelino - Metrô Itaquera,4,1,78574,10,14648.234
+3739,Recanto Verde Sol - Metrô Itaquera,4,0,70481,10,14322.411
+3739,Recanto Verde Sol - Metrô Itaquera,4,1,70482,10,14839.396
+373L,Jd. Limoeiro - Metrô Itaquera,4,0,79115,10,14640.082
+373L,Jd. Limoeiro - Metrô Itaquera,4,1,79116,10,15599.557
+373M,Jd. Guairacá - Shop. Metrô Tatuapé,5,0,80091,10,18058.76
+373M,Jd. Guairacá - Shop. Metrô Tatuapé,5,1,80092,10,19335.998
+373T,Jd. Itápolis - Metrô Bresser,5,0,80095,10,19718.182
+373T,Jd. Itápolis - Metrô Bresser,5,1,80096,10,19657.494
+3741,Cptm D. Bosco - Metrô Itaquera,4,0,70440,10,6979.5015
+3741,Cptm D. Bosco - Metrô Itaquera,4,1,70441,10,7211.5527
+3742,Jd. Laranjeira - Metrô Itaquera,4,0,80253,10,12494.163
+3742,Jd. Laranjeira - Metrô Itaquera,4,1,71773,10,12152.592
+3743,São Mateus - Metrô Itaquera,4,0,70471,10,10987.727
+3743,São Mateus - Metrô Itaquera,4,1,70472,10,11268.583
+3745,Jd. Imperador - Metrô Tatuapé,4,0,71421,10,16669.736
+3745,Jd. Imperador - Metrô Tatuapé,4,1,79839,10,15518.231
+3746,Jd. Imperador - Metrô Belém,5,0,69561,10,12900.284
+3746,Jd. Imperador - Metrô Belém,5,1,80694,10,13572.648
+3746,Jd. Imperador - Metrô Belém,5,0,80026,31,12128.832
+3746,Jd. Imperador - Metrô Belém,5,1,80027,31,12819.285
+374M,Cptm Ermelino Matarazzo - Metrô Itaquera,3,0,72359,10,15032.64
+374M,Cptm Ermelino Matarazzo - Metrô Itaquera,3,1,72360,10,15271.328
+374V,Jd. Santana - Metrô Itaquera,4,0,80261,10,8223.9814
+374V,Jd. Santana - Metrô Itaquera,4,1,72533,10,8096.145
+3751,Cohab Prestes Maia - Metrô Itaquera,4,0,80254,10,13423.8
+3751,Cohab Prestes Maia - Metrô Itaquera,4,1,72101,10,14745.769
+3754,Inácio Monteiro - Metrô Itaquera,3,0,80279,10,14432.146
+3754,Inácio Monteiro - Metrô Itaquera,3,1,80063,10,14295.239
+3756,Barro Branco - Metrô Itaquera ,3,0,79857,10,13678.842
+3756,Barro Branco - Metrô Itaquera ,3,1,79858,10,14690.547
+3761,3a. Divisão - Metrô Carrão,4,0,79785,10,21032.467
+3761,3a. Divisão - Metrô Carrão,4,1,79786,10,20680.711
+3762,Jd. Iva - Metrô Tatuapé,4,0,80380,10,13743.508
+3762,Jd. Iva - Metrô Tatuapé,4,1,53119,10,13779.854
+3763,Term. Vl. Carrão - Metrô Tatuapé,4,0,80388,10,11870.21
+3763,Term. Vl. Carrão - Metrô Tatuapé,4,1,67944,10,11313.984
+3766,Cohab Ii - Metrô Itaquera,4,0,80255,10,9323.7871
+3766,Cohab Ii - Metrô Itaquera,4,1,79651,10,10269.541
+3768,Vl. Yolanda - Cptm José Bonifácio,3,0,51194,10,11208.165
+3768,Vl. Yolanda - Cptm José Bonifácio,3,1,60063,10,12716.572
+3773,Res. Sta. Bárbara - Metrô Carrão,4,0,79787,10,19935.547
+3773,Res. Sta. Bárbara - Metrô Carrão,4,1,79788,10,20449.5
+3778,Jd. Sta. Terezinha - Metrô Carrão,4,0,79783,10,13491.086
+3778,Jd. Sta. Terezinha - Metrô Carrão,4,1,79784,10,13673.721
+3785,Cohab Barro Branco - Metrô Itaquera,4,0,70477,10,19015.197
+3785,Cohab Barro Branco - Metrô Itaquera,4,1,70478,10,19902.18
+3787,Cid. Tiradentes - Metrô Itaquera,4,0,70475,10,18503.123
+3787,Cid. Tiradentes - Metrô Itaquera,4,1,70476,10,19684.428
+3789,Cid. Tiradentes - Metrô Itaquera,4,0,80236,10,19304.932
+3789,Cid. Tiradentes - Metrô Itaquera,4,1,71803,10,20270.559
+3791,Shop. Aricanduva - Metrô Artur Alvim,4,0,78653,10,7164.1211
+3791,Shop. Aricanduva - Metrô Artur Alvim,4,1,79667,10,8212.2373
+3795,Jd. São Carlos - Metrô Itaquera,3,0,79885,10,13967.659
+3795,Jd. São Carlos - Metrô Itaquera,3,1,79886,10,13883.004
+3796,Gleba Do Pessego - Metrô Itaquera,4,0,70420,10,10418.073
+3796,Gleba Do Pessego - Metrô Itaquera,4,1,78495,10,10498.869
+3901,Jd. Danfer - Metrô Penha,3,0,79023,10,11111.077
+3901,Jd. Danfer - Metrô Penha,3,1,78652,10,9635.5566
+3902,Cptm Jd. Romano - Cptm Guaianazes,3,0,78672,10,15232.722
+3902,Cptm Jd. Romano - Cptm Guaianazes,3,1,70192,10,14616.043
+3903,Jd. Vl. Nova - Penha,3,0,71327,10,13800.993
+3903,Jd. Vl. Nova - Penha,3,1,71328,10,13690.783
+390E,Term. Penha - Term. Pq. D. Pedro Ii,3,0,59707,10,10468.668
+390E,Term. Penha - Term. Pq. D. Pedro Ii,3,1,59708,10,10650.172
+390E,Etec Pq. Belém - Metrô Tatuapé,3,0,70352,41,2379.0598
+390E,Etec Pq. Belém - Metrô Belém,3,0,70353,42,2373.8796
+4001,Itaquera - Term. Vl. Carrão,3,0,79962,10,13406.027
+4001,Itaquera - Term. Vl. Carrão,3,1,80062,10,13298.661
+4002,Guaianazes - Term. Vl. Carrão,3,0,79879,10,21351.607
+4002,Guaianazes - Term. Vl. Carrão,3,1,79880,10,21944.324
+4003,Inácio Monteiro - E.t. Itaquera,4,0,63809,10,10980.452
+4003,Inácio Monteiro - E.t. Itaquera,4,1,68734,10,11946.986
+4004,Term. Cid. Tiradentes - Barro Branco,4,0,54008,10,9199.4805
+4005,Term. Cid. Tiradentes - Barro Branco,4,0,54010,10,7068.2314
+4006,Jd. Nova Vitória - Circular,4,0,72696,10,8005.9053
+4006,Jd. Nova Vitória - Circular,4,0,65292,21,8144.9111
+4007,Cohab Juscelino - Term. Vl. Carrão,4,0,79012,10,18187.324
+4007,Cohab Juscelino - Term. Vl. Carrão,4,1,79013,10,17960.162
+4008,Jd. Cibele - Term. Vl. Carrão,4,0,78036,10,16709.268
+4008,Jd. Cibele - Term. Vl. Carrão,4,1,78037,10,16060.392
+4008,Cohab José Bonifácio C  - Circular,4,0,66600,21,5188.5161
+4010,Jd. Nsa. Sra. Do Carmo - Term. Vl. Carrão,4,0,78038,10,11624.374
+4010,Jd. Nsa. Sra. Do Carmo - Term. Vl. Carrão,4,1,78039,10,12989.513
+4011,Jd. Limoeiro - Term. São Mateus,4,0,78544,10,9397.1924
+4011,Jd. Limoeiro - Term. São Mateus,4,1,78545,10,9727.1602
+4012,Jd. Iguatemi - Term. São Mateus,4,0,78546,10,7912.9097
+4012,Jd. Iguatemi - Term. São Mateus,4,1,78547,10,8152.5234
+4013,Jd. Sto. André - Term. São Mateus,4,0,78548,10,6655.104
+4013,Jd. Sto. André - Term. São Mateus,4,1,78549,10,7382.6865
+4014,Jd. Vl. Carrão - Term. Vl. Carrão,4,0,79623,10,12601.084
+4014,Jd. Vl. Carrão - Term. Vl. Carrão,4,1,53969,10,13322.885
+4015,Term. São Mateus - Jd. Rodolfo Pirani,4,0,58466,10,9805.2734
+4016,Term. São Mateus - Jd. Rodolfo Pirani,4,0,78552,10,9454.7549
+4017,Metalúrgicos - Vl. Yolanda,4,0,78594,10,9977.959
+4017,Metalúrgicos - Vl. Yolanda,4,1,78595,10,11591.469
+4018,Metalúrgicos - Term. São Mateus,4,0,69919,10,12395.678
+4018,Metalúrgicos - Term. São Mateus,4,1,69921,10,13621.217
+4019,Metrô Itaquera  - Circular,3,0,65300,10,3509.0911
+4020,E. T. Itaquera - Jd. Novo Horizonte,4,0,80186,10,18532.742
+4021,Metrô Itaquera - Vl. Chuca,4,0,79389,10,11755.208
+4024,Cohab Fazenda Do Carmo - E.t. Itaquera,4,0,69922,10,8618.6387
+4024,Cohab Fazenda Do Carmo - E.t. Itaquera,4,1,69923,10,9228.1357
+4025,Vl. Califórnia - Metrô Tatuapé,5,0,71699,10,16318.354
+4025,Vl. Califórnia - Metrô Tatuapé,5,1,72644,10,15791.723
+4027,Hosp. São Mateus - Jd. Sto. André,5,0,71816,10,10945.32
+4027,Hosp. São Mateus - Jd. Sto. André,5,1,71817,10,11391.419
+4027,Morro Do Cruzeiro - São Mateus,5,0,80233,41,8042.7686
+4027,Morro Do Cruzeiro - São Mateus,5,1,80234,41,8225.5547
+4028,Hosp. São Mateus - Div. De Mauá,5,0,80381,10,13664.474
+4028,Hosp. São Mateus - Div. De Mauá,5,1,80382,10,13699.39
+4029,São Mateus - Term. Vl Prudente,5,0,69351,10,15602.163
+4029,São Mateus - Term. Vl Prudente,5,1,69352,10,14898.577
+4030,Fazenda Da Juta - Shop. Aricanduva,5,0,80193,10,16029.827
+4030,Fazenda Da Juta - Shop. Aricanduva,5,1,79753,10,16729.652
+4031,Pq. Sta. Madalena - Metrô Tamanduateí,5,0,72645,10,15445.236
+4031,Pq. Sta. Madalena - Metrô Tamanduateí,5,1,78379,10,16223.05
+4032,Vl. Das Mercês - Objetivo Unip,5,0,80459,10,13204.412
+4032,Vl. Das Mercês - Objetivo Unip,5,1,72011,10,12578.104
+4033,Jd. Guairacá - Nova Conquista,5,0,80735,10,17631.904
+4033,Jd. Guairacá - Nova Conquista,5,1,80736,10,17705.324
+4035,Guaianazes - Metrô Itaquera,3,0,80268,10,17140.504
+4035,Guaianazes - Metrô Itaquera,3,1,72708,10,17297.117
+4036,Metrô Itaquera - Term. Vl. Carrão,3,0,79874,10,9705.4473
+4036,Metrô Itaquera - Term. Vl. Carrão,3,1,79875,10,9163.0283
+403A,Cptm José Bonifácio - Term. Penha,4,0,78995,10,21767.461
+403A,Cptm José Bonifácio - Term. Penha,4,1,78996,10,21828.555
+4051,Jd. São Paulo - Cptm Guaianazes,3,0,60943,10,5568.9604
+4051,Jd. São Paulo - Cptm Guaianazes,3,1,60944,10,5677.8965
+4052,Cptm Guaianazes - Metrô Itaquera,3,0,70509,10,9194.6377
+4052,Cptm Guaianazes - Metrô Itaquera,3,1,70510,10,9255.4326
+4053,Guaianazes - Cptm Guaianazes,3,0,71093,10,8252.6885
+4055,Cptm Guaianazes - Vl. Solange,3,0,70980,10,3407.8418
+4056,Pq. Boa Esperança - Term. São Mateus,3,0,79906,10,8072.5522
+4056,Pq. Boa Esperança - Term. São Mateus,3,1,79914,10,8715.3184
+407A,Shop. Aricanduva - Lgo. Da Concórdia,4,0,79076,10,17151.859
+407A,Shop. Aricanduva - Lgo. Da Concórdia,4,1,80684,10,18212.365
+407E,Jd. Sto. André - Metrô Carrão,4,0,79793,10,22514.711
+407E,Jd. Sto. André - Metrô Carrão,4,1,79794,10,22953.35
+407F,Term. São Mateus - Metrô Belém,3,0,71868,10,18470.76
+407F,Term. São Mateus - Metrô Belém,3,1,80687,10,17780.793
+407G,Jd. Nova Vitória - Metrô Carrão,4,0,79789,10,22703.715
+407G,Jd. Nova Vitória - Metrô Carrão,4,1,79790,10,22712.553
+407H,Jd. São Francisco - Metrô Itaquera,4,0,72326,10,19734.141
+407H,Jd. São Francisco - Metrô Itaquera,4,1,72327,10,19336.102
+407I,Conj. Manoel Da Nóbrega - Metrô Bresser,4,0,63287,10,17542.852
+407I,Conj. Manoel Da Nóbrega - Metrô Bresser,4,1,63288,10,18794.166
+407J,Jd. Soares - Metrô Tatuapé,4,0,62369,10,28536.395
+407J,Jd. Soares - Metrô Tatuapé,4,1,72866,10,30072.574
+407K,Term. São Mateus - Metrô Carrão,3,0,79797,10,14651.648
+407K,Term. São Mateus - Metrô Carrão,3,1,79798,10,14305.145
+407L,Barro Branco - Metrô Guilhermina/esperança,4,0,80728,10,25500.068
+407L,Barro Branco - Metrô Guilhermina/esperança,4,1,56626,10,27609.104
+407M,Vl. Monumento - Metrô Vl. Mariana,5,0,64550,10,11476.08
+407N,Term. Cid. Tiradentes - Metrô Penha,4,0,54128,10,21039.41
+407N,Term. Cid. Tiradentes - Metrô Penha,4,1,78978,10,20532.639
+407P,Term. Cid. Tiradentes - Metrô Tatuapé,4,0,69936,10,27680.883
+407P,Term. Cid. Tiradentes - Metrô Tatuapé,4,1,69937,10,26622.975
+407R,Term. Vl. Carrão - Metrô Belém,4,0,53970,10,9601.0352
+407R,Term. Vl. Carrão - Metrô Belém,4,1,80686,10,10627.296
+407T,Jd. Redil - Metrô Itaquera,3,0,80280,10,5901.978
+407T,Jd. Redil - Metrô Itaquera,3,1,70457,10,6702.1055
+407W,Jd. Iv Centenário - Metrô Carrão,4,0,79795,10,15198.268
+407W,Jd. Iv Centenário - Metrô Carrão,4,1,79796,10,13812.77
+407Y,Pq. Savoy City - Metrô Vl. Prudente,4,0,80420,10,31111.447
+4085,Cohab Fazenda Do Carmo - Metrô Itaquera,3,0,62047,10,9339.3359
+4085,Cohab Fazenda Do Carmo - Metrô Itaquera,3,1,59375,10,9913.1025
+4086,Term. Cid. Tiradentes - Circular,4,0,79294,10,7987.1729
+408A,Machado De Assis - Cardoso De Almeida,4,0,68698,10,11347.607
+408A,Machado De Assis - Cardoso De Almeida,4,1,68697,10,9105.625
+4092,Term. Cid. Tiradentes - Setor Iib,4,0,61802,10,9732.5908
+4093,Cid. Tiradentes - Term. Cid. Tiradentes,3,0,59430,10,3595.5588
+4093,Cid. Tiradentes - Term. Cid. Tiradentes,3,1,59431,10,5272.2144
+4111,Vl. Monumento - Pça. Da República,5,0,69384,10,18657.373
+4112,Sta. Margarida Maria - Pça. Da República,4,0,45025,10,12870.095
+4113,Gentil De Moura - Pça. Da República,4,0,44331,10,20875.254
+4114,Vl. Gumercindo - Term. Pq. D. Pedro Ii,5,0,80614,10,16670.395
+4114,Vl. Gumercindo - Term. Pq. D. Pedro Ii,5,1,70901,10,14356.365
+4115,Shop. Plaza Sul - Pça. Da República,5,0,59000,10,27890.322
+414P,Vl. Industrial - Term. Norte Metrô Carrão,5,0,80405,10,14493.463
+414P,Vl. Industrial - Term. Norte Metrô Carrão,5,1,71515,10,16885.422
+4210,Term. Cid. Tiradentes - Term. Pq. D. Pedro Ii,3,0,56949,10,29768.768
+4210,Term. Cid. Tiradentes - Term. Pq. D. Pedro Ii,3,1,62610,10,30566.498
+4221,Jd. Planalto - Term. Pq. D. Pedro Ii,5,0,68417,10,19066.303
+4221,Jd. Planalto - Term. Pq. D. Pedro Ii,5,1,72126,10,17718.209
+4222,Pq. Sta. Madalena - Mooca,5,0,65342,10,34110.887
+425E,Term. Sapopemba - Jd. Ester,5,0,79555,10,13157.921
+4284,Vl. Califórnia - Term. Vl. Prudente,5,0,69824,10,6869.7207
+4284,Vl. Califórnia - Term. Vl. Prudente,5,1,69827,10,7672.1533
+4286,Vl. Industrial - Term. Vl Prudente,5,0,72625,10,9428.5176
+4286,Vl. Industrial - Term. Vl Prudente,5,1,69303,10,11052.496
+4288,Pq. Sta. Madalena - Term. Pq. D. Pedro Ii,5,0,69308,10,21770.666
+4288,Pq. Sta. Madalena - Term. Pq. D. Pedro Ii,5,1,69309,10,21973.9
+4310,E.t. Itaquera - Term. Pq. D. Pedro Ii,3,0,63429,10,21241.299
+4310,E.t. Itaquera - Term. Pq. D. Pedro Ii,3,1,63430,10,20527.543
+4310,Artur Alvim - Term. Pq. D. Pedro Ii,3,0,63213,21,17187.633
+4311,Term. São Mateus - Term. Pq. D. Pedro Ii,3,0,60663,10,24469.48
+4311,Term. São Mateus - Term. Pq. D. Pedro Ii,3,1,60664,10,23514.256
+4312,Jd. Marília - Term. Pq. D. Pedro Ii,3,0,59691,10,22175.211
+4312,Jd. Marília - Term. Pq. D. Pedro Ii,3,1,59692,10,21629.75
+4313,Term. Cid. Tiradentes - Term. Pq. D. Pedro Ii,3,0,62899,10,30090.143
+4313,Term. Cid. Tiradentes - Term. Pq. D. Pedro Ii,3,1,62900,10,28850.816
+4314,Inácio Monteiro - Term. Pq. D. Pedro Ii,3,0,68828,10,32331.715
+4314,Inácio Monteiro - Term. Pq. D. Pedro Ii,3,1,77976,10,31478.996
+4315,Term. Vl. Carrão - Term. Pq. D. Pedro Ii,3,0,79876,10,14130.01
+4315,Term. Vl. Carrão - Term. Pq. D. Pedro Ii,3,1,79877,10,13110.906
+4491,Vl. Liviero - Term. Pq. D. Pedro Ii,5,0,80493,10,18941.502
+4491,Vl. Liviero - Term. Pq. D. Pedro Ii,5,1,80494,10,18425.992
+4706,Jd. Maria Estela Ii - Metrô Vl. Mariana,5,0,72851,10,15890.466
+4706,Jd. Maria Estela Ii - Metrô Vl. Mariana,5,1,72852,10,17284.428
+4708,Jd. Clímax - Metrô Vl. Mariana,5,0,72871,10,8565.0459
+4708,Jd. Clímax - Metrô Vl. Mariana,5,1,72872,10,8987.8242
+4709,Jd. São Savério - Metrô Vl. Mariana,5,0,80046,10,13208.999
+4709,Jd. São Savério - Metrô Vl. Mariana,5,1,72874,10,14059.24
+4716,Sacomã - Metrô Sta. Cruz,5,0,63890,10,9260.1406
+4716,Sacomã - Metrô Sta. Cruz,5,1,79728,10,10325.985
+4717,Jd. Maria Estela - Metrô Saúde,5,0,60000,10,16826.572
+4718,Jd. Celeste - Metrô Sta. Cruz,5,0,80370,10,26161.371
+4721,Shop. Plaza Sul - Metrô Jabaquara,5,0,72981,10,7784.1587
+4721,Shop. Plaza Sul - Metrô Jabaquara,5,1,72982,10,6565.5166
+4724,Metrô Patriarca - Vl. Nhocuné,4,0,70340,10,8348.3213
+4725,Vl. Brasilina - Shop. Ibirapuera,5,0,53653,10,25214.551
+4726,Mooca - Metrô Tatuapé,5,0,63239,10,7577.0098
+4726,Mooca - Metrô Tatuapé,5,1,73115,10,7656.7017
+4727,Jd. Clímax - Metrô Pça. Da áRvore,5,0,72133,10,10656.663
+4727,Jd. Clímax - Metrô Pça. Da áRvore,5,1,72134,10,9023.6982
+4729,Pq. Bancário - Metrô Belém,5,0,63231,10,16522.334
+4729,Pq. Bancário - Metrô Belém,5,1,80410,10,15458.679
+4732,Vl. Liviero - Metrô Saúde,5,0,79745,10,9643.7676
+4732,Vl. Liviero - Metrô Saúde,5,1,79746,10,10877.952
+4732,Vl. Liviero - Metrô Saúde,5,0,79747,31,13435.774
+4732,Vl. Liviero - Metrô Saúde,5,1,79748,31,14186.173
+4734,Vl. Moraes - Metrô Saúde,5,0,72776,10,8045.2788
+4734,Vl. Moraes - Metrô Saúde,5,1,72015,10,9095.9736
+4734,Vl. Moraes - Metrô Saúde,5,0,64885,21,5096.562
+4735,Jd. Vera Cruz  - São Mateus,5,0,78560,10,8030.2749
+4742,Jd. Clímax - Metrô São Judas,5,0,53671,10,20759.521
+475M,Jd. Da Saúde - Term. Amaral Gurgel,5,0,72156,10,16356.412
+475M,Jd. Da Saúde - Term. Amaral Gurgel,5,1,72700,10,15458.207
+475R,Jd. São Savério - Term. Pq. D. Pedro Ii,5,0,71366,10,20860.287
+475R,Jd. São Savério - Term. Pq. D. Pedro Ii,5,1,78446,10,20517.943
+476A,Ipiranga - Term. Sto. Amaro,5,0,69062,10,24038.678
+476A,Ipiranga - Term. Sto. Amaro,5,1,69063,10,24713.299
+476G,Jd. Elba - Ibirapuera,5,0,79552,10,26429.424
+476G,Jd. Elba - Ibirapuera,5,1,79553,10,28052.906
+476G,Vl. Industrial - Metrô Ana Rosa,5,0,55239,41,19981.613
+476G,Vl. Industrial - Metrô Ana Rosa,5,1,69831,41,19942.729
+476L,Metrô Vl. Mariana - Lar Esc. São Francisco,6,0,70334,10,10414.126
+477A,Sacomã - Term. Pinheiros,5,0,73109,10,22214.717
+477A,Sacomã - Term. Pinheiros,5,1,73108,10,20968.713
+477P,Ipiranga - Rio Pequeno,5,0,63012,10,38461.27
+477P,Ipiranga - Rio Pequeno,5,1,53600,10,39908.523
+477U,Heliópolis - Metrô Vl. Mariana,5,0,79094,10,8391.6572
+477U,Heliópolis - Metrô Vl. Mariana,5,1,79095,10,7778.6689
+478P,Sacomã - Vl. Romana,5,0,80048,10,27176.945
+478P,Sacomã - Vl. Romana,5,1,79295,10,23455.568
+5010,Jabaquara - Sto. Amaro,6,0,51338,10,15611.097
+5010,Jabaquara - Sto. Amaro,6,1,64388,10,16103.212
+5011,Eldorado - Sto. Amaro,6,0,58929,10,14262.629
+5011,Eldorado - Sto. Amaro,6,1,58930,10,15413.81
+5012,Vl. Guacuri - Jabaquara,6,0,80763,10,14419.672
+5012,Vl. Guacuri - Jabaquara,6,1,80764,10,14971.188
+5013,Jd. Luso - Sto. Amaro,6,0,71794,10,15102.29
+5013,Jd. Luso - Sto. Amaro,6,1,71781,10,15299.552
+5013,Jd. Miriam - Sto. Amaro,6,0,68056,31,10580.876
+5013,Jd. Miriam - Sto. Amaro,6,1,68057,31,11130.626
+5015,Jd. São Jorge - Metrô Jabaquara,6,0,54532,10,10684.832
+5015,Jd. São Jorge - Metrô Jabaquara,6,1,54533,10,10321.359
+5018,Shop. Interlagos - Jabaquara,6,0,64229,10,13915.618
+5018,Shop. Interlagos - Jabaquara,6,1,64230,10,15982.743
+5018,Shop. Interlagos - Jabaquara,6,0,63129,31,13874.974
+5018,Shop. Interlagos - Jabaquara,6,1,51956,31,15925.312
+5020,Hosp. Heliópolis - Term. Sacomã,5,0,79092,10,2479.2544
+5020,Hosp. Heliópolis - Term. Sacomã,5,1,79093,10,3475.6025
+5021,Água Funda - Term. Sacomã,5,0,71229,10,7463.3716
+5021,Água Funda - Term. Sacomã,5,1,71230,10,7012.6851
+5022,Vl. Sta. Margarida - Jabaquara,6,0,56080,10,4389.9053
+5022,Vl. Sta. Margarida - Jabaquara,6,1,56081,10,5882.2378
+5024,Missionária - Sto. Amaro,6,0,51542,10,10605.26
+5024,Missionária - Sto. Amaro,6,1,63130,10,11060.771
+5024,Missionária - Sto. Amaro,6,0,51657,31,11477.145
+5024,Missionária - Sto. Amaro,6,1,63131,31,11992.488
+5025,Jd. Guairacá - Metrô Tamanduateí,5,0,79666,10,10111.324
+5025,Jd. Guairacá - Metrô Tamanduateí,5,1,72017,10,9036.6357
+5026,Conj. Teotônio Vilela - Jd. São Roberto,5,0,78871,10,12378.93
+5028,Conj. Hab. Heliópolis - Metrô Alto Do Ipiranga,5,0,78786,10,27974.242
+5029,Jd. Patente - Term. Sacomã,5,0,80739,10,6138.6172
+5029,Jd. Patente - Term. Sacomã,5,1,80740,10,7011.6973
+502J,Est. Autódromo - Metrô Sta. Cruz,6,0,72278,10,20213.77
+502J,Est. Autódromo - Metrô Sta. Cruz,6,1,64994,10,19904.479
+502J,Est. Autódromo - Vl. Joaniza,6,1,59756,21,8152.23
+502J,Est. Autódromo - Vl. Joaniza,6,0,72968,22,16905.764
+5030,Jd. Maria Estela - Term. Sacomã,5,0,79978,10,10517.11
+5030,Jd. Maria Estela - Term. Sacomã,5,1,80052,10,9819.4277
+5031,Vl. Arapuá - Term. Sacomã,5,0,68206,10,5513.5088
+5031,Vl. Arapuá - Term. Sacomã,5,1,68207,10,6259.9258
+5031,Vl. Cde. Do Pinhal - Term. Sacomã,5,0,68308,21,2370.9641
+5031,Vl. Cde. Do Pinhal - Term. Sacomã,5,1,68407,21,3168.6338
+5032,Vl. Arapuá - Term. Sacomã,5,0,71593,10,10191.097
+5032,Vl. Arapuá - Term. Sacomã,5,1,71594,10,10383.099
+5033,Vl. Brasilina - Term. Sacomã,5,0,58066,10,6220.3853
+5033,Vl. Brasilina - Term. Sacomã,5,1,58067,10,8198.1377
+5034,Vl. Liviero - Term. Sacomã,5,0,80049,10,10903.426
+5034,Vl. Liviero - Term. Sacomã,5,1,71169,10,10450.755
+5034,Term. Sacomã - Vl. Liviero,5,0,80053,31,15465.744
+5035,Vl. Arapuá - Term. Sacomã,5,0,80741,10,8892.3369
+5035,Vl. Arapuá - Term. Sacomã,5,1,80742,10,8608.8584
+5036,Jd. Celeste - Term. Sacomã,5,0,80359,10,10719.211
+5036,Jd. Celeste - Term. Sacomã,5,1,80360,10,12144.587
+5038,Pq. Bristol - Term. Sacomã,5,0,80050,10,10185.3
+5038,Pq. Bristol - Term. Sacomã,5,1,79179,10,10230.966
+507T,Term. Sapopemba - Metrô Carrão,4,0,79791,10,16661.631
+507T,Term. Sapopemba - Metrô Carrão,4,1,79792,10,15521.664
+508L,Term. Princ. Isabel - Aclimação,3,0,79255,10,19565.85
+5091,Jd. Ubirajara - Metrô São Judas,6,0,70385,10,35616.656
+509J,Jd. Selma - Pq. Ibirapuera,6,0,64846,10,22492.828
+509J,Jd. Selma - Pq. Ibirapuera,6,1,63132,10,19187.186
+509M,Jd. Miriam - Term. Princ. Isabel,6,0,58121,10,23065.078
+509M,Jd. Miriam - Term. Princ. Isabel,6,1,71820,10,23720.631
+5100,Term. Pinheiros - Term. Pq. D. Pedro Ii,8,0,58893,10,11609.079
+5100,Term. Pinheiros - Term. Pq. D. Pedro Ii,8,1,58894,10,11245.244
+5103,Term. Sacomã - Moema,5,0,58051,10,17763.344
+5105,Term. Sacomã - Term. Mercado,5,0,72158,10,8061.3691
+5105,Term. Sacomã - Term. Mercado,5,1,64635,10,7936.5474
+5106,Jd. Selma - Lgo. São Francisco,6,0,70689,10,23897.74
+5106,Jd. Selma - Lgo. São Francisco,6,1,71821,10,23528.555
+5106,Jd. Selma - Term. áGua Espraiada,6,0,70325,21,24286.258
+5106,Jd. Selma - Term. áGua Espraiada,6,1,71822,21,24906.566
+5106,Jd. Selma - Metrô Ana Rosa,6,0,71415,31,20887.293
+5106,Jd. Selma - Metrô Ana Rosa,6,1,71416,31,20838.127
+5107,Term. Sacomã - Pça. Do Correio,5,0,71237,10,10364.133
+5107,Term. Sacomã - Pça. Do Correio,5,1,71238,10,11863.01
+5108,Jd. Celeste - Term. Pq. D. Pedro Ii,5,0,79749,10,17618.277
+5108,Jd. Celeste - Term. Pq. D. Pedro Ii,5,1,79750,10,17384.441
+5109,Term. Vl. Prudente - Term. Mercado,5,0,69298,10,7634.6636
+5109,Term. Vl. Prudente - Term. Mercado,5,1,69299,10,7667.0913
+5110,Term. São Mateus - Term. Mercado,5,0,79723,10,21029.436
+5110,Term. São Mateus - Term. Mercado,5,1,79724,10,20557.035
+5110,São Mateus - Term. Mercado,5,0,69445,21,21448.236
+5110,Jd. Planalto - Term. Mercado,5,0,69447,23,15634.329
+5110,São Mateus - Term. Vl. Prudente,5,0,69355,24,12414.201
+5110,São Mateus - Term. Vl. Prudente,5,1,69356,24,13857.817
+5110,São Mateus - Metrô Tamanduateí,5,0,69291,41,14310.558
+5110,São Mateus - Metrô Tamanduateí,5,1,72170,41,16716.967
+5111,Term. Sto. Amaro - Term. Pq. D. Pedro Ii,7,0,69069,10,15888.439
+5111,Term. Sto. Amaro - Term. Pq. D. Pedro Ii,7,1,69070,10,16342.715
+5119,Term. Capelinha - Lgo. São Francisco,7,0,78465,10,22860.869
+5119,Term. Capelinha - Lgo. São Francisco,7,1,78474,10,22873.35
+5119,Term. João Dias - Lgo. São Francisco,7,0,78466,22,18427.443
+5119,Term. João Dias - Lgo. São Francisco,7,1,78485,22,19091.537
+5119,Term. João Dias - Instituto Lucy Montoro,7,0,62494,23,6558.9517
+5123,Jd. Miriam - Hosp. São Paulo,6,0,65230,10,14657.991
+5123,Jd. Miriam - Hosp. São Paulo,6,1,70416,10,12770.207
+5127,Vl. Guacuri - Est. Jurubatuba,6,0,57545,10,11741.839
+5127,Vl. Guacuri - Est. Jurubatuba,6,1,63133,10,12046.141
+5128,Jd. Apurá - Metrô Conceição,6,0,62968,10,16754.4
+5128,Jd. Apurá - Metrô Conceição,6,1,62969,10,15692.138
+5129,Jd. Miriam - Term. Guarapiranga,6,0,53001,10,18829.15
+5129,Jd. Miriam - Term. Guarapiranga,6,1,53002,10,19892.154
+5129,Jd. Miriam - Sto. Amaro,6,0,53010,41,11167.839
+5129,Jd. Miriam - Sto. Amaro,6,1,53011,41,11974.578
+5131,Cid. Ademar - Pq. D. Pedro Ii,6,0,69081,10,19356.988
+5131,Cid. Ademar - Pq. D. Pedro Ii,6,1,71823,10,18345.455
+513C,Vl. Califórnia - São Mateus,5,0,70892,10,13991.4
+513C,Vl. Califórnia - São Mateus,5,1,72816,10,14574.853
+513C,Vl. Califórnia - E.t. Itaquera,5,0,78758,31,29056.904
+513C,Vl. Califórnia - E.t. Itaquera,5,1,72817,31,28445.461
+513L,Term. Sacomã - Pq. Belém,5,0,58060,10,13222.032
+513L,Term. Sacomã - Pq. Belém,5,1,80014,10,13016.036
+5141,Term. Sapopemba - Pça. Do Correio,5,0,70796,10,20279.936
+5141,Term. Sapopemba - Pça. Do Correio,5,1,80412,10,22434.24
+5142,Term. Sapopemba - Term. Pq. D. Pedro Ii,5,0,70903,10,25128.645
+5142,Term. Sapopemba - Term. Pq. D. Pedro Ii,5,1,70782,10,24527.17
+5143,Term. Sapopemba - Term. Pq. D. Pedro Ii,5,0,70800,10,18794.238
+5143,Term. Sapopemba - Term. Pq. D. Pedro Ii,5,1,70783,10,18652.572
+5144,Term. Sapopemba - Term. Princ. Isabel,5,0,70803,10,22497.232
+5144,Term. Sapopemba - Term. Princ. Isabel,5,1,70914,10,22375.852
+5145,Term. Sapopemba - Pça. Almeida Jr.,5,0,70805,10,22114.045
+5145,Term. Sapopemba - Pça. Almeida Jr.,5,1,80414,10,21814.373
+514T,Term. Sacomã - Jd. Itápolis,5,0,72039,10,21530.699
+514T,Term. Sacomã - Jd. Itápolis,5,1,72040,10,21783.275
+5154,Term. Sto. Amaro - Term. Princ. Isabel,7,0,65073,10,24868.85
+5154,Term. Sto. Amaro - Term. Princ. Isabel,7,1,68071,10,26351.846
+5164,Vl. Sta. Catarina - Pq. Ibirapuera,6,0,72659,10,30302.541
+5164,Cid. Leonor - Pq. Ibirapuera,6,0,70390,21,28299.01
+5164,Vl. Guarani - Metrô Conceição,6,0,70829,41,14745.475
+516N,Jd. Miriam - Pça. D. Gastão,6,0,69085,10,36265.25
+5175,Baln. São Francisco - Pça. Da Sé,6,0,70691,10,25076.881
+5175,Baln. São Francisco - Pça. Da Sé,6,1,80168,10,24854.158
+5178,Jd. Miriam - Pça. João Mendes,6,0,69104,10,22161.582
+5178,Jd. Miriam - Pça. João Mendes,6,1,80169,10,23134.385
+517J,Jd. Selma - Term. áGua Espraiada,6,0,70315,10,17308.982
+517J,Jd. Selma - Term. áGua Espraiada,6,1,70316,10,17411.078
+5185,Term. Guarapiranga - Term. Pq. D. Pedro Ii,7,0,68254,10,22137.477
+5185,Term. Guarapiranga - Term. Pq. D. Pedro Ii,7,1,68421,10,21738.736
+5194,Jd. Apurá - Pq. Ibirapuera,6,0,80173,10,46691.023
+519M,São Mateus - Museu Do Ipiranga,5,0,80263,10,23094.713
+519M,São Mateus - Museu Do Ipiranga,5,1,80264,10,19610.182
+524L,Pq. São Lucas - Metrô Tatuapé,5,0,79730,10,14171.962
+524L,Pq. São Lucas - Metrô Tatuapé,5,1,79731,10,12096.315
+524M,Mascarenhas De Morais - Shop. Aricanduva,5,0,72027,10,13416.063
+524M,Mascarenhas De Morais - Shop. Aricanduva,5,1,72028,10,12128.326
+527R,Vl. Império - Term. Sto. Amaro,6,0,71133,10,14212.383
+527R,Vl. Império - Term. Sto. Amaro,6,1,71134,10,13860.291
+5290,Div. Diadema - Term. Pq. D. Pedro Ii,6,0,80615,10,19171.135
+5290,Div. Diadema - Term. Pq. D. Pedro Ii,6,1,78055,10,18049.725
+5300,Term. Sto. Amaro - Term. Pq. D. Pedro Ii,7,0,80148,10,16431.729
+5300,Term. Sto. Amaro - Term. Pq. D. Pedro Ii,7,1,57284,10,17879.096
+5317,Sesc/orion - Pça. Do Correio,6,0,72306,10,30499.525
+5317,Sesc/orion - Pça. Do Correio,6,1,72307,10,32333.943
+5318,Chác. Santana - Pça. Da Sé,7,0,80162,10,24663.258
+5318,Chác. Santana - Pça. Da Sé,7,1,72087,10,25223.455
+5362,Pq. Res. Cocaia - Pça. Da Sé,6,0,71778,10,32603.543
+5362,Pq. Res. Cocaia - Pça. Da Sé,6,1,71784,10,34641.172
+5362,Grajaú - Pça. Da Sé,6,0,57081,21,30497.043
+5362,Jd. Eliana - Pça. Da Sé,6,0,56696,22,31511.248
+5362,Pq. Res. Cocaia - Vicente Rao,6,0,70358,23,44568.066
+5362,Pq. Res. Cocaia - Pq. Ibirapuera,6,1,70363,41,29809.438
+5370,Term. Varginha - Lgo. São Francisco,6,0,64832,10,30091.045
+5370,Term. Varginha - Lgo. São Francisco,6,1,64833,10,31222.156
+5370,Term. Varginha - Pq. Ibirapuera,6,0,62694,21,25137.904
+5370,Term. Varginha - Pq. Ibirapuera,6,1,70366,21,26542.82
+5391,Jd. âNgela - Lgo. São Francisco,7,0,80150,10,25156.41
+5391,Jd. âNgela - Lgo. São Francisco,7,1,60422,10,25696.186
+5391,Term. Guarapiranga - Lgo. São Francisco,7,0,80151,21,19690.385
+5391,Moema - Jd. âNgela,7,0,60421,22,18613.805
+546A,Jd. Apurá - Sto. Amaro,6,0,53169,10,12571.852
+546A,Jd. Apurá - Sto. Amaro,6,1,63752,10,13418.59
+546A,Jd. Apurá - Sto. Amaro,6,0,53171,31,13389.267
+546A,Jd. Apurá - Sto. Amaro,6,1,53172,31,14072.202
+546J,Jd. Selma - Sto. Amaro,6,0,53303,10,11838.464
+546J,Jd. Selma - Sto. Amaro,6,1,63136,10,12257.605
+546J,Jd. Selma - Sto. Amaro,6,0,65175,31,9455.6992
+546J,Jd. Selma - Sto. Amaro,6,1,65176,31,10524.441
+546J,Jd. Selma - Col. Sta. Maria,6,1,63009,41,7326.3218
+546L,Jd. Luso - Term. Sto. Amaro,6,0,63465,10,14348.832
+546L,Jd. Luso - Term. Sto. Amaro,6,1,63466,10,15995.931
+546L,Jd. Luso - Col. Sta. Maria,6,1,62989,41,7165.9917
+546T,Vl. Guacuri - Term. Sto. Amaro,6,0,80054,10,13835.19
+546T,Vl. Guacuri - Term. Sto. Amaro,6,1,80055,10,14859.119
+5611,Eldorado - Pça. João Mendes,6,0,71834,10,26145.928
+5611,Eldorado - Pça. João Mendes,6,1,80170,10,29552.846
+5614,Eldorado - Pça. João Mendes,6,0,63918,10,28274.404
+5614,Eldorado - Pça. João Mendes,6,1,80171,10,30820.961
+5630,Term. Grajaú - Metrô Brás,6,0,71787,10,26565.791
+5630,Term. Grajaú - Metrô Brás,6,1,80181,10,31026.52
+5630,Cid. Dutra - Lgo. São Francisco,6,0,72308,21,21691.58
+5630,Cid. Dutra - Lgo. São Francisco,6,1,80182,21,22658.686
+5632,Vl. São José - Lgo. São Francisco,6,0,71795,10,28409.174
+5632,Vl. São José - Lgo. São Francisco,6,1,71796,10,29067.818
+5632,Jd. Iporanga - Lgo. São Francisco,6,0,56701,21,26065.26
+5632,Jd. Alpino - Lgo. São Francisco,6,0,56702,51,29284.115
+5652,Jd. Iv Centenário - Pça. Da Sé,6,0,54775,10,29409.363
+5652,Jd. Iv Centenário - Pça. Da Sé,6,1,80172,10,30422.17
+5701,Metrô Conceição - Shop. Morumbi,6,0,62973,10,11587.569
+5701,Metrô Conceição - Shop. Morumbi,6,1,62974,10,12717.315
+5702,Refúgio Sta. Terezinha - Metrô Jabaquara,6,0,53427,10,8955.1367
+5702,Refúgio Sta. Terezinha - Metrô Jabaquara,6,1,71962,10,9565.8447
+5705,Term. Sacomã - Metrô Vergueiro,5,0,57979,10,10721.595
+5705,Term. Sacomã - Metrô Vergueiro,5,1,57980,10,9229.6582
+573A,Metrô Bresser - Vl. Alpina,5,0,80099,10,27083.48
+573H,Hosp. Sapopemba - Metrô Bresser,5,0,80012,10,18632.15
+573H,Hosp. Sapopemba - Metrô Bresser,5,1,80411,10,20482.59
+573T,Term. Sapopemba - Metrô Carrão,5,0,80449,10,17649.209
+573T,Term. Sapopemba - Metrô Carrão,5,1,79903,10,16710.477
+573T,Term. Sapopemba - Metrô Carrão,5,0,79904,31,17512.941
+573T,Term. Sapopemba - Metrô Carrão,5,1,79905,31,16092.386
+574A,Americanópolis - Lgo. Cambuci,6,0,72887,10,15037.371
+574A,Americanópolis - Lgo. Cambuci,6,1,78237,10,15892.735
+574C,São Mateus - Div. De São Caetano,5,0,59563,10,16299.843
+574C,São Mateus - Div. De São Caetano,5,1,59496,10,13385.997
+574J,Metrô Conceição - Term. Vl. Carrão,5,0,80415,10,25593.527
+574J,Metrô Conceição - Term. Vl. Carrão,5,1,80051,10,24834.799
+574R,Term. Sapopemba - Metrô Belém,5,0,70917,10,15356.903
+574R,Term. Sapopemba - Metrô Belém,5,1,70788,10,16563.074
+574W,Jd. Walkiria - Metrô Belém,5,0,79751,10,20626.789
+574W,Jd. Walkiria - Metrô Belém,5,1,80697,10,22472.654
+5752,Vl. Missionária - Metrô Conceição,6,0,72969,10,10096.815
+5752,Vl. Missionária - Metrô Conceição,6,1,72970,10,9924.4561
+5757,Cid. Júlia - Metrô Conceição,6,0,70407,10,10248.791
+5757,Cid. Júlia - Metrô Conceição,6,1,70408,10,11058.914
+5757,Pedreira - Metrô Conceição,6,0,73102,51,12707.354
+5757,Pedreira - Metrô Conceição,6,1,73103,51,13573.202
+5759,Pq. Primavera - Metrô Conceição,6,0,70411,10,12497.279
+5759,Pq. Primavera - Metrô Conceição,6,1,70412,10,11693.092
+5759,Pq. Primavera - Metrô Conceição,6,0,70413,31,13068.984
+5759,Pq. Primavera - Metrô Conceição,6,1,70414,31,12625.035
+575A,Div. São Caetano - Shop. Metrô Tatuapé,5,0,53788,10,14277.027
+575A,Div. São Caetano - Shop. Metrô Tatuapé,5,1,69833,10,14400.487
+575C,Ipiranga - Vl Matias,5,0,69879,10,14242.212
+575C,Ipiranga - Vl Matias,5,1,72149,10,13244.849
+576C,Metrô Jabaquara - Term. Sto. Amaro,6,0,73101,10,17346.107
+576C,Metrô Jabaquara - Term. Sto. Amaro,6,1,73104,10,16930.121
+576M,Vl. Clara - Pinheiros,6,0,64843,10,23257.768
+576M,Vl. Clara - Pinheiros,6,1,70398,10,24701.92
+577T,Jd. Miriam - Metrô Ana Rosa,6,0,80056,10,20312.352
+577T,Jd. Miriam - Metrô Ana Rosa,6,1,80057,10,19604.27
+5791,Eldorado - Metrô Vergueiro,6,0,64409,10,25041.262
+5791,Eldorado - Metrô Vergueiro,6,1,71824,10,24305.502
+6000,Term. Parelheiros - Term. Sto. Amaro,6,0,79550,10,24093.494
+6000,Term. Parelheiros - Term. Sto. Amaro,6,1,79551,10,23397.533
+6001,Term. Capelinha - Term. Sto. Amaro,7,0,73077,10,7848.6191
+6001,Term. Capelinha - Term. Sto. Amaro,7,1,78269,10,9959.168
+6002,Cid. Dutra - Hosp. Pedreira,6,0,69647,10,14952.521
+6003,Term. Grajaú - Term. Varginha,6,0,62708,10,7029.3394
+6003,Term. Grajaú - Term. Varginha,6,1,62563,10,5119.0503
+6003,Term. Varginha - Est. Mendes/vl. Natal,6,0,79648,21,6029.0093
+6006,Jd. Herculano - Shop. Interlagos,7,0,68278,10,15649.486
+6006,Jd. Herculano - Shop. Interlagos,7,1,68279,10,15298.312
+6007,Term. Capelinha - Term. Sto. Amaro,7,0,79950,10,14446.108
+6007,Term. Capelinha - Term. Sto. Amaro,7,1,63658,10,15362.079
+6008,Jd. Planalto - Term. Sto. Amaro,7,0,71748,10,10874.7
+6008,Jd. Planalto - Term. Sto. Amaro,7,1,71749,10,11374.769
+6008,Term. Jd. âNgela - Jd. Copacabana,7,0,68659,41,3387.8887
+6010,Chác. Sta. Maria - Term. Guarapiranga,7,0,70721,10,15035.547
+6010,Chác. Sta. Maria - Term. Guarapiranga,7,1,70722,10,15715.012
+6012,Pq. Independência - Sto. Amaro,7,0,67868,10,15043.28
+6012,Pq. Independência - Sto. Amaro,7,1,67869,10,15267.681
+6012,Pq. Independência - Jd. âNgela,7,0,54699,31,15045.877
+6013,Jd. Nakamura - Term. Sto. Amaro,7,0,63358,10,13796.119
+6013,Jd. Nakamura - Term. Sto. Amaro,7,1,63359,10,14155.299
+6013,Etec - Jd. âNgela,7,0,79150,21,2844.8174
+6014,Term. Jd. Jacira - Term. Sto. Amaro,7,0,79345,10,19692.326
+6014,Term. Jd. Jacira - Term. Sto. Amaro,7,1,79346,10,18354.318
+6015,Vl. Calú - Sto. Amaro,7,0,63082,10,17486.061
+6015,Vl. Calú - Sto. Amaro,7,1,68719,10,18226.713
+6016,Jd. Noronha - Term. Grajaú,6,0,62571,10,7096.0806
+6016,Jd. Noronha - Term. Grajaú,6,1,48604,10,7411.1494
+6016,Jd. Porto Velho - Term. Grajaú,6,0,62572,41,6209.3052
+6016,Jd. Porto Velho - Term. Grajaú,6,1,71807,41,6053.7964
+6017,Jd. Nakamura - Sto. Amaro,7,0,79206,10,14791.905
+6017,Jd. Nakamura - Sto. Amaro,7,1,70819,10,14151.389
+6019,Term. Guarapiranga - Jd. Alfredo,7,0,70620,10,5498.2056
+6020,Chác. Bosque Do Sol - Parelheiros,6,0,79514,10,4698.4829
+6020,Estr. Do Jusa - Parelheiros,6,0,79515,51,9076.8008
+6021,Term. Varginha - Jd. Nova Era,6,0,79516,10,11652.519
+6022,Pq. Cerejeira - Jd. âNgela,7,0,79390,10,12206.82
+6026,Jd. Icaraí - Term. Sto. Amaro,6,0,73111,10,22018.359
+6026,Jd. Icaraí - Term. Sto. Amaro,6,1,73151,10,21061.188
+6027,Jd. Grauna - Term. Sto. Amaro,6,0,71176,10,13627.563
+6027,Jd. Grauna - Term. Sto. Amaro,6,1,71177,10,13312.881
+6028,Riviera - Term. Sto. Amaro,7,0,72583,10,12609.508
+6028,Riviera - Term. Sto. Amaro,7,1,72584,10,12512.691
+6030,Unisa-campus 1 - Term. Sto. Amaro,6,0,57441,10,13909.006
+6030,Unisa-campus 1 - Term. Sto. Amaro,6,1,61055,10,15815.418
+6031,Term. Grajaú - Est. Mendes/vl. Natal,6,0,79842,10,3959.3135
+6031,Term. Grajaú - Est. Mendes/vl. Natal,6,1,79843,10,4359.5762
+6034,Pq. Res. Cocaia - Term. Grajaú,6,0,62578,10,7759.5254
+6034,Pq. Res. Cocaia - Term. Grajaú,6,1,79297,10,9103.0801
+6035,Vl. Gilda - Sto. Amaro,7,0,80082,10,18165.77
+6035,Vl. Gilda - Sto. Amaro,7,1,79249,10,19029.912
+6035,Vl. Gilda - Term. Guarapiranga,7,0,65078,21,14100.589
+6035,Vl. Gilda - Term. Guarapiranga,7,1,80059,21,14052.58
+6036,Jd. Macedônia - Sto. Amaro,7,0,68724,10,14881.891
+6036,Jd. Macedônia - Sto. Amaro,7,1,53694,10,13424.728
+6037,Jd. Mitsutani - Sto. Amaro,7,0,71898,10,11491.791
+6037,Jd. Mitsutani - Sto. Amaro,7,1,64884,10,11644.146
+6038,Jd. Das Rosas - Sto. Amaro,7,0,54723,10,13565.851
+6038,Jd. Das Rosas - Sto. Amaro,7,1,68725,10,13221.951
+6039,Valo Velho - Sto. Amaro,7,0,68741,10,14128.989
+6039,Valo Velho - Sto. Amaro,7,1,52691,10,13574.169
+6039,Term. Capelinha - Cohab Jd. São Bento,7,0,64384,21,11509.308
+6041,Jd. Jangadeiro - Sto. Amaro,7,0,52712,10,13012.827
+6041,Jd. Jangadeiro - Sto. Amaro,7,1,79047,10,12997.849
+6041,Term. João Dias - Jd. Monte Azul,7,0,62509,21,6525.0156
+6042,Jd. Três Estrelas - Sto. Amaro,7,0,51461,10,11970.708
+6042,Jd. Três Estrelas - Sto. Amaro,7,1,68728,10,11908.032
+6042,Term. Capelinha - Ceu Capão Redondo,7,0,60720,21,4189.2036
+6042,Term. Capelinha - Ceu Capão Redondo,7,1,60721,21,4283.2129
+6043,Jd. Capelinha - Term. Sto. Amaro,7,0,80348,10,11397.358
+6043,Jd. Capelinha - Term. Sto. Amaro,7,1,80349,10,11176.512
+6044,Jd. D. José - Term. Sto. Amaro,7,0,57332,10,14633.102
+6044,Jd. D. José - Term. Sto. Amaro,7,1,68729,10,15380.709
+6045,Valo Velho - Sto. Amaro,7,0,56457,10,17297.057
+6045,Valo Velho - Sto. Amaro,7,1,68730,10,17137.293
+6045,Valo Velho - Term. Capelinha,7,0,63139,21,18998.779
+6046,Jd. São Bento Novo - Sto. Amaro,7,0,54837,10,12315.54
+6046,Jd. São Bento Novo - Sto. Amaro,7,1,54838,10,11933.031
+6047,Jd. Lídia - Sto. Amaro,7,0,80350,10,11871.011
+6047,Jd. Lídia - Sto. Amaro,7,1,80351,10,11001.867
+6048,Capão Redondo - Sto. Amaro,7,0,73078,10,10245.317
+6048,Capão Redondo - Sto. Amaro,7,1,78266,10,11203.748
+6049,Valo Velho - Sto. Amaro,7,0,80342,10,16608.887
+6049,Valo Velho - Sto. Amaro,7,1,80343,10,16312.743
+6050,Pq. Cocaia - Term. Grajaú,6,0,62579,10,5944.4077
+6050,Pq. Cocaia - Term. Grajaú,6,1,79298,10,6232.2979
+6051,Jd. Itajaí - Term. Varginha,6,0,48550,10,4127.5278
+6051,Jd. Itajaí - Term. Varginha,6,1,62712,10,4929.0405
+6051,Jd. Itajaí - Term. Varginha,6,0,48552,31,4397.6079
+6051,Jd. Itajaí - Term. Varginha,6,1,62714,31,5215.2148
+6052,Jd. Sete De Setembro - Term. Varginha,6,0,71193,10,5647.041
+6052,Jd. Sete De Setembro - Term. Varginha,6,1,71195,10,6076.3018
+6052,Jd. Almeida Prado - Term. Varginha,6,0,48556,31,5457.0757
+6052,Jd. Almeida Prado - Term. Varginha,6,1,62716,31,6050.1479
+6053,Jd. Ellus - Term. Grajaú,6,0,62580,10,10190.428
+6053,Jd. Ellus - Term. Grajaú,6,1,79300,10,10338.44
+6055,Est. Mendes/vl. Natal - Shop. Interlagos (via Jd. São Bernardo),6,0,79757,10,28199.957
+6056,Pq. Sta. Cecília - Term. Grajaú,6,0,79637,10,6888.0654
+6056,Pq. Sta. Cecília - Term. Grajaú,6,1,79638,10,7319.4238
+6057,Vl. Natal - Term. Grajaú,6,0,79635,10,6945.6792
+6057,Vl. Natal - Term. Grajaú,6,1,79636,10,7099.6665
+6058,Jd. Noronha - Term. Varginha,6,0,55137,10,5824.3984
+6058,Jd. Noronha - Term. Varginha,6,1,62717,10,6619.6226
+6059,Jd. Universal - Sto. Amaro,7,0,65088,10,13020.796
+6059,Jd. Universal - Sto. Amaro,7,1,71360,10,11955.747
+605A,Centro Paralimpico - Metrô Jabaquara,6,0,65055,10,4299.9165
+6061,Jd. Marilda - Term. Grajaú,6,0,62583,10,10267.693
+6061,Jd. Marilda - Term. Grajaú,6,1,68743,10,10388.067
+6062,Term. Grajaú - Jd. Castro Alves,6,0,78179,10,5733.5601
+6062,Term. Grajaú - Jd. Castro Alves,6,1,78180,10,5223.6499
+6062,Jd. Castro Alves - Term. Sto. Amaro,6,0,71196,51,13890.968
+6062,Jd. Castro Alves - Term. Sto. Amaro,6,1,71197,51,15464.411
+6063,Jd. Varginha - Term. Varginha,6,0,71198,10,5475.6362
+6063,Jd. Varginha - Term. Varginha,6,1,71199,10,5988.249
+6063,Jd. Novo Horizonte - Term. Varginha,6,0,79264,21,3179.8037
+6063,Jd. Novo Marilda - Term. Varginha,6,0,55191,41,5720.9097
+6063,Jd. Novo Marilda - Term. Varginha,6,1,62720,41,6052.5771
+6063,Chác. Sto. Amaro - Term. Varginha,6,0,55194,42,11254.972
+6063,Chác. Sto. Amaro - Term. Varginha,6,1,62721,42,11758.681
+6063,Vl. Da Paz - Term. Varginha,6,0,79100,43,17102.68
+6063,Vl. Da Paz - Term. Varginha,6,1,79101,43,17566.873
+6069,Jd. São Bernardo - Term. Sto. Amaro,6,0,79641,10,17592.02
+6069,Jd. São Bernardo - Term. Sto. Amaro,6,1,79642,10,17879.906
+6071,Jd. Orion - Term. Sto. Amaro,6,0,71202,10,16266.297
+6071,Jd. Orion - Term. Sto. Amaro,6,1,73134,10,18752.654
+6072,Jd. São Nicolau - Term. Varginha,6,0,55502,10,9691.6611
+6072,Jd. São Nicolau - Term. Varginha,6,1,68744,10,9805.2217
+6072,Jd. Iporã - Term. Varginha,6,0,78009,21,3107.5989
+6072,Term. Varginha - Baln. São José,6,0,62725,23,3577.2244
+6073,Jd. Sta. Terezinha - Term. Varginha,6,0,79517,10,13995.198
+6073,Jd. Sta. Terezinha - Term. Varginha,6,1,79518,10,14273.892
+6074,Jd. Gaivotas - Est. Jurubatuba,6,0,55723,10,16633.408
+6074,Jd. Gaivotas - Est. Jurubatuba,6,1,71206,10,17223.1
+6075,Jd. Rec. Campo Belo - Term. Varginha,6,0,79519,10,4965.2949
+6075,Jd. Rec. Campo Belo - Term. Varginha,6,1,79520,10,5161.1313
+6076,Jd. Progresso - Term. Sto. Amaro,6,0,63486,10,14137.25
+6076,Jd. Progresso - Term. Sto. Amaro,6,1,63487,10,14463.875
+6076,Jd. Satélite Ii - Term. Sto. Amaro,6,0,63488,41,11987.666
+6076,Jd. Satélite Ii - Term. Sto. Amaro,6,1,63489,41,12063.73
+6078,Cantinho Do Céu - Shop. Interlagos,6,0,55725,10,17140.652
+6078,Cantinho Do Céu - Shop. Interlagos,6,1,58519,10,16511.586
+607A,Jd. Apurá - Socorro,6,0,69473,10,13743.391
+607A,Jd. Apurá - Socorro,6,1,62949,10,15510.011
+607A,Jd. Apurá - Est. Jurubatuba,6,0,54456,21,10659.331
+607A,Jd. Apurá - Est. Jurubatuba,6,1,54459,21,10680.093
+607C,Jd. Miriam - Itaim Bibi,6,0,71836,10,15011.02
+607C,Jd. Miriam - Itaim Bibi,6,1,68491,10,14609.933
+607M,Term. Grajaú - Term. áGua Espraiada,6,0,70328,10,15934.243
+607M,Term. Grajaú - Term. áGua Espraiada,6,1,70373,10,17365.09
+6080,Jd. Lucélia - Shop. Interlagos,6,0,54924,10,16779.396
+6080,Jd. Lucélia - Shop. Interlagos,6,1,58520,10,17511.354
+6083,Jd. Eliana - Term. Grajaú,6,0,71213,10,5925.9775
+6083,Jd. Eliana - Term. Grajaú,6,1,79301,10,5992.46
+6084,Jd. Chác. Do Sol - Term. Varginha,6,0,72823,10,8277.001
+6084,Jd. Chác. Do Sol - Term. Varginha,6,1,72824,10,8782.7783
+6091,Vargem Grande - Term. Sto. Amaro,6,0,79510,10,29646.035
+6091,Vargem Grande - Term. Sto. Amaro,6,1,79511,10,30907.863
+6091,Jd. Silveira - Term. Sto. Amaro,6,0,78005,21,26850.242
+6091,Colônia - Term. Sto. Amaro,6,0,78008,51,28598.189
+6092,Jd. Das Pedras - Term. Grajaú,6,0,62739,10,8175.3354
+6092,Jd. Das Pedras - Term. Grajaú,6,1,62740,10,8136.9146
+6093,Vargem Grande - Term. Grajaú,6,0,73157,10,19923.904
+6093,Vargem Grande - Term. Grajaú,6,1,73158,10,20270.182
+6099,Term. Grajaú - Divisa De Embu-guaçu,6,0,80239,10,40670.074
+609F,Chác. Santana - Term. Princ. Isabel,7,0,80333,10,26041.896
+609F,Chác. Santana - Term. Princ. Isabel,7,1,80334,10,23991.92
+609F,Chác. Santana - Anhangabaú,7,0,80335,21,23448.502
+609F,Chác. Santana - Anhangabaú,7,1,80336,21,23023.52
+609J,Aeroporto - Metrô São Judas,6,0,60769,10,11162.79
+6110,Conj. Hab. Palmares - Aeroporto,6,0,79758,10,22212.324
+6110,Conj. Hab. Palmares - Aeroporto,6,1,79759,10,20599.086
+6115,Cantinho Do Céu - Term. Grajaú,6,0,71215,10,7824.981
+6115,Cantinho Do Céu - Term. Grajaú,6,1,79302,10,7560.3193
+6115,Pq. Res. Dos Lagos - Term. Grajaú,6,0,62589,41,8689.4785
+6115,Pq. Res. Dos Lagos - Term. Grajaú,6,1,79303,41,8334.835
+6116,Jd. Prainha - Term. Grajaú,6,0,62692,10,6409.1221
+6116,Jd. Prainha - Term. Grajaú,6,1,79764,10,6418.8052
+6118,Jd. Icaraí - Term. Sto. Amaro,6,0,73149,10,15058.011
+6118,Jd. Icaraí - Term. Sto. Amaro,6,1,73150,10,15345.127
+6120,Jd. Lucélia - Term. Grajaú,6,0,62592,10,6766.0728
+6120,Jd. Lucélia - Term. Grajaú,6,1,79305,10,6955.812
+6200,Term. Sto. Amaro - Term. Bandeira,7,0,60756,10,17554.764
+6200,Term. Sto. Amaro - Term. Bandeira,7,1,54687,10,18596.092
+6232,Pinheiros/vila Ida  - Metrô Barra Funda,8,0,58920,10,11639.64
+6232,Pinheiros/vila Ida  - Metrô Barra Funda,8,1,58919,10,11653.799
+6250,Jd. Jaqueline - Term. Bandeira,8,0,70766,10,20959.867
+6250,Jd. Jaqueline - Term. Bandeira,8,1,70767,10,22542.16
+6258,Jd. São Francisco - Term. Sto. Amaro,7,0,80085,10,8212.8535
+6258,Jd. São Francisco - Term. Sto. Amaro,7,1,80086,10,8141.1133
+6258,Jd. Sta. Margarida - Jd. Ibirapuera,7,0,79954,31,8268.8691
+6258,Jd. Sta. Margarida - Jd. Ibirapuera,7,1,79958,31,7915.4927
+6262,Ceasa - Term. Bandeira,8,0,58908,10,19261.674
+6262,Ceasa - Term. Bandeira,8,1,53022,10,19156.104
+627J,Jd. Miriam - Metrô São Judas,6,0,70417,10,18794.951
+6291,Inocoop Campo Limpo - Term. Bandeira,7,0,70758,10,23580.572
+6291,Inocoop Campo Limpo - Term. Bandeira,7,1,70759,10,22958.654
+6338,Jd. Miriam - Pq. Ibirapuera,6,0,64103,10,32697.545
+6358,Jd. Luso - Term. Bandeira,6,0,68484,10,22917.74
+6358,Jd. Luso - Term. Bandeira,6,1,68485,10,23483.057
+637A,Term. Jd. âNgela - Term. Pinheiros,7,0,58362,10,22051.746
+637A,Term. Jd. âNgela - Term. Pinheiros,7,1,54693,10,20709.898
+637A,Vl. Remo - Term. Pinheiros,7,0,70971,21,20603.715
+637A,Itaim Bibi - Term. Jd. âNgela,7,0,68554,22,18319.781
+637A,Piraporinha - Term. Pinheiros,7,0,65282,25,17777.268
+637A,Term. Guarapiranga - Term. Pinheiros,7,0,58371,26,17295.84
+637G,Grajaú - Pinheiros,6,0,69064,10,26241.604
+637G,Grajaú - Pinheiros,6,1,70374,10,28564.889
+637G,Jd. Eliana - Pinheiros,6,0,72683,51,28644.9
+637G,Jd. Eliana - Pinheiros,6,1,72684,51,31033.654
+637J,Vl. São José - Pinheiros,6,0,79910,10,27551.619
+637J,Vl. São José - Pinheiros,6,1,79911,10,28700.744
+637P,Term. Sto. Amaro - Term. Pinheiros,7,0,69083,10,14163.896
+637P,Term. Sto. Amaro - Term. Pinheiros,7,1,72257,10,14510.633
+637R,Jd. Aracati - Term. Sto. Amaro,7,0,79343,10,16172.229
+637R,Jd. Aracati - Term. Sto. Amaro,7,1,79344,10,14865.572
+637V,Pq. América - Term. Sto. Amaro,6,0,70109,10,13664.522
+637V,Pq. América - Term. Sto. Amaro,6,1,68711,10,13813.298
+6400,Term. João Dias - Term. Bandeira,7,0,71003,10,16822.848
+6400,Term. João Dias - Term. Bandeira,7,1,71004,10,17087.645
+6403,Term. João Dias - Term. Pq. D. Pedro Ii,7,0,68885,10,18571.811
+6403,Term. João Dias - Term. Pq. D. Pedro Ii,7,1,68392,10,20434.344
+6412,Paraisópolis - Paulista,8,0,62322,10,31871.107
+6414,Socorro - Term. Bandeira,7,0,72145,10,22741.223
+6414,Socorro - Term. Bandeira,7,1,70761,10,20685.24
+6418,Real Pq. - Brooklin Novo,8,0,70159,10,22798.322
+6422,Vl. Cruzeiro - Term. Bandeira,7,0,72960,10,16082.798
+6422,Vl. Cruzeiro - Term. Bandeira,7,1,78752,10,16555.424
+6450,Term. Capelinha - Term. Bandeira,7,0,73080,10,20495.674
+6450,Term. Capelinha - Term. Bandeira,7,1,78270,10,20501.178
+6451,Term. Capelinha - Term. Bandeira,7,0,70750,10,20290.91
+6451,Term. Capelinha - Term. Bandeira,7,1,70751,10,20121.707
+6455,Term. Capelinha - Lgo. São Francisco,7,0,80161,10,21421.455
+6455,Term. Capelinha - Lgo. São Francisco,7,1,78486,10,21473.02
+6475,Jd. Vaz De Lima - Term. Bandeira,7,0,73090,10,27160.721
+6475,Jd. Vaz De Lima - Term. Bandeira,7,1,70745,10,26656.547
+647A,Valo Velho - Pinheiros,7,0,79671,10,27386.645
+647A,Valo Velho - Pinheiros,7,1,79672,10,27251.553
+647P,Cohab Adventista - Term. Pinheiros,7,0,80344,10,25085.744
+647P,Cohab Adventista - Term. Pinheiros,7,1,80345,10,24078.492
+648P,Term. Capelinha - Term. Pinheiros,7,0,78343,10,17442.412
+648P,Term. Capelinha - Term. Pinheiros,7,1,78267,10,17324.117
+6500,Term. Sto. Amaro - Term. Bandeira,7,0,70754,10,14896.748
+6500,Term. Sto. Amaro - Term. Bandeira,7,1,70755,10,15455.311
+6505,Term. Guarapiranga - Term. Bandeira,7,0,69096,10,18716.258
+6505,Term. Guarapiranga - Term. Bandeira,7,1,69097,10,19538.496
+669A,Term. Sto. Amaro - Term. Princ. Isabel,7,0,69071,10,18290.484
+669A,Term. Sto. Amaro - Term. Princ. Isabel,7,1,80475,10,22435.219
+6726,Term. Grajaú - Jd. Gaivotas   ,6,0,79306,10,9374.8467
+6726,Term. Grajaú - Jd. Gaivotas   ,6,1,78182,10,9190.248
+675A,Pq. Sto. Antonio - Metrô São Judas,7,0,80346,10,23974.992
+675A,Pq. Sto. Antonio - Metrô São Judas,7,1,80347,10,20600.072
+675G,Pq. Res. Cocaia - Metrô Jabaquara,6,0,71804,10,25068.619
+675G,Pq. Res. Cocaia - Metrô Jabaquara,6,1,71805,10,26537.32
+675G,Pq. Res. Cocaia - Col. Sta. Maria,6,1,63122,22,17439.959
+675G,Jd. Castro Alves - Metrô Jabaquara,6,0,72309,41,21306.682
+675G,Jd. Castro Alves - Metrô Jabaquara,6,1,72310,41,22293.768
+675I,Term. João Dias - Metrô São Judas,7,0,69090,10,18373.096
+675I,Term. João Dias - Metrô São Judas,7,1,69091,10,15672.936
+675K,Term. Jd. âNgela - Metrô Sta. Cruz,7,0,80156,10,19691.971
+675K,Term. Jd. âNgela - Metrô Sta. Cruz,7,1,60424,10,20112.699
+675K,Vl. Remo - Moema,7,0,80157,23,16069.42
+675L,Term. Sto. Amaro - Metrô Sta. Cruz,7,0,80158,10,10745.633
+675L,Term. Sto. Amaro - Metrô Sta. Cruz,7,1,79341,10,11589.806
+675M,Centro Sesc - Metrô Jabaquara,6,0,54648,10,18349.943
+675M,Centro Sesc - Metrô Jabaquara,6,1,70243,10,18736.557
+675N,Term. Sto. Amaro - Metrô Ana Rosa,7,0,64977,10,18342.881
+675N,Term. Sto. Amaro - Metrô Ana Rosa,7,1,64978,10,16250.898
+675P,Shop. Sp Market - Metrô Conceição,6,0,79968,10,16962.367
+675P,Shop. Sp Market - Metrô Conceição,6,1,79969,10,18022.686
+675R,Grajaú - Metrô Jabaquara,6,0,64947,10,23504.971
+675R,Grajaú - Metrô Jabaquara,6,1,64948,10,24126.734
+675X,Term. Grajaú - Aacd-servidor,6,0,78375,10,40377.688
+677A,Term. Jd. âNgela - Itaim Bibi,7,0,71409,10,18011.383
+677A,Term. Jd. âNgela - Itaim Bibi,7,1,68503,10,16988.455
+677V,Jd. Alpino - Est. Grajaú,6,0,56676,10,24158.416
+677Y,Jd. Guarujá - Term. áGua Espraiada,7,0,70323,10,19728.207
+677Y,Jd. Guarujá - Term. áGua Espraiada,7,1,79630,10,20663.809
+6801,Jd. Ibirapuera - Term. João Dias,7,0,64728,10,3213.4009
+6801,Jd. Ibirapuera - Term. João Dias,7,1,64729,10,3045.8579
+6801,Jd. Ibirapuera - Term. João Dias,7,0,72779,51,7440.6548
+6801,Jd. Ibirapuera - Term. João Dias,7,1,72959,51,6283.5337
+6803,Jd. Capelinha - Term. João Dias,7,0,80227,10,6147.6821
+6803,Jd. Capelinha - Term. João Dias,7,1,80228,10,6808.4727
+6804,Jd. Ingá - Term. João Dias,7,0,62499,10,4686.021
+6804,Jd. Ingá - Term. João Dias,7,1,62500,10,4055.8706
+6805,Term. Capelinha - Term. João Dias,7,0,80337,10,7944.0664
+6805,Term. Capelinha - Term. João Dias,7,1,80338,10,7248.1943
+6805,Term. Capelinha - Term. João Dias,7,0,62277,31,7152.4268
+6805,Term. Capelinha - Term. João Dias,7,1,62278,31,7239.4751
+6806,Jd. Novo Oriente - Term. João Dias,7,0,80113,10,3886.6526
+6806,Jd. Novo Oriente - Term. João Dias,7,1,80114,10,3615.2087
+6812,Jd. Capela - Sto. Amaro,7,0,79086,10,18185.906
+6812,Jd. Capela - Sto. Amaro,7,1,79087,10,19045.258
+6813,Jd. Lídia - Term. Capelinha,7,0,59294,10,2912.9316
+6813,Jd. Lídia - Term. Capelinha,7,1,59295,10,2357.8042
+6815,Jd. Comercial - Term. Capelinha,7,0,79042,10,4016.6516
+6815,Jd. Comercial - Term. Capelinha,7,1,79043,10,3866.8079
+6816,Jd. Mitsutani - Term. Capelinha,7,0,59533,10,4796.3643
+6816,Jd. Mitsutani - Term. Capelinha,7,1,79352,10,6120.1704
+6816,Jd. Mitsutani - Term. Capelinha,7,0,59531,31,3617.4341
+6816,Jd. Mitsutani - Term. Capelinha,7,1,79353,31,5165.4941
+6817,Jd. São Bento - Term. Capelinha,7,0,55476,10,4605.8013
+6817,Jd. São Bento - Term. Capelinha,7,1,71308,10,4493.7119
+6818,Jd. Vale Das Virtudes - Term. Capelinha,7,0,62554,10,5801.1377
+6818,Jd. Vale Das Virtudes - Term. Capelinha,7,1,63403,10,5566.7144
+6820,Jd. Das Rosas - Term. Capelinha,7,0,59526,10,5719.0757
+6820,Jd. Das Rosas - Term. Capelinha,7,1,71888,10,5717.9619
+6820,Jd. Das Rosas - Term. Capelinha,7,0,59528,31,3866.9766
+6820,Jd. Das Rosas - Term. Capelinha,7,1,71309,31,3835.6494
+6821,Jd. Jangadeiro - Term. Capelinha,7,0,60709,10,5275.874
+6821,Jd. Jangadeiro - Term. Capelinha,7,1,60710,10,5172.8926
+6822,Jd. Macedônia - Term. Capelinha,7,0,59296,10,7270.877
+6822,Jd. Macedônia - Term. Capelinha,7,1,59297,10,6851.313
+6823,Jd. Guarujá - Term. Capelinha,7,0,70610,10,7991.085
+6823,Jd. Guarujá - Term. Capelinha,7,1,59318,10,7393.0166
+6824,Pq. Fernanda - Term. Capelinha,7,0,59276,10,6928.4053
+6824,Pq. Fernanda - Term. Capelinha,7,1,59277,10,7152.4409
+6825,Valo Velho - Term. Capelinha,7,0,60941,10,6089.4707
+6825,Valo Velho - Term. Capelinha,7,1,69848,10,7706.8833
+6826,Jd. D. José - Term. Capelinha,7,0,80396,10,5503.2656
+6826,Jd. D. José - Term. Capelinha,7,1,79045,10,5349.3271
+6835,Valo Velho - Term. Capelinha,7,0,60713,10,7100.8125
+6835,Valo Velho - Term. Capelinha,7,1,60714,10,6990.5078
+6835,Valo Velho - Term. Capelinha,7,0,60715,31,8371.8418
+6835,Valo Velho - Term. Capelinha,7,1,60717,31,7879.3633
+6836,Capão Redondo - Term. João Dias,7,0,80476,10,9337.5352
+6836,Capão Redondo - Term. João Dias,7,1,80477,10,9701.3916
+6837,Shop. Portal - Term. Capelinha,8,0,70246,10,11286.689
+6837,Shop. Portal - Term. Capelinha,8,1,64057,10,10436.118
+6840,Term. Jd. Jacira - Term. Capelinha,7,0,59306,10,14281.471
+6840,Term. Jd. Jacira - Term. Capelinha,7,1,59307,10,13389.261
+6913,Term. Varginha - Term. Bandeira,6,0,72680,10,29230.045
+6913,Term. Varginha - Term. Bandeira,6,1,72681,10,30055.211
+6913,Term. Varginha - Itaim Bibi,6,0,72682,21,48157.688
+695D,Jd. Sta. Barbara - Metrô Jabaquara,6,0,70719,10,19942.529
+695D,Jd. Sta. Barbara - Metrô Jabaquara,6,1,70738,10,20187.754
+695H,Jd. Herplin - Term. Sto. Amaro,6,0,69965,10,21523.869
+695H,Jd. Herplin - Term. Sto. Amaro,6,1,69966,10,21554.498
+695T,Term. Capelinha - Metrô Vl. Mariana,7,0,80163,10,17408.826
+695T,Term. Capelinha - Metrô Vl. Mariana,7,1,78272,10,17717.764
+695V,Term. Capelinha - Metrô Ana Rosa,7,0,80165,10,18027.682
+695V,Term. Capelinha - Metrô Ana Rosa,7,1,78274,10,16833.965
+695X,Term. Varginha - Metrô Jabaquara,6,0,62698,10,22599.865
+695X,Term. Varginha - Metrô Jabaquara,6,1,62699,10,23076.551
+695X,Term. Varginha - Shop. Interlagos,6,1,78026,22,14250.666
+695Y,Term. Parelheiros - Metrô Vl. Mariana,6,0,79512,10,35388.645
+695Y,Term. Parelheiros - Metrô Vl. Mariana,6,1,79513,10,37007.02
+695Y,Term. Parelheiros - Est. Autódromo,6,0,80024,21,17953.787
+695Y,Term. Parelheiros - Est. Autódromo,6,1,80025,21,18185.555
+695Y,Term. Parelheiros - Col. Sta. Maria,6,1,78028,41,22385.084
+6960,Term. Varginha - Term. Sto. Amaro,6,0,63473,10,16175.812
+6960,Term. Varginha - Term. Sto. Amaro,6,1,63474,10,16660.094
+6960,Term. Varginha - E.t. Vitor Manzini,6,1,78013,21,14490.945
+6970,Term. Grajaú - Term. Sto. Amaro,6,0,62208,10,12204.851
+6970,Term. Grajaú - Term. Sto. Amaro,6,1,62566,10,11542.635
+6L01,Marsilac - Term. Varginha,6,0,79543,10,22625.773
+6L01,Marsilac - Term. Varginha,6,1,79544,10,22966.934
+6L01,Vl. Progresso - Term. Varginha,6,0,78027,22,10571.906
+6L01,Embura - Term. Varginha,6,0,79438,23,18377.416
+6L02,Jd. Eucaliptos - Term. Parelheiros,6,0,79545,10,14522.278
+6L02,Jd. Eucaliptos - Term. Parelheiros,6,1,79546,10,14813.557
+6L03,Cipó Do Meio - Term. Parelheiros,6,0,79547,10,13518.331
+6L03,Cipó Do Meio - Term. Parelheiros,6,1,79548,10,13910.907
+6L04,Jd. Oriental/fontes - Term. Parelheiros,6,0,79527,10,9368.2891
+6L04,Jd. Oriental/fontes - Term. Parelheiros,6,1,79528,10,9398.7139
+6L04,Jd. Das Fontes - Term. Parelheiros,6,0,79529,41,6983.7417
+6L04,Jd. Das Fontes - Term. Parelheiros,6,1,79530,41,7156.4785
+6L04,Jd. Oriental - Term. Parelheiros,6,0,79531,42,9845.1172
+6L04,Jd. Oriental - Term. Parelheiros,6,1,79532,42,9730.6201
+6L05,Barragem - Term. Parelheiros,6,0,71811,10,12500.042
+6L05,Barragem - Term. Parelheiros,6,1,71812,10,12754.872
+6L05,Cid. Nova América - Term. Parelheiros,6,0,78029,21,8858.4863
+6L07,Jd. Sta. Fé - Term. Varginha,6,0,48595,10,9796.2949
+6L07,Jd. Sta. Fé - Term. Varginha,6,1,67745,10,10147.908
+6L08,Jd. São Nicolau - Hosp. Parelheiros,6,0,79533,10,11198.143
+6L10,Term. Varginha - Pq. Florestal   ,6,0,79534,10,17996.953
+6L10,Messiânica - Term. Varginha,6,0,79535,41,7088.3428
+6L10,Messiânica - Term. Varginha,6,1,79828,41,16021.24
+6L11,Ilha Do Bororé - Term. Grajaú,6,0,79308,10,13659.503
+6L11,Ilha Do Bororé - Term. Grajaú,6,1,79309,10,13146.91
+7001,Vl. Gilda - Jd. âNgela,7,0,55544,10,10120.064
+7001,Vl. Gilda - Jd. âNgela,7,1,79246,10,10059.95
+7002,Jd. Rosa Maria - Hosp. Das Clínicas,8,0,79437,10,29744.643
+7004,Term. Jd. Jacira - Est. Sto. Amaro/guido Caloi,7,0,55546,10,17613.24
+7004,Term. Jd. Jacira - Est. Sto. Amaro/guido Caloi,7,1,55547,10,17853.859
+7005,Jd. Vera Cruz - Jd. âNgela,7,0,55548,10,14689.471
+7005,Jd. Vera Cruz - Metrô Capão Redondo ,7,0,55594,51,10703.896
+7005,Jd. Vera Cruz - Metrô Capão Redondo ,7,1,68733,51,10890.436
+7006,Jd. Horizonte Azul - Jd. âNgela,7,0,54126,10,18306.717
+7006,Jd. Horizonte Azul - Metrô Capão Redondo,7,0,55563,51,11954.824
+7006,Jd. Horizonte Azul - Metrô Capão Redondo,7,1,68735,51,12206.456
+7009,Jd. São Lourenço - Jd. âNgela,7,0,55567,10,10968.398
+7011,Jd. Dos Reis - Jd. âNgela,7,0,55572,10,11834.476
+7011,Jd. Dos Reis - Jd. âNgela,7,0,55586,31,11433.345
+7012,Pq. Do Lago - Term. Guarapiranga,7,0,55587,10,11876.992
+7012,Pq. Do Lago - Term. Guarapiranga,7,1,68737,10,11833.33
+7013,Pq. Arariba - Term. Vl. Sônia,8,0,75512,10,10527.646
+7013,Pq. Arariba - Term. Vl. Sônia,8,1,75513,10,10714.591
+7016,Jd. âNgela - Term. Sto. Amaro,7,0,63372,10,11887.645
+7016,Jd. âNgela - Term. Sto. Amaro,7,1,63373,10,11236.401
+7016,Vl. Sta. Lúcia - Term. Sto. Amaro,7,0,68277,21,10310.833
+7017,Jd. Guarujá - Term. Guarapiranga,7,0,63653,10,10467.803
+7017,Jd. Guarujá - Term. Guarapiranga,7,1,63654,10,9817.7627
+701A,Pq. Edu Chaves - Metrô Vl. Madalena,2,0,80407,10,26526.861
+701A,Pq. Edu Chaves - Metrô Vl. Madalena,2,1,71696,10,27146.258
+701H,Hospital Guarapiranga - Circular,7,0,72588,10,2857.8899
+701U,Metrô Santana - Cid. Universitária,2,0,80408,10,24667.0
+701U,Metrô Santana - Cid. Universitária,2,1,78277,10,22974.27
+7021,Jd. Maracá - Term. João Dias,7,0,64734,10,7845.7769
+7021,Jd. Maracá - Term. João Dias,7,1,64735,10,8057.1758
+7022,Jd. Caiçara - Term. Sto. Amaro,7,0,79349,10,12117.346
+7022,Jd. Caiçara - Term. Sto. Amaro,7,1,79350,10,11457.363
+7023,Jd. Nakamura - Term. Sto. Amaro,7,0,71856,10,11771.538
+7023,Jd. Nakamura - Term. Sto. Amaro,7,1,80058,10,11371.812
+702C,Jd. Bonfiglioli - Metrô Belém,8,0,63947,10,23808.234
+702C,Jd. Bonfiglioli - Metrô Belém,8,1,70862,10,23019.297
+702U,Cid. Universitária - Term. Pq. D. Pedro Ii,8,0,57025,10,18657.641
+702U,Cid. Universitária - Term. Pq. D. Pedro Ii,8,1,70879,10,20774.277
+7040,Paraisópolis - Pinheiros,8,0,71528,10,10590.055
+7040,Paraisópolis - Pinheiros,8,1,72184,10,11252.301
+7049,Pq. Do Lago - Term. Campo Limpo,7,0,79391,10,13518.521
+7049,Pq. Do Lago - Term. Campo Limpo,7,1,68738,10,12620.695
+7050,Jd. Das Rosas - Term. Campo Limpo,7,0,78569,10,8026.0859
+7050,Jd. Das Rosas - Term. Campo Limpo,7,1,71152,10,7587.5522
+7051,Jd. Rosana - Term. Campo Limpo,7,0,58822,10,4420.8657
+7051,Jd. Rosana - Term. Campo Limpo,7,1,71359,10,4145.4102
+7052,Jd. Helga - Term. Campo Limpo,7,0,58824,10,4959.9824
+7052,Jd. Helga - Term. Campo Limpo,7,1,58825,10,5119.0781
+7053,Jd. Macedônia - Term. Campo Limpo,7,0,55568,10,4304.3828
+7053,Jd. Macedônia - Term. Campo Limpo,7,1,71358,10,4275.7417
+7053,Jd. Maria Sampaio - Term. Campo Limpo,7,0,55596,21,2362.5059
+7053,Jd. Maria Sampaio - Term. Campo Limpo,7,1,71357,21,2279.2024
+7053,Jd. Maria Sampaio - Term. Campo Limpo,7,0,55598,22,2795.1748
+7053,Jd. Maria Sampaio - Term. Campo Limpo,7,1,71356,22,2787.9165
+7054,Jd. Macedônia - Term. Campo Limpo,7,0,63863,10,3816.063
+7054,Jd. Macedônia - Term. Campo Limpo,7,1,63864,10,4036.8606
+7055,Jd. Guarujá - Term. Campo Limpo,7,0,58828,10,10820.722
+7055,Jd. Guarujá - Term. Campo Limpo,7,1,58829,10,10770.503
+7057,Jd. Mitsutani - Term. Campo Limpo,7,0,63438,10,4188.8809
+7057,Jd. Mitsutani - Term. Campo Limpo,7,1,63439,10,3407.9438
+7059,Pq. Do Engenho - Term. Campo Limpo,7,0,78572,10,9034.5381
+7059,Pq. Do Engenho - Term. Campo Limpo,7,1,58835,10,9150.082
+7060,Valo Velho - Term. Campo Limpo,7,0,78576,10,8132.7202
+7060,Valo Velho - Term. Campo Limpo,7,1,71455,10,8669.1758
+7062,Inocoop Campo Limpo - Term. Campo Limpo,7,0,71394,10,3823.1926
+7062,Inocoop Campo Limpo - Term. Campo Limpo,7,1,71903,10,3626.6167
+7062,Inocoop Campo Limpo - Term. Campo Limpo,7,0,72201,31,2893.2585
+7062,Inocoop Campo Limpo - Term. Campo Limpo,7,1,72202,31,2758.4302
+7062,Metrô Campo Limpo - Horto Do Ypê,7,0,79930,41,4498.2197
+7063,Jd. Macedônia - Term. Campo Limpo,7,0,58820,10,5290.4063
+7063,Jd. Macedônia - Term. Campo Limpo,7,1,71905,10,5235.7368
+707A,Jd. âNgela - Metrô Pça. Da áRvore,7,0,80159,10,21745.836
+707A,Jd. âNgela - Metrô Pça. Da áRvore,7,1,79772,10,22231.334
+707A,Piraporinha - Moema,7,0,80160,23,13964.884
+707K,Term. Guarapiranga - Metrô Jabaquara,7,0,68269,10,14650.534
+707K,Term. Guarapiranga - Metrô Jabaquara,7,1,68422,10,14644.24
+709A,Term. áGua Espraiada - Metrô Ana Rosa,7,0,71414,10,9662.042
+709A,Term. áGua Espraiada - Metrô Ana Rosa,7,1,70314,10,10846.818
+709G,Term. Guarapiranga - Itaim Bibi,7,0,80225,10,30031.027
+709M,Term. Sto. Amaro - Term. Pinheiros,7,0,62240,10,14283.795
+709M,Term. Sto. Amaro - Term. Pinheiros,7,1,62241,10,14290.266
+709P,Est. Sto. Amaro/guido Caloi - Term. Pinheiros,7,0,63568,10,15035.996
+709P,Est. Sto. Amaro/guido Caloi - Term. Pinheiros,7,1,60794,10,15294.729
+714C,Cohab Educandário - Paulista,8,0,79425,10,39458.242
+715M,Jd. Maria Luiza - Lgo. Da Pólvora,8,0,55986,10,17635.494
+715M,Jd. Maria Luiza - Lgo. Da Pólvora,8,1,55987,10,18175.01
+7181,Cid. Universitária - Term. Princ. Isabel,8,0,60865,10,15797.821
+7181,Cid. Universitária - Term. Princ. Isabel,8,1,53981,10,16387.957
+719P,Term. Pinheiros - Term. Princ. Isabel,8,0,62882,10,9579.8594
+719P,Term. Pinheiros - Term. Princ. Isabel,8,1,73167,10,8805.54
+719R,Rio Pequeno - Metrô Barra Funda,8,0,73168,10,18999.938
+719R,Rio Pequeno - Metrô Barra Funda,8,1,63101,10,18096.529
+7245,Term. Sto. Amaro - Hosp. Das Clínicas,7,0,72961,10,19419.631
+7245,Term. Sto. Amaro - Hosp. Das Clínicas,7,1,79254,10,18303.957
+7267,Apiacás - Pça. Ramos De Azevedo,8,0,58487,10,14584.506
+7272,Mercado Da Lapa - Pça. Ramos De Azevedo,8,0,78578,10,25332.922
+7281,Lapa - Pça. Ramos De Azevedo,8,0,54060,10,21486.861
+7282,Pq. Continental - Pça. Ramos De Azevedo,8,0,73012,10,45108.145
+736G,Jd. Ingá - Shop. Morumbi,8,0,57953,10,9785.2422
+736G,Jd. Ingá - Shop. Morumbi,8,1,78877,10,14197.024
+736I,Jd. Ingá - Sto. Amaro,8,0,62078,10,9064.4443
+736I,Jd. Ingá - Sto. Amaro,8,1,70656,10,9180.2588
+737A,Term. Jd. âNgela - Term. Sto. Amaro,7,0,63377,10,9900.8516
+737A,Term. Jd. âNgela - Term. Sto. Amaro,7,1,63378,10,9775.2266
+7411,Cid. Universitária - Pça. Da Sé,8,0,54211,10,28844.531
+7458,Jd. Boa Vista - Term. Vl. Sônia,8,0,80754,10,9140.4229
+7458,Jd. Boa Vista - Term. Vl. Sônia,8,1,80755,10,9889.3223
+745M,Campo Limpo - Shop. Sp Market,8,0,79846,10,23628.783
+745M,Campo Limpo - Shop. Sp Market,8,1,79847,10,22056.068
+745M,Campo Limpo - Pq. Figueira Grande,8,0,79089,21,26183.082
+746C,Jd. Taboão - Sto. Amaro,8,0,72235,10,10042.504
+746C,Jd. Taboão - Sto. Amaro,8,1,72236,10,10798.15
+746H,Jd. Jaqueline - Sto. Amaro,8,0,65303,10,16831.537
+746H,Jd. Jaqueline - Sto. Amaro,8,1,65304,10,16362.673
+746K,Paraisópolis - Campo Belo,8,0,72818,10,17617.32
+746P,Paraisópolis - Sto. Amaro,8,0,72886,10,10087.026
+746P,Paraisópolis - Sto. Amaro,8,1,72888,10,9088.9893
+746R,Real Pq. - Sto. Amaro,8,0,61692,10,19766.277
+746V,Jd. Rebouças - Hosp. Campo Limpo,8,0,79088,10,18505.443
+748A,Jd. D'abril - Lapa,8,0,70624,10,21085.184
+748A,Jd. D'abril - Lapa,8,1,61327,10,15082.474
+748A,Jd. Peri Peri - Lapa,8,0,70625,41,17807.779
+748A,Jd. Peri Peri - Lapa,8,1,58151,41,18149.422
+748R,Jd. João Xxiii - Metrô Barra Funda,8,0,63948,10,27436.297
+748R,Jd. João Xxiii - Metrô Barra Funda,8,1,63949,10,24492.264
+7545,Jd. João Xxiii - Pça. Ramos De Azevedo,8,0,71827,10,19093.662
+7545,Jd. João Xxiii - Pça. Ramos De Azevedo,8,1,71828,10,21298.633
+7545,Cdhu Butantã - Pça. Ramos De Azevedo,8,0,54573,21,17133.191
+7545,Cdhu Butantã - Pça. Ramos De Azevedo,8,1,54574,21,19421.148
+7550,Term. Sto. Amaro - Metrô Sta. Cecília,7,0,68946,10,18226.209
+7550,Term. Sto. Amaro - Metrô Sta. Cecília,7,1,68947,10,18157.398
+756A,Jd. Paulo Vi - Term. áGua Espraiada,8,0,79411,10,20014.42
+756A,Jd. Paulo Vi - Term. áGua Espraiada,8,1,79412,10,20252.791
+771P,Jd. João Xxiii - Term. Pinheiros,8,0,70665,10,27000.805
+7725,Rio Pequeno - Term. Lapa,8,0,59362,10,22865.723
+7725,Rio Pequeno - Term. Lapa,8,1,59363,10,22581.283
+775A,Jd. Adalgiza - Pinheiros,8,0,71316,10,27323.291
+775F,Jd. Das Palmas - Hosp. Das Clínicas,8,0,61119,10,38597.805
+775F,Jd. Das Palmas - Pq. Do Povo,8,0,72972,31,27401.164
+775N,Rio Pequeno - Metrô Vl. Madalena,8,0,71702,10,13192.789
+775N,Rio Pequeno - Metrô Vl. Madalena,8,1,71710,10,14710.372
+775P,Jd. Guaraú - Metrô Ana Rosa,8,0,58541,10,19640.594
+775P,Jd. Guaraú - Metrô Ana Rosa,8,1,72967,10,20093.184
+775V,Rio Pequeno - Itaim Bibi,8,0,63105,10,27871.736
+778J,Jd. Arpoador - Metrô Barra Funda,8,0,54786,10,23235.83
+778J,Jd. Arpoador - Metrô Barra Funda,8,1,63102,10,22484.41
+778J,Cohab Raposo Tavares - Metrô Barra Funda,8,0,59177,41,23057.432
+778J,Cohab Raposo Tavares - Metrô Barra Funda,8,1,65042,41,22520.617
+778R,Cohab Raposo Tavares - Term. Princ. Isabel,8,0,64411,10,24598.02
+778R,Cohab Raposo Tavares - Term. Princ. Isabel,8,1,80513,10,24892.105
+7903,Jd. João Xxiii/educ. - Pça. Ramos De Azevedo,8,0,79426,10,43012.289
+8000,Term. Lapa - Pça. Ramos De Azevedo,1,0,70234,1,8196.959
+8000,Term. Lapa - Pça. Ramos De Azevedo,1,1,70235,1,7897.2876
+8000,Term. Lapa - Pça. Ramos De Azevedo,1,0,70236,10,8196.959
+8000,Term. Lapa - Pça. Ramos De Azevedo,1,1,70237,10,7897.2876
+8001,Vl. Piauí - Term. Lapa,1,0,52842,10,11003.556
+8001,Vl. Piauí - Term. Lapa,1,1,52843,10,11415.285
+8002,Term. Pirituba - Term. Lapa,1,0,78365,10,13797.543
+8002,Term. Pirituba - Term. Lapa,1,1,78366,10,12795.306
+8003,Remédios - Term. Lapa,1,0,53052,10,7996.9575
+8003,Remédios - Term. Lapa,1,1,53053,10,10760.96
+8004,Sta. Mônica - Term. Lapa,1,0,71342,10,14099.012
+8004,Sta. Mônica - Term. Lapa,1,1,71343,10,14000.935
+8006,Jd. Donária - Term. Pirituba,1,0,53072,10,12637.801
+8006,Jd. Donária - Term. Pirituba,1,1,60336,10,13708.193
+8007,Hab. Turística - Term. Pirituba,1,0,78350,10,6776.0601
+8007,Hab. Turística - Term. Pirituba,1,1,78351,10,6920.9902
+8008,Sta. Mônica - Term. Pirituba,1,0,80356,10,7861.2534
+8008,Sta. Mônica - Term. Pirituba,1,1,80357,10,7737.3047
+8009,Cid. D'abril 3ª Gleba - Term. Pirituba,1,0,63260,10,10674.819
+8009,Cid. D'abril 3ª Gleba - Term. Pirituba,1,1,63261,10,10825.749
+8009,Cid. D'abril 3ª Gleba - Term. Pirituba,1,0,71555,31,18962.99
+8009,Cid. D'abril 3ª Gleba - Term. Pirituba,1,1,71556,31,19428.838
+8010,Perus - Lapa,1,0,78565,10,23037.305
+8010,Perus - Lapa,1,1,79707,10,24775.744
+8010,Cptm Perus - Sítio Botuquara,1,0,79844,21,12480.504
+8012,Metrô Butantã - Cid. Universitária,8,0,78452,10,8855.377
+8012,Metrô Butantã - Cid. Universitária,8,1,78319,10,9323.3672
+8013,Term. Jd. Britania - Lapa,1,0,64051,10,16740.23
+8013,Term. Jd. Britania - Lapa,1,1,78804,10,19884.631
+8013,Term. Jd. Britania - Jd. Paineiras,1,0,72822,41,8768.2139
+8014,Morro Doce - Perus,1,0,80200,10,33686.027
+8015,Cem. De Perus - Term. Pirituba,1,0,80383,10,19816.078
+8015,Cem. De Perus - Term. Pirituba,1,1,80209,10,18154.648
+8015,Cem. De Perus - Cptm Perus,1,0,80201,21,8624.2803
+8016,Jd. Rincão - Term. Pirituba,1,0,71223,10,10495.483
+8016,Jd. Rincão - Term. Pirituba,1,1,80028,10,11640.658
+8017,Cptm Vl. Aurora - Term. Pirituba,1,0,79712,10,13773.758
+8017,Cptm Vl. Aurora - Term. Pirituba,1,1,79959,10,15471.293
+8017,Voith - Cptm Vl. Aurora,1,0,79678,21,2159.8213
+8018,Vl. Sônia - Metrô Morumbi,8,0,72930,10,13272.843
+8019,Pq. Continental - Metrô Butantã,8,0,73020,10,24474.146
+8019,Pq. Continental - Term. Vl. Sônia,8,0,79456,31,14253.737
+8019,Pq. Continental - Term. Vl. Sônia,8,1,79460,31,13309.26
+8020,Butantã - Shop. Morumbi,8,0,61322,10,20777.941
+8021,Jd. Maria Luiza - Butantã,8,0,52913,10,18982.932
+8022,Metrô Butantã - Cid. Universitária,8,0,80204,10,10169.261
+8022,Metrô Butantã - Cid. Universitária,8,1,80205,10,8888.7969
+8023,Cdhu Munck - Term. Vl. Sônia,8,0,75508,10,9483.918
+8023,Cdhu Munck - Term. Vl. Sônia,8,1,75509,10,8952.9697
+8025,Jd. Rosa Maria - Term. Vl. Sônia,8,0,79626,10,8511.7207
+8025,Jd. Rosa Maria - Term. Vl. Sônia,8,1,79627,10,10041.509
+8026,Jd. Ingá - Term. Vl. Sônia,8,0,75525,10,11233.409
+8026,Jd. Ingá - Term. Vl. Sônia,8,1,77794,10,11172.096
+8027,Vl. Dalva - Butantã,8,0,64351,10,17835.895
+8028,Paraisópolis - Metrô Morumbi,8,0,79461,10,10426.781
+8028,Paraisópolis - Metrô Morumbi,8,1,79463,10,11024.319
+8029,Shop. Portal - Term. Morumbi,8,0,69554,10,6689.7583
+8029,Shop. Portal - Term. Morumbi,8,1,70073,10,8448.4434
+8030,Paraisópolis - Term. Vl. Sônia,8,0,79688,10,8555.4521
+8030,Paraisópolis - Term. Vl. Sônia,8,1,79706,10,11767.978
+8032,Metrô Butantã - Cid. Universitária,8,0,79619,10,9620.0508
+8038,Pq. Continental - Lapa,8,0,64084,10,15776.006
+8038,Pq. Continental - Lapa,8,1,64081,10,16596.492
+8040,Sol Nascente - Term. Lapa,1,0,71344,10,24766.48
+8040,Sol Nascente - Term. Lapa,1,1,71345,10,22173.967
+8043,Hab. Turística - Lapa,1,0,72939,10,14403.338
+8043,Hab. Turística - Lapa,1,1,72940,10,14742.288
+8047,Jaraguá - Lapa,1,0,69218,10,23708.459
+8047,Jaraguá - Lapa,1,1,69219,10,21705.143
+8047,Jaraguá - Metrô Vl. Madalena,1,0,57702,41,22400.879
+8047,Jaraguá - Metrô Vl. Madalena,1,1,71840,41,23003.508
+8047,Jaraguá - Lapa,1,0,68358,51,27015.504
+8050,Pq. Morro Doce - Lapa,1,0,68348,10,21128.885
+8050,Pq. Morro Doce - Lapa,1,1,68349,10,22782.268
+8050,Anhanguera - Lapa,1,0,68347,21,21195.498
+8050,Pq. Morro Doce - Lapa,1,0,68350,31,21798.801
+8050,Pq. Morro Doce - Lapa,1,1,68351,31,23140.922
+8055,Perus - Lapa,1,0,80202,10,29245.645
+8055,Perus - Lapa,1,1,69225,10,25263.674
+8055,Perus - Metrô Barra Funda,1,0,80203,51,33340.566
+8055,Perus - Metrô Barra Funda,1,1,58936,51,30993.244
+805L,Term. Princ. Isabel - Aclimação,3,0,68435,10,15625.487
+8060,Vl. Piauí - Term. Lapa,1,0,71348,10,12147.421
+8060,Vl. Piauí - Term. Lapa,1,1,71349,10,13262.796
+8062,Pq. São Domingos - Lapa,1,0,73032,10,18788.914
+8065,Vl. Clarice - Lapa,1,0,72942,10,14444.097
+8065,Vl. Clarice - Lapa,1,1,72943,10,14422.3
+8072,Pq. Ipê - Metrô Morumbi,8,0,79462,10,10853.937
+8072,Pq. Ipê - Metrô Morumbi,8,1,79469,10,11233.468
+8073,Jd. Guaraú - Term. Vl. Sônia,8,0,75514,10,7772.7529
+8073,Jd. Guaraú - Term. Vl. Sônia,8,1,75515,10,9456.3066
+8075,Term. Campo Limpo - Metrô Butantã,8,0,79622,10,10950.95
+8075,Term. Campo Limpo - Metrô Butantã,8,1,79618,10,11264.288
+8075,Term. Campo Limpo - Term. Vl. Sônia,8,0,75523,21,6507.8848
+8075,Term. Campo Limpo - Term. Vl. Sônia,8,1,75524,21,7044.0117
+8077,Jd. João Xxiii - Term. Vl. Sônia,8,0,75521,10,9650.7549
+8077,Jd. João Xxiii - Term. Vl. Sônia,8,1,75522,10,10519.605
+8078,Jd. Das Palmas - Hosp. Campo Limpo,8,0,78291,10,18775.135
+807A,Term. Campo Limpo - Term. Sto. Amaro,7,0,73087,10,10374.444
+807A,Term. Campo Limpo - Term. Sto. Amaro,7,1,78268,10,11227.773
+807J,Term. Campo Limpo - Shop. Morumbi,8,0,59145,10,14498.687
+807J,Term. Campo Limpo - Shop. Morumbi,8,1,68234,10,15836.786
+807M,Term. Campo Limpo - Shop. Morumbi,8,0,64063,10,17745.746
+807M,Term. Campo Limpo - Shop. Morumbi,8,1,68235,10,19239.053
+807P,Paraisópolis - Sto. Amaro,8,0,72907,10,22416.871
+809A,Jd. D'abril - Term. Pinheiros,8,0,59771,10,13940.34
+809A,Jd. D'abril - Term. Pinheiros,8,1,61328,10,13163.862
+809D,Cohab Educandário - Term. Pinheiros,8,0,71719,10,16185.675
+809D,Cohab Educandário - Term. Pinheiros,8,1,71720,10,15720.497
+809H,Jd. Boa Vista - Lapa,8,0,80753,10,22689.74
+809H,Jd. Boa Vista - Lapa,8,1,78323,10,22706.443
+809J,Jd. Colombo - Metrô Morumbi,8,0,69170,10,17881.014
+809L,Campo Limpo - Lapa,8,0,59573,10,18386.371
+809L,Campo Limpo - Lapa,8,1,62120,10,17830.541
+809N,Vl. Dalva - Lapa,8,0,56039,10,13830.321
+809N,Vl. Dalva - Lapa,8,1,56040,10,12749.025
+809P,Term. Campo Limpo - Term. Pinheiros,7,0,68395,10,12607.122
+809P,Term. Campo Limpo - Term. Pinheiros,7,1,68378,10,13138.837
+809R,Rio Pequeno - Term. Pinheiros,8,0,59336,10,20090.648
+809T,Cohab Raposo Tavares - Lapa,8,0,63952,10,22142.717
+809T,Cohab Raposo Tavares - Lapa,8,1,65044,10,22154.23
+809U,Cid. Universitária - Metrô Barra Funda,8,0,78582,10,14384.491
+809U,Cid. Universitária - Metrô Barra Funda,8,1,63073,10,13662.462
+809U,Metrô Barra Funda - Metrô Vila Madalena,8,0,58911,21,4550.603
+809U,Metrô Barra Funda - Metrô Vila Madalena,8,1,78583,21,5273.5874
+809V,Vl. Gomes - Metrô - Trianon - Masp,8,0,55786,10,18895.855
+8100,Term. Pirituba - Term. Lapa,1,0,69014,10,10069.172
+8100,Term. Pirituba - Term. Lapa,1,1,79442,10,10186.878
+817C,Lapa - Hosp. Das Clínicas,8,0,55052,10,11547.942
+8194,Perus - Term. Cachoeirinha,1,0,80210,10,20118.426
+8194,Perus - Term. Cachoeirinha,1,1,80211,10,20779.287
+8199,Pirituba - Cem. Vl. Nova Cachoeirinha,1,0,72375,10,15311.967
+8199,Pirituba - Cem. Vl. Nova Cachoeirinha,1,1,72376,10,15488.331
+819A,Cptm Vl. Aurora - Jd. Primavera,1,0,64242,10,19560.686
+819A,Cptm Vl. Aurora - Jd. Primavera,1,1,64243,10,19813.262
+8200,Term. Pirituba - Term. Lapa,1,0,69451,10,8545.3008
+8200,Term. Pirituba - Term. Lapa,1,1,59348,10,8028.2617
+8215,Jd. Paulistano - Pça. Do Correio,1,0,80386,10,17109.119
+8215,Jd. Paulistano - Pça. Do Correio,1,1,64307,10,18625.453
+8252,Metrô Barra Funda - Lapa,8,0,78587,10,19089.379
+8300,Term. Pirituba - Term. Lapa,1,0,64514,1,7159.3818
+8300,Term. Pirituba - Term. Lapa,1,1,73037,1,7218.7319
+8300,Term. Pirituba - Term. Lapa,1,0,64512,10,7159.3818
+8300,Term. Pirituba - Term. Lapa,1,1,73038,10,7218.7319
+8319,Pq. Continental - Sesc Pompéia,8,0,73013,10,23464.664
+8319,Shop. Villa Lobos - Pq. Continental,8,0,73014,21,7023.7017
+8400,Term. Pirituba - Pça. Ramos De Azevedo,1,0,78357,10,15095.97
+8400,Term. Pirituba - Pça. Ramos De Azevedo,1,1,78358,10,14736.965
+846M,Vl. Piauí - Term. Pinheiros,1,0,70632,10,18505.514
+846M,Vl. Piauí - Term. Pinheiros,1,1,59931,10,17392.621
+847J,City Jaraguá - Jaguaré,1,0,59513,10,24664.826
+847J,City Jaraguá - Jaguaré,1,1,73033,10,24808.512
+847P,Term. Pirituba - Vl. Olímpia,1,0,78367,10,19161.742
+847P,Term. Pirituba - Vl. Olímpia,1,1,78368,10,20121.598
+847P,Brasilândia - Vl. Olímpia,1,0,72267,42,20122.311
+847P,Brasilândia - Vl. Olímpia,1,1,69516,42,21322.107
+848L,Recanto Dos Humildes - Term. Pirituba,1,0,63120,10,20370.822
+848L,Recanto Dos Humildes - Term. Pirituba,1,1,80206,10,22948.713
+8500,Term. Pirituba - Metrô Barra Funda,1,0,78359,10,9834.9014
+8500,Term. Pirituba - Metrô Barra Funda,1,1,78360,10,10383.185
+8528,Jd. Guarani - Pça. Do Correio,1,0,80434,10,18738.828
+8528,Jd. Guarani - Pça. Do Correio,1,1,61179,10,18989.57
+8538,Freguesia Do Ó - Pça. Do Correio,1,0,63328,10,17561.484
+8538,Freguesia Do Ó - Pça. Do Correio,1,1,63329,10,18702.484
+8542,Brasilândia - Term. Lapa,1,0,79970,21,14640.906
+8542,Brasilândia - Term. Lapa,1,1,79971,21,14915.379
+8544,Cid. D'abril 3ª Gleba - Pça. Do Correio,1,0,61571,10,26150.9
+8544,Cid. D'abril 3ª Gleba - Pça. Do Correio,1,1,61572,10,27113.412
+8545,Penteado - Metrô Barra Funda,1,0,78498,10,16938.637
+8545,Penteado - Metrô Barra Funda,1,1,72387,10,17256.814
+8548,Parada De Taipas - Term. Lapa,1,0,80219,10,16373.001
+8548,Parada De Taipas - Term. Lapa,1,1,80220,10,16514.16
+8549,Taipas - Pça. Do Correio,1,0,71435,10,24939.869
+8549,Taipas - Pça. Do Correio,1,1,63796,10,24361.611
+856R,Lapa - Socorro,8,0,78584,10,25800.758
+856R,Lapa - Socorro,8,1,78585,10,26558.152
+857A,Term. Campo Limpo - Metrô Sta. Cruz,7,0,64156,10,20662.203
+857A,Term. Campo Limpo - Metrô Sta. Cruz,7,1,68391,10,20873.791
+857C,Term. Campo Limpo - Metrô Conceição,7,0,73089,10,20682.775
+857C,Term. Campo Limpo - Metrô Conceição,7,1,70994,10,21591.779
+857P,Term. Campo Limpo - Paraíso,7,0,63673,10,19282.762
+857P,Term. Campo Limpo - Paraíso,7,1,68393,10,18397.801
+857R,Term. Campo Limpo - Aclimação,8,0,62607,10,22565.83
+857R,Term. Campo Limpo - Aclimação,8,1,80746,10,22365.504
+857R,Est. Hebraica Rebouças - Ana Rosa,8,0,41432,41,8431.7939
+8594,Cid. D'abril  - Pça. Ramos De Azevedo,1,0,71445,10,23539.938
+8594,Cid. D'abril  - Pça. Ramos De Azevedo,1,1,73040,10,23792.762
+8594,Cid. Pirituba - Pça. Ramos De Azevedo,1,0,70668,21,14970.32
+8594,Cohab Pedra Verde - Pça. Ramos De Azevedo,1,0,70669,41,19884.408
+8600,Term. Pirituba - Lgo. Do Paissandú,1,0,78372,10,13652.615
+8600,Term. Pirituba - Lgo. Do Paissandú,1,1,78373,10,14115.059
+8600,Vl. Iório - Lgo. Do Paissandú,1,0,63628,22,11977.173
+8605,Term. Campo Limpo - Term. Bandeira,7,0,71001,10,18728.971
+8605,Term. Campo Limpo - Term. Bandeira,7,1,70743,10,19495.621
+8610,Jd. Paulo Vi - Term. Bandeira,8,0,79670,10,23997.496
+8610,Jd. Paulo Vi - Term. Bandeira,8,1,65045,10,27229.525
+8615,Pq. Da Lapa - Term. Pq. D. Pedro Ii,8,0,71882,10,16199.429
+8615,Pq. Da Lapa - Term. Pq. D. Pedro Ii,8,1,57036,10,17063.719
+8622,Morro Doce - Pça. Ramos De Azevedo,1,0,70666,10,28796.496
+8622,Morro Doce - Pça. Ramos De Azevedo,1,1,70667,10,30497.0
+8677,Jd. Líbano - Lgo. Do Paissandú,1,0,64543,10,24267.908
+8677,Jd. Líbano - Lgo. Do Paissandú,1,1,72759,10,23235.123
+8686,Mangalot - Lgo. Do Paissandú,1,0,64609,10,17228.539
+8686,Mangalot - Lgo. Do Paissandú,1,1,64610,10,15366.056
+8700,Term. Campo Limpo - Pça. Ramos De Azevedo,8,0,64216,1,17741.322
+8700,Term. Campo Limpo - Pça. Ramos De Azevedo,8,1,64217,1,18885.51
+8700,Term. Campo Limpo - Pça. Ramos De Azevedo,8,0,63593,10,17741.322
+8700,Term. Campo Limpo - Pça. Ramos De Azevedo,8,1,68414,10,18885.51
+8700,Lgo. Do Taboão - Pça. Ramos De Azevedo,8,0,52896,21,14238.354
+8700,Lgo. Do Taboão - Pça. Ramos De Azevedo,8,0,64554,24,14238.354
+8705,Shop. Continental - Anhangabaú,8,0,73016,10,15139.405
+8705,Shop. Continental - Anhangabaú,8,1,73017,10,16748.721
+8707,Rio Pequeno - Term. Princ. Isabel,8,0,64143,10,18570.701
+8707,Rio Pequeno - Term. Princ. Isabel,8,1,52882,10,18781.229
+874C,Pq. Continental - Metrô - Trianon - Masp ,8,0,73015,10,31097.504
+874T,Ipiranga - Lapa,5,0,78275,10,21849.805
+874T,Ipiranga - Lapa,5,1,79256,10,24751.77
+875A,Aeroporto - Perdizes,6,0,62472,10,25243.676
+875A,Aeroporto - Perdizes,6,1,64993,10,29502.982
+875C,Term. Lapa - Metrô Sta. Cruz,8,0,68428,1,19688.975
+875C,Term. Lapa - Metrô Sta. Cruz,8,1,70626,1,18734.455
+875C,Term. Lapa - Metrô Sta. Cruz,8,0,68429,10,19688.975
+875C,Term. Lapa - Metrô Sta. Cruz,8,1,70627,10,18734.455
+875H,Term. Lapa - Metrô Vl. Mariana,8,0,78586,10,13415.185
+875H,Term. Lapa - Metrô Vl. Mariana,8,1,72859,10,12743.53
+875P,Metrô Barra Funda - Metrô Ana Rosa,8,0,68810,10,10431.287
+875P,Metrô Barra Funda - Metrô Ana Rosa,8,1,68811,10,10366.88
+877T,Vl. Anastácio - Metrô Paraíso,8,0,80237,10,20152.814
+877T,Vl. Anastácio - Metrô Paraíso,8,1,80238,10,18001.291
+888P,Perus - Cohab Taipas,1,0,80207,10,19267.729
+888P,Perus - Cohab Taipas,1,1,79154,10,17053.576
+9002,Jd. Pery Alto - Term. Cachoeirinha,2,0,69503,10,5354.1382
+9002,Jd. Pery Alto - Term. Cachoeirinha,2,1,64535,10,4945.8286
+9004,Jd. Elisa Maria - Term. Cachoeirinha,1,0,72238,10,4643.9136
+9004,Jd. Elisa Maria - Term. Cachoeirinha,1,1,72239,10,4132.5522
+9005,Jd. Princesa - Term. Cachoeirinha,1,0,60652,10,6990.1685
+9005,Jd. Princesa - Term. Cachoeirinha,1,1,72381,10,5960.9971
+9005,Jd. Vista Alegre - Term. Cachoeirinha,1,0,70240,41,5351.4224
+9005,Jd. Vista Alegre - Term. Cachoeirinha,1,1,63590,41,4759.6016
+9005,Sítio Dos Francos - Term. Cachoeirinha,1,0,60655,42,4044.6868
+9005,Sítio Dos Francos - Term. Cachoeirinha,1,1,72521,42,3478.6768
+9006,Vl. Penteado - Term. Cachoeirinha,1,0,79161,10,4333.7417
+9006,Vl. Penteado - Term. Cachoeirinha,1,1,79162,10,4216.0625
+9008,Pq. De Taipas - Term. Cachoeirinha,1,0,54600,10,8750.8828
+9008,Pq. De Taipas - Term. Cachoeirinha,1,1,54601,10,8985.8418
+9008,Estância Jaraguá - Term. Cachoeirinha,1,0,72804,41,8686.4443
+9009,Cohab Brasilândia - Term. Cachoeirinha,1,0,78808,10,11238.155
+9009,Cohab Brasilândia - Term. Cachoeirinha,1,1,78809,10,11553.623
+9011,Cptm Jaraguá - Term. Cachoeirinha,1,0,80007,10,16837.643
+9011,Cptm Jaraguá - Term. Cachoeirinha,1,1,80029,10,17810.473
+9011,Cptm Jaraguá - City Jaraguá,1,0,80017,21,14591.392
+9012,Itaberaba - Term. Lapa,1,0,78454,10,9634.0137
+9012,Itaberaba - Term. Lapa,1,1,78455,10,10516.365
+9014,Morro Grande - Term. Lapa,1,0,64668,10,8348.1738
+9014,Morro Grande - Term. Lapa,1,1,64669,10,9790.251
+9014,Jd. Iracema - Term. Lapa,1,0,77981,42,8120.583
+9015,Vl. Zatt - Term. Pirituba,1,0,63861,10,4842.8213
+9015,Vl. Zatt - Term. Pirituba,1,1,54614,10,4439.3086
+9018,Vl. Mirante - Term. Pirituba,1,0,72894,10,2822.2585
+9018,Vl. Mirante - Term. Pirituba,1,1,72895,10,3560.075
+9019,Jd. Paulistano - Term. Pirituba,1,0,54164,10,5955.8638
+9019,Jd. Paulistano - Term. Pirituba,1,1,69455,10,7095.4507
+9020,Vl. Mirante - Term. Pirituba,1,0,79960,10,4898.5913
+9020,Vl. Mirante - Term. Pirituba,1,1,72905,10,6042.1313
+9023,Pq. De Taipas - Term. Pirituba,1,0,68760,10,11803.692
+9023,Pq. De Taipas - Term. Pirituba,1,1,79965,10,12107.093
+9032,Jd. Damasceno - Term. Cachoeirinha,1,0,78993,10,10259.394
+9032,Jd. Damasceno - Term. Cachoeirinha,1,1,78994,10,9860.8945
+9032,Jd. Damasceno - Term. Cachoeirinha,1,0,60281,21,5899.4141
+9047,Jd. Paulistano - Lapa,1,0,79943,10,12449.404
+9047,Jd. Paulistano - Lapa,1,1,79944,10,14872.765
+9050,Term. Lapa - Itaim Bibi,8,0,73096,10,23890.973
+9051,Lapa - Term. Pinheiros,8,0,60499,10,7464.8047
+9051,Lapa - Term. Pinheiros,8,1,60500,10,8789.4893
+908T,Term. Pq. D. Pedro Ii - Butantã,3,0,58460,10,26620.818
+9090,Pq. Tietê - Term. Casa Verde,1,0,80006,10,7752.0532
+9090,Pq. Tietê - Term. Casa Verde,1,1,54543,10,8103.1416
+909T,Term. Pinheiros - Term. Pq. D. Pedro Ii,8,0,64201,1,9895.582
+909T,Term. Pinheiros - Term. Pq. D. Pedro Ii,8,1,70883,1,10537.956
+909T,Term. Pinheiros - Term. Pq. D. Pedro Ii,8,0,57270,10,9895.582
+909T,Term. Pinheiros - Term. Pq. D. Pedro Ii,8,1,70882,10,10537.956
+9162,Vl. Penteado - Term. Casa Verde,1,0,58642,10,16566.857
+9166,Jd. Sta. Cruz - Term. Cachoeirinha,2,0,60653,10,7191.106
+917H,Term. Pirituba - Metrô Vl. Mariana,1,0,78369,10,25409.799
+917H,Term. Pirituba - Metrô Vl. Mariana,1,1,78370,10,26026.871
+917M,Morro Grande - Metrô Ana Rosa,1,0,71762,10,19608.406
+917M,Morro Grande - Metrô Ana Rosa,1,1,71763,10,22422.482
+917M,Morro Grande - Metrô Ana Rosa,1,0,54360,31,21279.178
+917M,Morro Grande - Metrô Ana Rosa,1,1,72340,31,23979.705
+9181,Vl. Terezinha - Lapa,1,0,71292,10,11690.882
+9181,Vl. Terezinha - Lapa,1,1,71293,10,11452.907
+9188,Capela Da Lagoa  - Lapa,1,0,79599,10,14812.995
+9188,Capela Da Lagoa  - Lapa,1,1,79600,10,15535.767
+9188,Capela Da Lagoa - Lapa,1,0,78524,42,14130.742
+9188,Capela Da Lagoa - Lapa,1,1,79708,42,15622.231
+9191,Jd. Elisa Maria - Bom Retiro,1,0,72240,10,19356.064
+9191,Jd. Elisa Maria - Bom Retiro,1,1,72241,10,20175.475
+9191,Metrô Barra Funda - Bom Retiro,1,0,63335,21,5649.4829
+9191,Metrô Barra Funda - Bom Retiro,1,1,63334,21,5649.5425
+9300,Term. Casa Verde - Term. Pq. D. Pedro Ii,2,0,80426,10,12490.064
+9300,Term. Casa Verde - Term. Pq. D. Pedro Ii,2,1,71705,10,10602.939
+9301,Term. Casa Verde - Pça. Do Correio,1,0,79484,10,8341.9248
+9301,Term. Casa Verde - Pça. Do Correio,1,1,79485,10,9203.2529
+930P,Term. Pq. D. Pedro Ii - Term. Pinheiros,3,0,57027,10,12176.905
+930P,Term. Pq. D. Pedro Ii - Term. Pinheiros,3,1,57028,10,11223.039
+9354,Term. Cachoeirinha - Pça. Do Correio,2,0,69972,10,14043.805
+9354,Term. Cachoeirinha - Pça. Do Correio,2,1,69973,10,15498.784
+938C,Cohab Taipas - Term. Princ. Isabel,1,0,71436,10,21844.766
+938C,Cohab Taipas - Term. Princ. Isabel,1,1,79711,10,19904.98
+938L,Term. Cachoeirinha - Lapa,1,0,56523,10,7488.0171
+938L,Term. Cachoeirinha - Lapa,1,1,56524,10,7173.4502
+938P,Jd. Tereza - Metrô Barra Funda,1,0,78637,10,15846.546
+938P,Jd. Tereza - Metrô Barra Funda,1,1,78514,10,14373.886
+938V,Jd. Vista Alegre - Metrô Barra Funda,1,0,78783,10,19065.25
+938V,Jd. Vista Alegre - Metrô Barra Funda,1,1,78534,10,19269.607
+948A,Vl. Zatt - Metrô Barra Funda,1,0,72259,10,15058.234
+948A,Vl. Zatt - Metrô Barra Funda,1,1,72260,10,14201.04
+9500,Term. Cachoeirinha - Pça. Do Correio,1,0,60889,10,11589.96
+9500,Term. Cachoeirinha - Pça. Do Correio,1,1,60890,10,11953.599
+9501,Term. Cachoeirinha - Lgo. Do Paissandú,1,0,60899,10,12420.426
+9501,Term. Cachoeirinha - Lgo. Do Paissandú,1,1,60900,10,12408.561
+957T,Cohab Taipas - Vl. Olímpia,1,0,72268,10,32804.574
+957T,Cohab Taipas - Vl. Olímpia,1,1,69520,10,34656.285
+958P,Jd. Nardini - Vl. Olímpia,1,0,72269,10,30614.184
+958P,Jd. Nardini - Vl. Olímpia,1,1,72270,10,28009.453
+9653,Pedra Branca - Pça. Do Correio,1,0,71187,10,19625.307
+9653,Pedra Branca - Pça. Do Correio,1,1,72412,10,18571.711
+967A,Imirim - Pinheiros,2,0,80569,10,21406.471
+967A,Imirim - Pinheiros,2,1,80433,10,22824.982
+9701,Cem. Cachoeirinha - Metrô Barra Funda,2,0,79766,10,16770.152
+9717,Jd. Almanara - Metrô Santana,1,0,68804,10,17062.955
+9717,Jd. Almanara - Metrô Santana,1,1,68805,10,16758.152
+971A,Jd. Primavera - Shop. D,2,0,69931,10,13631.161
+971A,Jd. Primavera - Shop. D,2,1,69932,10,13579.279
+971C,Cohab Brasilândia - Metrô Santana,2,0,71708,10,18476.51
+971C,Cohab Brasilândia - Metrô Santana,2,1,62254,10,18169.756
+971D,Jd. Damasceno - Shop. Center Norte,2,0,72660,10,20374.559
+971D,Jd. Damasceno - Shop. Center Norte,2,1,72661,10,19749.383
+971M,Vl. Penteado - Metrô Santana,2,0,69970,10,13360.531
+971M,Vl. Penteado - Metrô Santana,2,1,69971,10,15401.374
+971R,Cptm Jaraguá - Metrô Santana,2,0,55234,10,18528.574
+971R,Cptm Jaraguá - Metrô Santana,2,1,55235,10,18910.928
+971R,Jd. Damasceno - Metrô Santana,2,0,52698,21,11500.691
+971R,Cdhu Voith - Metrô Santana,2,0,55236,42,19270.229
+971R,Cdhu Voith - Metrô Santana,2,1,71974,42,19386.379
+971R,Chica Luisa - Metrô Santana,2,0,52693,51,20656.652
+971T,Vl. Sta. Maria - Metrô Santana,2,0,69939,10,7869.9814
+971T,Vl. Sta. Maria - Metrô Santana,2,1,69940,10,9315.0469
+971V,Jd. Vista Alegre - Shop. Center Norte,2,0,69943,10,19294.037
+971V,Jd. Vista Alegre - Shop. Center Norte,2,1,69942,10,18069.273
+971X,Term. Cachoeirinha - Metrô Santana,2,0,69926,10,7036.5757
+971X,Term. Cachoeirinha - Metrô Santana,2,1,69925,10,8260.1826
+975A,Vl. Brasilândia - Metrô Ana Rosa,1,0,59905,10,20472.143
+975A,Vl. Brasilândia - Metrô Ana Rosa,1,1,58259,10,22322.629
+9784,Jd. Dos Francos - Metrô Barra Funda,1,0,71225,10,12892.379
+9784,Jd. Dos Francos - Metrô Barra Funda,1,1,71226,10,13495.111
+9785,Vl. Terezinha - Metrô Barra Funda,1,0,68767,10,14860.431
+9785,Vl. Terezinha - Metrô Barra Funda,1,1,72390,10,14608.208
+9785,Jd. Carombé - Term. Cachoeirinha,1,0,55088,51,6756.9717
+9789,Jd. Paulistano - Metrô Barra Funda,1,0,78535,10,12908.423
+9789,Jd. Paulistano - Metrô Barra Funda,1,1,78528,10,14217.72
+978A,Term. Cachoeirinha - Metrô Barra Funda,1,0,53877,10,8318.9473
+978A,Term. Cachoeirinha - Metrô Barra Funda,1,1,58884,10,8954.6436
+978J,Voith - Term. Princ. Isabel,1,0,71437,10,23135.516
+978J,Voith - Term. Princ. Isabel,1,1,73166,10,22398.861
+978L,Term. Cachoeirinha - Term. Princ. Isabel,1,0,80435,10,13053.845
+978L,Term. Cachoeirinha - Term. Princ. Isabel,1,1,53873,10,13445.665
+978T,Jd. Guarani - Metrô Barra Funda,1,0,78504,10,17492.754
+978T,Jd. Guarani - Metrô Barra Funda,1,1,79601,10,16709.027
+N101,Term. Lapa - Term. Pq. D. Pedro Ii,1,0,59666,11,10259.612
+N101,Term. Lapa - Term. Pq. D. Pedro Ii,1,1,70865,11,11192.665
+N102,Term. Lapa - Term. Pq. D. Pedro Ii,1,0,68798,11,10741.444
+N102,Term. Lapa - Term. Pq. D. Pedro Ii,1,1,52095,11,10065.936
+N103,Term. Pirituba - Term. Lapa,1,0,78361,11,7638.645
+N103,Term. Pirituba - Term. Lapa,1,1,78362,11,8184.6099
+N104,Term. Pirituba - Term. Lapa,1,0,78363,11,7165.4111
+N104,Term. Pirituba - Term. Lapa,1,1,78364,11,7267.395
+N105,Term. Cachoeirinha - Term. Lapa,1,0,71933,11,7049.3237
+N105,Term. Cachoeirinha - Term. Lapa,1,1,71934,11,7338.7578
+N106,Term. Pq. D. Pedro Ii - Metrô Barra Funda,1,0,57554,11,6926.0938
+N106,Term. Pq. D. Pedro Ii - Metrô Barra Funda,1,1,59087,11,8026.5928
+N131,Term. Lapa - Vl. Piauí,1,0,71935,11,20640.25
+N132,Term. Pirituba - Pq. São Domingos,1,0,52145,11,14424.797
+N133,Term. Pirituba - Cid. D’abril 3ª Gleba,1,0,59613,11,21095.709
+N134,Term. Cachoeirinha - Taipas,1,0,62601,11,17524.172
+N135,Term. Pirituba - Jd. Donária,1,0,60344,11,26277.607
+N136,Term. Lapa - Morro Doce,1,0,71938,11,40106.586
+N137,Term. Pirituba - Perus,1,0,80212,11,48424.332
+N138,Term. Cachoeirinha - Jd. Princesa,1,0,59609,11,14978.573
+N139,Term. Pirituba - Jd. Paulistano,1,0,80240,11,12905.993
+N140,Term. Pirituba - Vl. Mirante,1,0,69458,11,9481.335
+N141,Term. Cachoeirinha - Jd. Carombé,1,0,61300,11,16497.859
+N142,Term. Pirituba - Term. Casa Verde,1,0,78354,11,29439.502
+N143,Metrô Barra Funda - Morro Grande,1,0,79099,11,25391.531
+N201,Metrô Tucuruvi - Term. Pq. D. Pedro Ii,2,0,64918,11,18017.211
+N201,Metrô Tucuruvi - Term. Pq. D. Pedro Ii,2,1,64919,11,18490.104
+N202,Metrô Santana - Term. Pinheiros,2,0,61046,11,13114.414
+N202,Metrô Santana - Term. Pinheiros,2,1,61019,11,13575.893
+N203,Metrô Tucuruvi - Term. Pq. D. Pedro Ii,2,0,64920,11,10892.934
+N203,Metrô Tucuruvi - Term. Pq. D. Pedro Ii,2,1,80419,11,11852.893
+N204,Metrô Tucuruvi - Term. Pq. D. Pedro Ii,2,0,68330,11,14662.389
+N204,Metrô Tucuruvi - Term. Pq. D. Pedro Ii,2,1,68331,11,15598.175
+N205,Term. Cachoeirinha - Term. Pinheiros,2,0,78196,11,14388.705
+N205,Term. Cachoeirinha - Term. Pinheiros,2,1,78197,11,14849.678
+N206,Metrô Santana - Metrô Vl. Madalena,2,0,61376,11,18769.502
+N206,Metrô Santana - Metrô Vl. Madalena,2,1,78749,11,21124.557
+N207,Term. Casa Verde - Term. Pq. D. Pedro Ii,2,0,59656,11,11359.481
+N207,Term. Casa Verde - Term. Pq. D. Pedro Ii,2,1,59657,11,11101.039
+N209,Term. Cachoeirinha - Metrô Santana,2,0,65307,11,7229.7173
+N209,Term. Cachoeirinha - Metrô Santana,2,1,65308,11,8640.7227
+N231,Term. Cachoeirinha - Pedra Branca,2,0,63140,11,20870.77
+N232,Metrô Tucuruvi - Pq. Novo Mundo,2,0,65268,11,21352.727
+N233,Metrô Santana - Vl. Sabrina,2,0,68837,11,24702.811
+N234,Metrô Tucuruvi - Lgo. Do Pery,2,0,65281,11,28107.859
+N235,Metrô Santana - Pedra Branca,2,0,71132,11,19596.092
+N236,Metrô Santana - Jd. Antártica,2,0,61032,11,20558.6
+N237,Metrô Tucuruvi - Pq. Edu Chaves,2,0,52321,11,14137.255
+N238,Metrô Santana - Cem. Pq. Dos Pinheiros,2,0,62513,11,26507.969
+N239,Metrô Tucuruvi - Vl. Nova Galvão,2,0,72919,11,14008.44
+N240,Metrô Santana    - Cachoeira,2,0,59592,11,31306.43
+N241,Metrô Santana - Vl. Albertina,2,0,52341,11,17453.34
+N242,Metrô Santana    - Jd. Campo Limpo,2,0,59593,11,25636.66
+N243,Metrô Santana - Jd. Brasil,2,0,52352,11,16629.441
+N244,Metrô Tucuruvi - Jd. Flor De Maio,2,0,65255,11,21250.484
+N245,Metrô Santana - Jd. Pery Alto,2,0,61028,11,18658.453
+N301,Term. A. E. Carvalho - Term. Pq. D. Pedro Ii,3,0,69199,11,19454.029
+N301,Term. A. E. Carvalho - Term. Pq. D. Pedro Ii,3,1,63534,11,19103.916
+N302,Term. A. E. Carvalho - Term. Pq. D. Pedro Ii,3,0,73006,11,29783.014
+N302,Term. A. E. Carvalho - Term. Pq. D. Pedro Ii,3,1,70868,11,28827.645
+N303,Term. A. E. Carvalho - Term. Aricanduva,3,0,79024,11,12879.285
+N303,Term. A. E. Carvalho - Term. Aricanduva,3,1,79025,11,13564.326
+N304,Term. São Miguel - Term. Aricanduva,3,0,58243,11,15514.979
+N304,Term. São Miguel - Term. Aricanduva,3,1,58244,11,16586.486
+N305,Term. São Miguel - Cptm Guaianazes,3,0,52230,11,10630.096
+N305,Term. São Miguel - Cptm Guaianazes,3,1,52231,11,9083.2666
+N306,Term. São Miguel - Metrô Itaquera,3,0,80265,11,10102.412
+N306,Term. São Miguel - Metrô Itaquera,3,1,70152,11,10244.37
+N307,Term. Pq. D. Pedro Ii - Term. Pinheiros,3,0,57666,11,12380.906
+N307,Term. Pq. D. Pedro Ii - Term. Pinheiros,3,1,57667,11,11223.039
+N308,Metrô Itaquera - Term. Pq. D. Pedro Ii,3,0,63535,11,20012.018
+N308,Metrô Itaquera - Term. Pq. D. Pedro Ii,3,1,63536,11,19141.762
+N331,Term. A. E. Carvalho - Oliveirinha,3,0,70132,11,41857.348
+N332,Term. A. E. Carvalho - Vl. Cisper (cptm Usp),4,0,59452,11,21971.725
+N333,Term. São Miguel - Cid. Kemel,3,0,61387,11,23675.699
+N334,Term. A. E. Carvalho - Cptm Guaianazes,3,0,79107,11,36943.902
+N335,Term. Penha - Ermelino Matarazzo,3,0,70172,11,25224.191
+N336,Term. São Miguel - Jd. Camargo Velho,3,0,68633,11,20618.605
+N337,Term. São Miguel - Jd. Camargo Velho,3,0,68634,11,21457.557
+N339,Metrô Itaquera - Artur Alvim,3,0,80269,11,17391.691
+N340,Metrô Itaquera - Jd. Sto. Antônio,3,0,80270,11,17506.225
+N341,Term. São Miguel - Vl. Cisper (cptm Usp),3,0,52349,11,19140.244
+N342,Term. Penha     - Jd. Danfer,3,0,69201,11,21375.111
+N343,Term. A. E. Carvalho - Metrô Itaquera,3,0,80271,11,18383.734
+N344,Term. Penha - Vl. Cisper,4,0,63754,11,21976.811
+N401,Term. Vl. Carrão - Term. Pq. D. Pedro Ii,3,0,69810,11,15624.184
+N401,Term. Vl. Carrão - Term. Pq. D. Pedro Ii,3,1,80688,11,14819.657
+N402,Metrô Itaquera - Term. Vl. Carrão,4,0,79862,11,12541.258
+N402,Metrô Itaquera - Term. Vl. Carrão,4,1,79863,11,12190.016
+N403,Term. Cid. Tiradentes - Metrô Itaquera,4,0,69938,11,15725.893
+N403,Term. Cid. Tiradentes - Metrô Itaquera,4,1,62036,11,16255.836
+N404,Term. São Mateus - Term. Penha,3,0,79866,11,16498.609
+N404,Term. São Mateus - Term. Penha,3,1,79867,11,16725.938
+N405,Term. Vl. Carrão - Metrô Itaquera,4,0,79864,11,9252.5146
+N405,Term. Vl. Carrão - Metrô Itaquera,4,1,79865,11,9680.2402
+N406,Term. Cid. Tiradentes - Term. São Mateus,4,0,52234,11,9743.9678
+N406,Term. Cid. Tiradentes - Term. São Mateus,4,1,52235,11,10071.65
+N407,Term. Vl. Carrão - Metrô Belém,4,0,79872,11,9884.1855
+N407,Term. Vl. Carrão - Metrô Belém,4,1,79873,11,10328.073
+N431,Term. São Mateus - Jd. Limoeiro,4,0,71462,11,25307.246
+N432,Term. São Mateus - Jd. Sto. André,4,0,80363,11,18672.936
+N433,Term. Vl. Carrão - Metrô Belém,4,0,79883,11,11724.037
+N433,Term. Vl. Carrão - Metrô Belém,4,1,79884,11,12476.945
+N434,Term. Vl. Carrão - Jd. Iv Centenário,4,0,52251,11,27347.59
+N435,Term. Cid. Tiradentes - Metalúrgicos,4,0,72997,11,9394.9482
+N436,Term. Cid. Tiradentes - Barro Branco,4,0,52254,11,9127.5146
+N437,Cptm Guaianazes - Term. Cid. Tiradentes,4,0,52256,11,23284.018
+N438,Metrô Itaquera - Hosp. Sta. Marcelina,4,0,62074,11,24616.639
+N439,Metrô Itaquera - Cohab Fazenda Do Carmo,4,0,80245,11,29571.502
+N440,Term. Vl. Carrão - Savoy/dalila,4,0,79878,11,21102.326
+N441,Term. Cid. Tiradentes - Vl. Yolanda,4,0,58079,11,19073.025
+N501,Term. São Mateus - Term. Pq. D. Pedro Ii,5,0,69380,11,22457.129
+N501,Term. São Mateus - Term. Pq. D. Pedro Ii,5,1,69381,11,21161.266
+N502,Term. Sacomã - Term. Pq. D. Pedro Ii,5,0,58004,11,9403.6777
+N502,Term. Sacomã - Term. Pq. D. Pedro Ii,5,1,63212,11,8249.8789
+N503,Term. São Mateus - Term. Pq. D. Pedro Ii,5,0,60365,11,22902.969
+N503,Term. São Mateus - Term. Pq. D. Pedro Ii,5,1,80416,11,22209.934
+N504,Term. Vl. Prudente - Term. Pq. D. Pedro Ii,5,0,80093,11,11480.372
+N504,Term. Vl. Prudente - Term. Pq. D. Pedro Ii,5,1,80094,11,10194.806
+N505,Term. Sacomã - Term. Pinheiros,5,0,70349,11,14675.18
+N505,Term. Sacomã - Term. Pinheiros,5,1,70351,11,15488.758
+N506,Term. Sacomã - Metrô Vl. Madalena,5,0,52110,11,14634.159
+N506,Term. Sacomã - Metrô Vl. Madalena,5,1,52111,11,14935.462
+N507,Term. Vl. Prudente - Metrô Santana,5,0,69892,11,21709.152
+N507,Term. Vl. Prudente - Metrô Santana,5,1,69893,11,20733.404
+N508,Term. Sacomã - Term. Pq. D. Pedro Ii,5,0,52165,11,9682.9541
+N508,Term. Sacomã - Term. Pq. D. Pedro Ii,5,1,52166,11,10864.747
+N531,Term. Sapopemba - Term. Vl. Prudente,5,0,70785,11,31181.607
+N532,Term. Sapopemba - Hosp. São Mateus,5,0,70808,11,11178.019
+N533,Term. Vl. Prudente - Jd. Planalto,5,0,70774,11,31520.389
+N534,Term. Sacomã - Vl. Arapuá,5,0,68303,11,20300.045
+N535,Term. Sacomã - Jd. Celeste,5,0,79183,11,26969.672
+N536,Term. Sacomã - Jd. Itápolis,5,0,69426,11,41486.402
+N537,Metrô Vl. Mariana - Term. Vl. Prudente,5,0,69484,11,22019.096
+N538,Term. Sacomã - Jd. Celeste,5,0,61170,11,20149.053
+N539,Term. Sacomã - Hosp. Heliópolis,5,0,57587,11,5943.8662
+N540,Term. Sapopemba - Jd. São Roberto,5,0,70786,11,8964.1963
+N601,Term. Grajaú - Term. Pq. D. Pedro Ii,6,0,51982,11,25527.783
+N601,Term. Grajaú - Term. Pq. D. Pedro Ii,6,1,80183,11,28962.686
+N602,Term. Grajaú - Term. Sto. Amaro,6,0,69474,11,23717.799
+N603,Metrô Jabaquara - Term. Pinheiros,6,0,59878,11,24439.602
+N603,Metrô Jabaquara - Term. Pinheiros,6,1,59138,11,24692.494
+N604,Metrô Jabaquara - Term. Pq. D. Pedro Ii,6,0,70404,11,13169.098
+N604,Metrô Jabaquara - Term. Pq. D. Pedro Ii,6,1,70403,11,12730.851
+N631,Term. Grajaú - Term. Sto. Amaro,6,0,62188,11,12269.628
+N631,Term. Grajaú - Term. Sto. Amaro,6,1,70244,11,13001.721
+N632,Term. Grajaú - Term. Sto. Amaro,6,0,62190,11,12564.712
+N632,Term. Grajaú - Term. Sto. Amaro,6,1,62570,11,11970.571
+N633,Metrô Jabaquara - Morumbi Shop.,6,0,61797,11,23954.871
+N634,Term. Sto. Amaro - Jd. Luso,6,0,63477,11,33960.703
+N635,Term. Grajaú - Jd. Gaivotas,6,0,79310,11,19308.959
+N636,Term. Grajaú - Jd. Noronha,6,0,73159,11,32883.27
+N637,Metrô Jabaquara - Vl. Missionária,6,0,72971,11,24226.326
+N638,Term. Grajaú - Unisa,6,0,73160,11,10792.59
+N639,Term. Grajaú - Vargem Grande,6,0,80483,11,41397.469
+N640,Term. Sto. Amaro - Eldorado,6,0,63431,11,32819.953
+N701,Term. Sto. Amaro - Term. Pq. D. Pedro Ii,7,0,68983,11,17478.955
+N701,Term. Sto. Amaro - Term. Pq. D. Pedro Ii,7,1,68984,11,19384.355
+N702,Term. Sto. Amaro - Term. Pq. D. Pedro Ii,7,0,80149,11,16431.729
+N702,Term. Sto. Amaro - Term. Pq. D. Pedro Ii,7,1,62320,11,17879.096
+N703,Term. Jd. âNgela - Term. Sto. Amaro,7,0,63383,11,10492.671
+N703,Term. Jd. âNgela - Term. Sto. Amaro,7,1,63384,11,10233.205
+N704,Term. Capelinha - Term. Sto. Amaro,7,0,63385,11,10198.588
+N704,Term. Capelinha - Term. Sto. Amaro,7,1,63386,11,8618.502
+N705,Term. Sto. Amaro - Term. Pinheiros,7,0,63393,11,13336.634
+N705,Term. Sto. Amaro - Term. Pinheiros,7,1,80084,11,15574.84
+N706,Term. Campo Limpo - Term. Pinheiros,7,0,57518,11,13511.679
+N706,Term. Campo Limpo - Term. Pinheiros,7,1,68397,11,14403.624
+N731,Term. Capelinha - Term. Sto. Amaro,7,0,62242,11,9429.2949
+N731,Term. Capelinha - Term. Sto. Amaro,7,1,70948,11,11762.752
+N732,Term. Jd. âNgela - Term. Jd. Jacira,7,0,51990,11,18263.955
+N733,Term. Jd. âNgela - Vl. Gilda,7,0,79247,11,20616.449
+N734,Term. Capelinha - Valo Velho,7,0,59619,11,14831.783
+N735,Term. Capelinha - Jd. Guarujá,7,0,61953,11,17031.271
+N736,Term. Jd. âNgela - Jd. Horizonte Azul,7,0,62540,11,17289.01
+N737,Term. Jd. âNgela - Pq. Do Lago,7,0,59768,11,12284.777
+N738,Term. Guarapiranga - Pq. Do Lago,7,0,80060,11,21596.904
+N739,Term. Capelinha - Jd. Universal,7,0,51954,11,15107.226
+N740,Term. Jd. âNgela - Jd. Riviera,7,0,80061,11,16718.76
+N741,Term. Capelinha - Valo Velho,7,0,59616,11,12884.837
+N742,Term. João Dias - Term. Pinheiros,7,0,62503,11,15334.532
+N742,Term. João Dias - Term. Pinheiros,7,1,62504,11,19259.307
+N743,Term. João Dias - Jd. Planalto,7,0,78862,11,24082.605
+N744,Term. João Dias - Jd. Vaz De Lima,7,0,80341,11,13515.041
+N745,Term. Capelinha - Term. Campo Limpo,7,0,59621,11,6778.5737
+N745,Term. Capelinha - Term. Campo Limpo,7,1,59622,11,7397.9468
+N746,Term. Campo Limpo - Jd. Irene,7,0,59154,11,16009.11
+N801,Metrô Butantã - Term. Pq. D. Pedro Ii,8,0,64004,11,10618.909
+N801,Metrô Butantã - Term. Pq. D. Pedro Ii,8,1,70876,11,11456.068
+N802,Term. Pinheiros - Term. Pq. D. Pedro Ii,8,0,60285,11,11017.897
+N802,Term. Pinheiros - Term. Pq. D. Pedro Ii,8,1,60286,11,10874.485
+N831,Term. Lapa - Pq. Da Lapa,8,0,71906,11,15604.368
+N832,Term. Lapa - Pq. Continental,8,0,73021,11,25268.672
+N833,Term. Pinheiros - Ceasa,8,0,59560,11,18285.291
+N834,Term. Lapa - Term. Pinheiros,8,0,71907,11,18904.25
+N835,Term. Pinheiros - Jd. João Xxiii,8,0,61954,11,30598.824
+N836,Term. Pinheiros - Pq. Continental,8,0,73022,11,37689.828
+N837,Term. João Dias - Cdhu Butantã,8,0,62534,11,22891.102
+N838,Metrô Vl. Madalena - Est. Leopoldina,8,0,52072,11,12850.745
+N839,Metrô Butantã - Metrô Vl. Mariana,8,0,63767,11,24595.559
+N840,Term. Vl. Mariana - Sta. Cecília,8,0,79253,11,18574.658
+N841,Term. Vl. Mariana - Sta. Cecília,8,0,68304,11,15825.3
+N842,Term. Pinheiros - Cohab Raposo Tavares,8,0,80756,11,50210.223
+N843,Term. Capelinha - Pq. Arariba,8,0,62557,11,24344.842
