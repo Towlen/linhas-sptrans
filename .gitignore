@@ -1,1 +1,2 @@
 data/gtfs_data/*
+!data/gtfs_data/
